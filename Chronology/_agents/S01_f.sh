@@ -1,0 +1,1 @@
+python3 S01_ron.py $1 $2 2>/dev/null | cut -c1-230 | grep -v '^\s*$' | grep -viE 'IMPORTANT: This|information that is confidential|privilege. If|disclosure, dissem|information is prohibited|error please notify|transmission together|e-mail\.$|Dome Cafe|Jull Street|forwardfocusedgroup|Registered NDIS|OUR FOCUS|FOCUSED|^[0-9]{3}$'

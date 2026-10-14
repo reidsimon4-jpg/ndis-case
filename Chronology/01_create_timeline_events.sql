@@ -1,0 +1,14 @@
+create table if not exists public.timeline_events (
+  id bigserial primary key,
+  event_date date not null,
+  date_precision text not null default 'day',
+  event text not null,
+  category text,
+  entity text,
+  status text check (status in ('fact','allegation','contention','simon_position','unverified')),
+  source_ref text,
+  notes text,
+  created_at timestamptz default now()
+);
+alter table public.timeline_events enable row level security;
+create index if not exists timeline_events_date_idx on public.timeline_events(event_date);

@@ -1,0 +1,330 @@
+# Applicants’ outline of submissions
+
+**Federal Court of Australia — Western Australia District Registry**  
+**Simon Reid and Vida Reid v Commissioner of the NDIS Quality and Safeguards Commission**
+
+## A. Overview
+
+1. This case concerns the legal boundary Parliament placed on a coercive instrument carrying grave consequences. It is not a merits appeal and does not ask the Court to decide whether either Applicant should be permitted every form of participation in the NDIS.
+
+2. Section 73ZN(2) of the *National Disability Insurance Scheme Act 2013* (Cth), as it stood in December 2022 and April 2023, authorised the Respondent to prohibit or restrict a person **from engaging in specified activities** if a statutory condition was satisfied.
+
+3. The operative orders made on review on 21 April 2023 do something materially different. Each prohibits the Applicant from having:
+
+> any involvement with or in the NDIS sector, in any capacity
+
+and expressly extends to direct or indirect supports, labour hire, and “support, funding, guidance or assistance of any form” to an NDIS provider. The list is introduced by “includes” and is therefore not exhaustive.
+
+4. In *Sunflower Care Services Pty Ltd v Commissioner of the NDIS Quality and Safeguards Commission (No 2)* [2025] FCA 1442, this Court held that materially narrower “directly or indirectly involved” wording was not authorised by s 73ZN(2). The statutory nexus is the named person’s engagement in specified activities. A banning order with serious consequences must state the prohibited conduct clearly enough to be understood and obeyed: *Sunflower* at [127]–[141].
+
+5. That conclusion disposes of the varied instruments. Their breadth cannot be cured by the three examples because the chapeau governs them and the inclusive list does not state the whole prohibition. That is the same answer given to attempted curative examples in *Sunflower* at [135]–[141].
+
+6. The review reasons reveal a related substantive error. They do not construct an activity-specific path between each Applicant’s own attributes or conduct, the risk created if that Applicant performs each prohibited activity, why narrower conditions cannot adequately mitigate the risk, and why the chosen breadth and duration are required. *Sunflower* identifies those connected elements at [180]–[191] and held a similarly disconnected decision legally unreasonable at [202]–[209].
+
+7. The individual grounds are then different:
+
+    a. Vida’s original order is also facially invalid because it prohibits provision of supports and services “directly or indirectly”. On review, the decisive statutory basis changed from s 73ZN(2)(a)(i) to (iii) without fair notice, and submissions directed to the original contravention case were then treated as largely unnecessary.
+
+    b. Simon’s investigation record admitted that the Commission had limited information about his actual operational involvement. The later decisions bridged that admitted gap by corporate position, signatory status, likely benefit and, expressly on review, attribution of corporate and worker wrongdoing. Those matters did not relieve the decision-maker of forming the statutory belief on objectively reasonable, personal and activity-specific grounds.
+
+8. The Applicants seek quashing and declaratory relief, expedition and appropriate consequential restraint. They accept that a lawful decision-maker may, after a fair process, make whatever decision the Act authorises. They do not seek immunity from regulation.
+
+## B. Questions for determination
+
+9. The principal questions are:
+
+    a. Do the 21 April 2023 instruments answer the statutory description of orders prohibiting or restricting the Applicants from engaging in specified activities?
+
+    b. Does Vida’s original “directly or indirectly” order answer that description?
+
+    c. Did each review decision misconstrue the statutory task or act legally unreasonably by failing to make the activity-specific, personal and risk-responsive assessment required by the Act?
+
+    d. Was Vida denied procedural fairness concerning the decisive change from paragraph (i) to paragraph (iii), and was that denial material?
+
+    e. Did the Simon decision-makers substitute corporate attribution for the objectively reasonable personal basis required by paragraph (iii)?
+
+    f. Should relief be refused or deferred because of delay or the ongoing ART proceedings?
+
+## C. Jurisdiction and procedural vehicle
+
+10. The Respondent and relevant delegates are officers of the Commonwealth. The proceeding seeks relief against an officer of the Commonwealth and arises under a law made by the Parliament. Jurisdiction is conferred by s 39B(1) and (1A)(c) of the *Judiciary Act 1903* (Cth).
+
+11. The Court may grant declarations and complete consequential relief under ss 21–23 of the *Federal Court of Australia Act 1976* (Cth). The application is made in Form 69 under r 31.11 of the *Federal Court Rules 2011*.
+
+12. The Applicants do not presently rely on the *Administrative Decisions (Judicial Review) Act 1977* (Cth). The absence of its 28-day procedural route does not remove the Court’s s 39B jurisdiction. Delay remains relevant to discretion and is addressed below.
+
+## D. Proper construction of s 73ZN(2)
+
+13. The language in s 73ZN(2) assigns distinct work to:
+
+    a. the person who is the subject of the order;
+
+    b. the statutory condition concerning that person; and
+
+    c. the specified activities in which that person is prohibited or restricted from engaging.
+
+14. As *Sunflower* explains at [127]–[128], the power concerns the person’s direct engagement in specified activities. It does not authorise a prohibition expressed simply as indirect involvement. Indirect subject matter may be reached only by identifying a concrete activity and prohibiting the person from engaging in that activity.
+
+15. That construction is reinforced by the order’s legal consequences. The person must know exactly what conduct is permitted and prohibited. An instrument with uncertain, ambiguous or competing boundaries is not reasonably capable of obedience and is not an order authorised by s 73ZN: *Sunflower* at [129]–[131].
+
+16. Section 73ZN(3), which allowed an order of general or limited application, did not remove the requirement to specify the activities. “General application” concerns the reach of an otherwise valid order; it does not authorise expulsion from a sector by an undefined relational formula.
+
+16A. Parliament amended s 73ZN with effect from 9 April 2026 by adding new subsections (2B)–(2C). The new provisions expressly reach, among others, persons involved in providing services that “enable or facilitate” the provision of supports or services for people with disability. That later amendment is not relied on to alter the meaning of the law in 2023. It confirms, however, that the current Act contains an express route for certain facilitative services which the 2023 decision-makers did not possess or invoke.
+
+16B. Nothing in the 2026 amending Act identified in this review retrospectively validates a 2023 instrument or converts an order beyond the former s 73ZN(2) into a valid one. The challenged decisions must be judged under the law in force when they were made. A fresh prospective decision under the current Act would require satisfaction of the current statutory preconditions, procedural fairness and a new lawful instrument.
+
+## E. The common facial-invalidity ground
+
+17. The April 2023 chapeau — “any involvement with or in the NDIS sector, in any capacity” — identifies neither an activity nor a closed class of activities. It regulates a relationship with an entire sector.
+
+18. Each purported clarification compounds the defect:
+
+    a. “directly or indirectly” is the statutory category error identified in *Sunflower*;
+
+    b. “support, funding, guidance or assistance of any form” has no stated outer boundary and may capture ordinary commercial, familial, professional or informational conduct; and
+
+    c. “includes” leaves additional prohibited conduct unstated.
+
+19. The subject cannot tell whether, for example, ordinary employment by a non-provider supplying a provider, family assistance, a loan, general business advice, passive shareholding, renting premises, or introducing a worker is within the unstated residue of “any involvement”. That uncertainty is not cured by reading the reasons. The written coercive instrument must itself be an authorised order capable of obedience.
+
+20. In *Sunflower*, examples did not save a varied instrument because the primary expression remained impermissibly broad and the examples created competing boundaries: [135]–[141]. The same reasoning applies more strongly here.
+
+21. Both April 2023 orders should therefore be declared invalid and set aside in full. Severing individual examples would not cure the chapeau or define the non-exhaustive residue.
+
+## F. The activity-specific rational connection
+
+22. Suitability under paragraph (iii) is not an at-large judgment about whether a person belongs in the NDIS sector. It remains connected to the activities prohibited and the protective purpose of the power.
+
+23. *Sunflower* identifies the necessary statutory and rational connection between:
+
+    a. the specified activities posing risk;
+
+    b. the individual attributes creating that risk if the person engages in those activities;
+
+    c. why the risk is unacceptable and cannot adequately be mitigated by another regulatory response; and
+
+    d. the scope, conditions and duration selected: at [180]–[191].
+
+24. The distinction is practical, not semantic. Evidence concerning financial control, executive governance or provider management may justify consideration of a targeted restriction on those activities. It does not, without more, justify direct-support, labour-hire, passive assistance and every other form of sector involvement.
+
+25. The reasons here move from generalised suitability conclusions to universal prohibitions. They do not expose the required bridge for each stated capacity or the undefined residue. The decisions thereby misconstrued the power and lack an evident and intelligible justification in the sense discussed in *Minister for Immigration and Citizenship v Li* [2013] HCA 18 at [76].
+
+26. Duration reveals the same disconnection. Simon’s review reasons tied five years to the expected conclusion of regulatory and legal processes. Vida’s review reasons tied it to expected criminal-process duration. The task was to select a duration justified by protective need and the risk that could not otherwise be mitigated. The existence or likely length of an external process could be relevant evidence, but could not replace that assessment.
+
+## G. Vida — original order
+
+27. Vida’s original order, made under paragraph (i), prohibited providing supports and services “directly or indirectly”. *Sunflower* at [132]–[134] holds that this is not the nexus Parliament enacted and is unclear.
+
+28. The express exceptions concerning Vida and her son do not cure the basic defect. They identify limited permitted conduct within an otherwise invalidly defined prohibition.
+
+29. The original instrument should be set aside so that it cannot revive if the April 2023 variation is quashed.
+
+## H. Vida — procedural fairness on review
+
+30. The original decision’s decisive statutory condition was s 73ZN(2)(a)(i), concerning contravention. The review decision instead proceeded under paragraph (iii), concerning whether Vida was suitable to be involved in provision of supports or services.
+
+31. The reviewer had a broad power to re-exercise the function. *Sunflower* at [222] and [225]–[231] means the complaint cannot be put merely as absence of power to change the statutory basis. The error is that the decisive new case was adopted without fair notice and a meaningful opportunity to meet it.
+
+32. The 22 March 2023 letter disclosed Dream Big information and a possible broadening of wording. It did not disclose that:
+
+    a. paragraph (i) would be displaced by paragraph (iii);
+
+    b. a general personal-suitability case would become dispositive;
+
+    c. detailed submissions responding to alleged contraventions would then be treated as unnecessary or not conducive to decision; or
+
+    d. a stated usual practice would be applied unless a compelling reason to depart from it was supplied.
+
+32A. The practical consequence appears on the face of the reasons. At paragraph 41, the reviewer said that detailed examination of the contravention submissions was not necessary or conducive because she approached the review through suitability. At paragraph 46, she nevertheless stated that the administrative decision required satisfaction on the balance of probabilities that Vida had engaged in the alleged conduct, and stated that she was so satisfied. The complaint is not merely that every submission was not mentioned. It is that the undisclosed change of frame determined which responsive case received detailed examination while the reviewer retained an affirmative adverse finding on the underlying conduct.
+
+33. A person may know the underlying facts and possess the Act yet not know the critical issue on which the decision will turn. Fairness required identification of the new dispositive issue and an opportunity to address personal suitability, differentiated roles and activities, current risk, mitigation, conditions and duration.
+
+34. Vida’s affidavit identifies what she would have supplied. [INSERT A TWO-PARAGRAPH SUMMARY OF THE ACTUAL EVIDENCE AFTER AFFIDAVIT IS COMPLETED.] The Court need not decide that the omitted case would have succeeded. Materiality is established if the denial deprived her of a realistic possibility of a different outcome: *Nathanson v Minister for Home Affairs* [2022] HCA 26 at [1]–[2].
+
+35. The opportunity mattered not only to whether any order was made. It could realistically have affected the gateway, the activities specified, exceptions, conditions or duration. The denial was therefore material and jurisdictional.
+
+## I. Vida — stated usual practice
+
+36. At paragraphs 56–59, the reviewer referred to the Commission’s usual practice of using paragraph (iii) while criminal charges were pending and asked whether there was a compelling reason to diverge.
+
+37. A decision-maker may use a lawful policy as a guide, provided the statutory discretion remains genuinely open. The pleaded alternative is that the reasons disclose the opposite: the usual practice supplied the presumptive outcome and Vida bore an extra-statutory burden to show a compelling departure reason.
+
+38. Read with the undisclosed shift in statutory basis and the external-process duration, that reasoning supports an inference that the individual statutory judgment was not independently performed. The Court need not reach this alternative if the fairness and facial grounds succeed.
+
+## J. Simon — original and review decisions
+
+39. Simon’s original instrument is textually narrower than Vida’s and the April 2023 instruments. It prohibits Simon from providing disability supports and services. It is not attacked merely because it contains the word “providing”. Its vulnerability lies in the decision-making path.
+
+40. The pre-decision investigation record said the Commission had limited information about Simon's actual involvement in operations. The subsequent briefs relied centrally on position of authority, joint bank-signatory status and the proposition that he had likely benefited.
+
+40A. The Commission's Banning Order Policy drew a more exact personal line. It said key personnel would be unlikely to receive a banning order unless directly involved or unless they failed to take responsible steps in a way that significantly facilitated, contributed to or exacerbated the conduct. The policy is not the source of power, but it confirms that office alone was not the Commission's stated culpability test.
+
+41. Those matters can support investigation and inference. But paragraph (iii) conditioned power on the Respondent’s reasonable belief about Simon’s suitability. A reasonable-belief condition requires facts and circumstances known to the decision-maker that constitute objectively reasonable grounds: *Prior v Mole* [2017] HCA 10 at [4].
+
+42. The question was not whether Simon was a director in a general corporate-law sense or whether director duties existed. It was whether the evidence reasonably established personal attributes or conduct that created unacceptable risk if he performed each prohibited activity, and why narrower controls would not mitigate it.
+
+43. The review reasons expose the substitution at paragraph 38:
+
+> It is appropriate to attribute liability to Mr Reid for the wrongdoing of the corporate entity he directs and the conduct of the workers employed or otherwise engaged by that company.
+
+43A. That conclusion followed material corrections. The reviewer held that conduct outside Simon's relevant responsibility periods could not reasonably or appropriately be attributed to him, corrected misattribution and double counting, and gave minimal weight to the approximately $1.485 million expired-plan figure because the Tactical Intelligence Report did not establish what proportion concerned services actually provided.
+
+44. The Act did not contain a deeming rule making a director personally unsuitable for all supports, services and sector involvement because a company or worker engaged in wrongdoing. Director duties may inform a personal omission case, but that requires findings as to the particular responsibility, knowledge or means of knowledge, capacity to act, failure, significant contribution and resulting activity-specific risk. The reason that Simon “should have been aware”, coupled with attributed liability, did not perform that work.
+
+45. The later Dream Big and Vitality findings were used as evidence of strategic or tactical circumvention. Even if accepted for present purposes, those findings concern corporate establishment, ownership or control. They do not justify, without the missing activity-specific analysis, a ban on direct support, labour hire, all funding or guidance, and every other capacity.
+
+46. The Court can decide that the reasoning was legally defective without resolving every contested fact in the Commission material. The applicants’ primary point is statutory: a corporate association case was treated as a universal personal-suitability case.
+
+### The Commission's own Dream Big investigation
+
+45A. The tender record makes the Dream Big chronology more exact. Simon lodged the ASIC application on 29 October 2022, before the notice of intention and the original order. The Commission then used s 56 to investigate whether Dream Big involved a breach of Simon's order. Dream Big's written response said Simon's role was lodging the form, denied an ongoing operational role, and identified other persons as the only bank signatories.
+
+45B. During the Commission's 9 March 2023 examination, Ms Fanny-Dulloo said Simon was not involved in FFG, his Dream Big assistance was limited to ASIC registration before he was banned, he had no access to Dream Big's email accounts, and he had no ongoing operational role. Those answers are part of the Respondent's tendered investigation record, not a new account from Simon.
+
+45C. The review reasons listed the ASIC application, Vitality email and Burke statement, but did not list the s 56 response or examination. They nevertheless said Simon's Dream Big involvement appeared to commence around the time of the order and treated the establishment of Dream Big as possible circumvention. The pre-order date and the contrary operational evidence expose a material factual and temporal mismatch.
+
+45D. The Applicants do not ask the Court to determine every Dream Big fact. The judicial-review point is that the reasons do not expose an intelligible path from pre-order incorporation assistance, in the face of the Commission's own contrary operational material, to attempted circumvention and an all-sector instrument. Whether the reviewer was legally required to consider T58 as a mandatory consideration should be pleaded only if the produced workflow record supports it.
+
+### The labour-hire email identifies a narrower activity
+
+46A. The record permits a more precise analysis than general corporate association. T65.1 contains an email which the reviewer treated as sent by Simon on 9 February 2023 to numerous recipients and as seeking disability support workers for Vitality. The document described Vitality as supplying support services to disability providers. The review notice of 22 March 2023 then proposed, expressly, to add a prohibition on providing labour hire workers to support NDIS providers. These propositions describe the administrative record and are not admissions by Simon.
+
+46B. The final reasons at [42](b) described Vitality as a labour-hire company and at [43] treated the email and the related entities as possible strategic or tactical circumvention requiring the order to be broadened. The resulting labour-hire limb was therefore not incidental wording; it was tailored to stop the activity evidenced by the email.
+
+46C. That point is double-edged and should be addressed candidly. It gave the reviewer personal evidence relevant to a possible labour-hire restriction, and the 22 March letter gave Simon notice of the proposed wording. The Applicants do not advance a Simon procedural-fairness ground based on absence of notice of that limb.
+
+46D. The point nevertheless supports the statutory case. The evidence identified one concrete activity and demonstrated the availability of a narrower order. It did not explain why Simon had to be prohibited from direct support, all sector involvement, funding, guidance and assistance of every form. Nor did the reasons explain how the recruitment email breached the original personal order, which prohibited providing disability supports and services to NDIS-funded participants. The email was instead treated as circumvention and used to enlarge the terms.
+
+46DA. That use of the email must be confined by *Sunflower* at [226]. A variation may regulate conduct prospectively if the statute authorises it, but it cannot retrospectively convert conduct permitted by the original instrument into a breach or use the mere lawfulness gap as proof of non-compliance. Here, Dream Big’s incorporation application pre-dated the original order and the Vitality email was sent while the original order contained no labour-hire or whole-sector prohibition. The reviewer could assess the conduct as fresh evidence of future risk, but had to justify the resulting prospective activities and scope under the statute rather than reason from “circumvention” alone.
+
+46E. A future lawful decision-maker could consider a clearly specified labour-hire restriction. That possibility does not save the present instrument: the limb is located beneath an invalid universal chapeau, and the inclusive order leaves additional prohibited activities unstated. It does, however, make severability a live issue that must be decided rather than ignored.
+
+### No family-support exception for Simon
+
+46F. Simon’s wife, Vida, and their son, Alex, are NDIS participants. Simon’s varied order contains no exception permitting him to seek, arrange or communicate about their supports, attend provider or planning meetings, advocate for them, or provide ordinary unpaid family assistance.
+
+46G. The comparison is striking. The same reviewer, on the same day, expressly preserved Vida’s ability to seek disability supports or services for herself and Alex. Simon’s order contains no equivalent provision, although its chapeau is broad enough to capture “any involvement” and its third limb extends to assistance “of any form” to a provider.
+
+46H. The Applicants do not submit that s 73ZN contained an express family-carveout requirement. The significance is narrower. The absence of an exception creates concrete uncertainty about ordinary family conduct, shows the order was not calibrated to the financial and governance risks stated in the reasons, and supplies a practical example of why the universal wording is not reasonably capable of confident obedience.
+
+46I. At minimum, pending final judgment, the Court can protect family participation through a narrow non-enforcement order while preserving prohibitions on paid provision, claims, provider funds and labour supply.
+
+## K. Abdullah and Johnston do not foreclose these grounds
+
+47. *Abdullah and Commissioner, NDIS Quality and Safeguards Commission* [2026] ARTA 743 was a merits determination after a four-day hearing involving oral and documentary evidence and cross-examination. Its observations about cure and its ultimate evaluative findings were case-specific exercises of the Tribunal’s merits function. It did not hold that banning orders are immune from judicial review, that every procedural defect is cured, or that wording beyond s 73ZN is valid.
+
+48. *Johnston and Commissioner, NDIS Quality and Safeguards Commission* [2024] AATA 3438 also involved merits review. At [28], the specification of activities was not challenged. It did not decide the *Sunflower* construction issue or a ground-switch procedural-fairness case.
+
+49. Those decisions show that a lawful banning order can be affirmed after an independent merits hearing on proper evidence. They do not answer whether these existing instruments were authorised or these reviews conducted lawfully.
+
+## L. ART proceedings, delay and why the Court should act now
+
+50. Simon and Vida applied for merits review on 10 May 2023. The matters have remained contested and are now ART matters 2023/3363 and 2023/3361.
+
+51. The chronology must be stated candidly. The Commission sought a stay or adjournment pending Vida’s criminal proceedings in late 2023, and an adjournment followed in January 2024. On 23 February 2024, the Magistrates Court dismissed the charges for want of prosecution and formally discharged Vida. The certified transcript also records that the Commonwealth sought that course so the charges could be commenced later, described discontinuance as being “at this stage”, and indicated an intention to recharge. Programming resumed. Later confidentiality, stay and severance disputes also occupied time. Vida withdrew her stay application in March 2026, but both individual Applicants continued to seek severance. The Applicants do not submit that every interval was caused by the Respondent.
+
+51A. The record also shows a significant disclosure event. In submissions dated 19 March 2026, the Respondent acknowledged that Simon’s original order, three central executive briefs and other Simon-specific documents had not been included in the tender bundle filed on 13 June 2024. On 7 May 2026, after the ART had stated on 22 April that severance remained undecided, the Respondent supplied the omitted package and sought non-disclosure orders over two legal-advice attachments. That sequence does not establish bad faith; it does explain why the complete personal decision record required to formulate Simon’s ground was not available to him through the ART production until May 2026.
+
+51B. The Applicants do not rely on the dismissal as an acquittal or invite this Court to determine any criminal allegation. The recorded recharge position explains why their personal affidavits are confined and why the documentary validity case should, so far as possible, be determined from the Commission’s own record, the signed instruments and the reasons.
+
+51C. T65, T65.1 and the review reasons are relied upon as documents forming part of the administrative record. Reciting their contents does not constitute adoption by Simon or Vida of allegations, characterisations or inferences within them.
+
+52. The present application is nevertheless not an attempt to bypass an imminent merits outcome. It addresses a distinct question: whether the coercive instruments presently published and enforceable answer the statutory description at all.
+
+53. The two jurisdictions have different work:
+
+    a. the ART determines the correct or preferable outcome on the material before it and may substitute a lawful decision; and
+
+    b. this Court determines legality and may quash invalid decisions and instruments.
+
+54. An ART merits power does not retrospectively validate an instrument beyond power. Nor does the possibility of a future substitute remove the present consequences of enforcement and publication.
+
+55. The timing has four important features:
+
+    a. the Applicants invoked merits review promptly and have never acquiesced in the orders;
+
+    b. *Sunflower*, delivered on 21 November 2025, supplied an authoritative construction of this precise power and materially similar wording after the ART matters had commenced;
+
+    c. the orders have operated for more than three years and remain in force until December 2027; and
+
+    d. every further month consumes part of the remaining term and risks making ultimate judicial relief hollow.
+
+56. The Applicants accept that they must explain the period after *Sunflower*. The common affidavit should state when they learned of the decision, the objective document and representation steps undertaken, the interaction with the ART proceedings, the March–May 2026 disclosure of Simon’s omitted personal decision record, and why filing did not occur earlier. It should not disclose the substance of legal advice. [INSERT THE REMAINING NON-PRIVILEGED EVIDENCE AND DATES.]
+
+57. Relief under s 39B is discretionary. Unwarrantable delay, an adequate alternative remedy, lack of utility and prejudice are relevant: *Re Refugee Review Tribunal; Ex parte Aala* [2000] HCA 57 at [52], [55]–[56], [82]–[83]. Here:
+
+    a. the dispute remained continuously live;
+
+    b. the key facial ground is documentary and no forensic prejudice is apparent;
+
+    c. the ART process has not produced a final outcome after years;
+
+    d. the present instruments have ongoing coercive and reputational effects;
+
+    e. there remains practical utility before December 2027; and
+
+    f. expedition and coordination can prevent duplication.
+
+58. The Court should determine the short legality issues now. If necessary, it can direct the parties to notify the ART and agree a short adjournment or other coordinated timetable.
+
+## M. Relief and severability
+
+59. The review decisions and varied orders should be quashed. Vida’s original order should also be quashed. Simon’s original decision should be quashed if Ground 5 is made out.
+
+60. The whole of each April 2023 order should be set aside. The invalid chapeau defines the prohibition; the examples are introduced inclusively; and no judicial severance can identify the intended exhaustive boundary or remake the delegate’s risk judgment. *Sunflower* took that course at [141].
+
+61. Consequential relief should prevent enforcement and misleading publication of invalid instruments. Any register correction should be framed consistently with the Respondent’s statutory register duties and the Court’s formal orders.
+
+62. If the Court considers remitter necessary, it should be to a differently constituted delegate and without any determination by the Court of the merits.
+
+## N. Interim relief and expedition
+
+63. The facial comparison with *Sunflower* establishes a serious question. The balance of convenience should be assessed on current evidence, not general assertion.
+
+64. The Applicants rely on:
+
+    a. uncertain coercive boundaries;
+
+    b. continuing publication and concrete livelihood effects;
+
+    c. the limited remaining term;
+
+    d. the principally documentary final issue; and
+
+    e. proposed undertakings that prevent participant-facing, financial-control and provider-management risk pending judgment.
+
+65. The Respondent may rely on participant protection and the existing reasons. The Applicants therefore offer, if required and after final instructions, undertakings not to:
+
+    a. perform an executive, key-personnel or provider-management role;
+
+    b. access PRODA or provider payment systems;
+
+    c. control participant funds, claims or invoicing;
+
+    d. solicit NDIS participants; or
+
+    e. provide direct supports,
+
+pending the expedited final hearing.
+
+66. Those undertakings are proposed only for interim risk management and are not admissions. [DELETE OR MODIFY AFTER INSTRUCTIONS.]
+
+67. If the evidence does not establish an immediate concrete opportunity or effect sufficient for interlocutory restraint, the Court should at least order an urgent, compressed final timetable.
+
+67A. Further or alternatively, the Court should restrain enforcement against Simon’s ordinary unpaid participation in obtaining, arranging or communicating about supports for Vida and Alex. That narrow protection does not require permission for paid support work, provider management, claiming, participant-fund control or labour supply, and directly addresses the otherwise uncertain effect on his family responsibilities.
+
+## O. Orders sought
+
+68. The Applicants seek the orders in the Originating Application and the proposed short minute.
+
+---
+
+## Proposed oral opening
+
+This case does not ask the Court to conduct the Applicants’ merits review. It asks whether the Commissioner made the kind of coercive instrument Parliament authorised. Section 73ZN(2) permitted an order preventing a person from engaging in specified activities. These orders instead exclude each Applicant from any involvement with an entire sector, in any capacity, extending to indirect conduct and assistance of any form. In *Sunflower*, this Court held materially narrower wording invalid under the same subsection. The examples do not save the orders; they are inclusive and sit beneath an invalid chapeau. The reasons also fail to connect each prohibited activity, each Applicant’s personal attributes, unmitigable risk, and the chosen breadth and duration. Vida has the additional complaint that review switched from contravention to personal suitability without fair notice. Simon’s case is different: an admitted gap about his actual involvement was bridged by corporate attribution rather than an individual statutory assessment. The Applicants seek legality, not immunity. If the Commissioner acts again, the decision must be made under the statute, on an individual basis, after a fair process.
+
+---
+
+### Settling note — delete before filing
+
+Replace all bracketed text with affidavit evidence and add court-book page references after pagination. Keep the filed outline within any page limit fixed by the docket judge.

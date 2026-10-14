@@ -1,0 +1,32 @@
+# DRAFT RESPONSE TO AGS
+
+**To:** Karlie Dickinson, Senior Lawyer, Australian Government Solicitor
+**From:** Simon Reid
+**Date:** [Insert Date] 2026
+**Subject:** Your Ref 23004627 – Forward Focused Group Pty Ltd (FFG) – Banning Order Expiry
+
+Dear Ms Dickinson,
+
+I refer to your letter dated 13 February 2026 regarding the expiry of the banning order against FFG on 20 December 2025.
+
+You have invited FFG to withdraw its application for review (ART 2023/4494) on the basis that the ban has expired and there is "no relevant prejudice or loss".
+
+**We decline your invitation to withdraw.**
+
+While the ban may have technically expired, you have confirmed that it will remain on the NDIS Commission’s register "indefinitely". This constitutes a permanent stain on the company’s commercial reputation. Given that FFG maintains the order was void *ab initio* and made without evidence, we seek a Tribunal decision setting it aside entirely (revocation), not merely noting its expiry.
+
+**Reasons for Distrust**
+
+Further, you ask us to rely on the Commission’s administrative processes. However, we must be frank: our clients have lost all trust in the Commission’s bona fides. We have evidence suggesting your client is acting with malice and for an improper purpose, which makes it impossible for us to accept informal assurances or "standard practice" as a resolution.
+
+Specifically:
+1.  **Witness Intimidation (January 2025):** We have evidence that in January 2025, Commission Investigator Mr. John Maloney attended the home of a former employee, Ms. Virginie Fanny-Dulloo. He allegedly threatened her with imprisonment ("It’s your neck or her neck") to coerce a statement against Vida Reid, and admitted to unlawful surveillance of our communications.
+2.  **Contradictory Positions:** In the Respondent's own submissions to the Tribunal (17 September 2025, Para 47), your client admitted *"There is no evidence of any criminal charges at this stage"*. Yet, at the same time, your client’s investigators were conducting raids and claiming to the contrary.
+3.  **Unreasonable Delay:** The Commission knew as early as February 2024 (Respondent's Reply, 28 Feb 2024) that "no brief of evidence" had been provided to the DPP. Despite knowing the criminal case—the express basis for the ban’s duration—had collapsed, the Commission maintained the ban for another two years until its expiry. This appears to be punitive rather than protective.
+
+In these circumstances, we cannot view the Commission’s conduct as that of a model litigant. We intend to proceed to the hearing to expose these issues and seek the complete vindication of FFG’s name.
+
+Yours sincerely,
+
+Simon Reid
+Director, Forward Focused Group Pty Ltd

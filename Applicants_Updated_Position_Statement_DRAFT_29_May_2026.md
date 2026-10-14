@@ -1,0 +1,196 @@
+# APPLICANTS' UPDATED POSITION STATEMENT
+
+**IN THE ADMINISTRATIVE REVIEW TRIBUNAL**
+
+| | |
+|---|---|
+| **Matters** | ART 2023/3361 (Vida Reid); ART 2023/3363 (Simon Reid); ART 2023/4494 (Forward Focused Group Pty Ltd) |
+| **Applicants** | Vida Reid; Simon Reid; Forward Focused Group Pty Ltd |
+| **Respondent** | Commissioner of the NDIS Quality and Safeguards Commission |
+| **Date** | 29 May 2026 |
+| **Filed by** | Simon Reid (self-represented); Vida Reid (self-represented) |
+
+> **STATUS: WORKING DRAFT — NOT FOR FILING.** This consolidates the three applicants' positions as at 29 May 2026. It is built only on documents in the case file. Every case citation, date, figure and procedural step marked **[VERIFY]** must be confirmed against the primary source before any externally-facing version is settled. See the *Drafting Notes & Verification Flags* at the end — that section is **not** part of the statement and must be removed before filing. Nothing in this document concedes that any applicant, or any associated entity, engaged in any fraud or wrongdoing; the Commission's case is contested in its entirety.
+
+---
+
+## A. Purpose of this statement
+
+1. This statement updates the applicants' position for the next case-management listing. It is filed because the procedural landscape has changed materially since the Forward Focused Group ("FFG") position statement of 6 March 2026 and since the interlocutory hearing listed for 20 March 2026:
+
+   (a) the applicants' **severance applications remain undecided**, and nothing in the substantive timetable can sensibly advance until they are determined;
+
+   (b) on **7 May 2026** the Respondent both produced eight categories of documents concerning Mr Simon Reid that had been omitted from the June 2024 tender bundle, and filed a fresh **s 70(2) application** seeking non-disclosure of two further documents on the ground of legal professional privilege — a matter that **concerns Mr Simon Reid alone** and is presently before the Deputy President; and
+
+   (c) the Respondent's proposed timetable of 19 March 2026 has been **overtaken by events** and its key dates have passed without orders being made.
+
+2. The applicants ask that the live interlocutory questions be resolved before any hearing date is fixed, and set out below their position on each, followed by a summary of the grounds of review in each matter.
+
+---
+
+## B. Current procedural posture
+
+3. **Programming to hearing (15 May 2024).** All three matters were programmed to be heard together. **[VERIFY: confirm the exact directions and dates from the 15 May 2024 transcript.]**
+
+4. **Non-disclosure orders (26 July 2024).** The Tribunal (Deputy President Mischin) made non-disclosure / non-publication orders over the "Tactical Intelligence Report – Project Archer" dated 18 August 2022. Those orders remain on foot and frame any disclosure request below. **[VERIFY: order numbers and statutory provisions.]**
+
+5. **Stay waiver (about March 2026).** Mrs Reid confirmed she would no longer press her stay application. That waiver was made against the background of the Respondent's representation, through the Australian Government Solicitor ("AGS"), that there was "no current criminal investigation pertaining to Mrs Reid or to FFG" (letter of 11 March 2025). The significance of that representation is addressed in Part E.
+
+6. **FFG banning order expiry.** The FFG banning order expired on 20 December 2025. By letter of 13 February 2026 the Respondent invited FFG to withdraw its review application as the order is now recorded on the public register as "no longer in force." FFG declined, and maintains its application (Part D, FFG).
+
+7. **Severance (heard on the papers about 20 March 2026 — undecided).** The applicants each seek severance / sequencing; the Respondent opposes severance and seeks a single joint hearing. The Respondent's 7 May 2026 correspondence confirms **no decision on severance has yet been made**, and that the revised tender bundle will be filed only once the Tribunal so orders. Severance is therefore the gateway question.
+
+8. **The 7 May 2026 developments.** On that date the Respondent:
+
+   (a) produced eight categories of documents "relating to Mr Simon Reid" omitted from the tender bundle certified in June 2024 — including the Notice and Statement of Reasons for his banning order and briefing notes EC22-002103, EC22-002429 and EC22-002521; and
+
+   (b) filed an application under s 70(2) of the *Administrative Review Tribunal Act 2024* (Cth) seeking that two documents not be disclosed, on the basis they were created for the dominant purpose of legal advice — **Attachment O to Briefing Note EC22-002103** (advice on the notice of intention to ban Mr Reid) and **Attachment G to Briefing Note EC22-002521** (advice on the decision to ban Mr Reid).
+
+9. **The s 70 application is now before the Deputy President.** Mr Reid's opposition is dated 19 May 2026. **[VERIFY: confirm the opposition was lodged with the Tribunal, not only sent to AGS, and that it is before the Deputy President with the application.]**
+
+10. **Stale timetable.** The Respondent's proposed timetable of 19 March 2026 (revised tender bundle by 10 April 2026; applicants' statements of facts, issues and contentions by 1 May 2026; Respondent's by 22 May 2026; responses by 5 June 2026) was conditional on severance being decided at the 20 March 2026 listing, which did not occur. Those dates have passed. A fresh, severance-contingent timetable is required. **[VERIFY: whether any of these dates were in fact made into orders or complied with.]**
+
+---
+
+## C. The applicants' position on the live interlocutory questions
+
+### C1. Severance / sequencing
+
+11. The applicants press for the matters to be **sequenced, with Mr Simon Reid's matter (2023/3363) determined first**, then Mrs Reid's (2023/3361), with FFG's (2023/4494) deferred and relisted after the individual matters are progressed or heard.
+
+12. The case for sequencing is now **stronger** than when severance was argued in March 2026, because of the Respondent's own conduct on 7 May 2026:
+
+   (a) the Respondent has itself **segregated a discrete body of documents concerning Mr Reid alone**, demonstrating that his record is distinct and separately manageable; and
+
+   (b) the Respondent has placed a **fresh interlocutory matter — the s 70 application — on foot that concerns Mr Reid alone**, directly contradicting its 19 March 2026 submission that "there are no further interlocutory matters on foot which could result in additional delays."
+
+13. The applicants accept there is some overlap of witnesses between the matters. The answer is evidence-management (common documents and witnesses can be dealt with once), not a single composite hearing that forces two self-represented applicants to contest every issue across three matters simultaneously. **[VERIFY: re-confirm the severance authorities to be relied on before filing — the Respondent relies on *ASIC v Axis International Management Pty Ltd* [2009] FCA 250; the applicants should meet that case on its own factors rather than introduce unverified authority.]**
+
+### C2. The s 70 (legal professional privilege) application
+
+14. The applicants oppose the s 70 application and say the two attachments should be produced, or at least produced to the Tribunal for inspection, for the following reasons (as developed in Mr Reid's opposition of 19 May 2026):
+
+   (a) **Waiver by inconsistency** — the Respondent has produced the briefing notes in which the advice sits as attachments, and has elsewhere disclosed legal-advice content without claiming privilege (*Mann v Carnell* (1999) 201 CLR 1). **[VERIFY]**
+
+   (b) **Selective / associated-material disclosure** — partial disclosure of related advice cannot be reconciled with withholding the balance (*Goldberg v Ng* (1995) 185 CLR 83). **[VERIFY]**
+
+   (c) **Issue waiver** — by defending the lawfulness of the banning decisions, the Respondent has put the advice it received on those very questions in issue (*DSE (Holdings) Pty Ltd v Intertan Inc* (2003) 135 FCR 151; *Bennett v Chief Executive Officer of the Australian Customs Service* (2004) 140 FCR 101). **[VERIFY]**
+
+   (d) **Discretion and the statutory presumption of disclosure** — the Tribunal's review function and the applicants' need to know the case against them weigh against non-disclosure (*VEAL v Minister for Immigration and Multicultural and Indigenous Affairs* (2005) 225 CLR 88). **[VERIFY]**
+
+15. The applicants ask that the s 70 application **not be determined until Mr Reid's opposition is before the Deputy President**, so that the privilege question is decided on a complete record.
+
+### C3. Disclosure
+
+16. The applicants seek production of material in the Respondent's possession that bears directly on the decisions under review and has not been produced, subject always to the 26 July 2024 non-disclosure orders over the Tactical Intelligence Report. In particular: the FFG internal-review decision IR(10) of 9 June 2023; the witness interview transcripts relied on in the statements of reasons; and the source material underlying the financial allegations. **[VERIFY: settle the precise list against what has and has not been produced as at the filing date.]**
+
+### C4. Proposed timetable reset
+
+17. Once severance is determined, the applicants propose a fresh timetable keyed to the sequence in C1, with production preceding updated statements of facts, issues and contentions in each matter. A draft minute of proposed directions can be provided.
+
+---
+
+## D. Grounds of review — summary by matter
+
+> The following are summaries only, to orient the Tribunal; each matter's statement of facts, issues and contentions contains the full grounds. All of the Commission's factual claims are contested allegations, not findings.
+
+### Mr Simon Reid (2023/3363)
+
+18. **No individualised assessment.** The banning order against Mr Reid was made under s 73ZN(2)(a)(iii) of the *National Disability Insurance Scheme Act 2013* (Cth). The applicant's case is that the decision attributed corporate and spousal conduct to him through his directorship and bank-signatory status without assessing his own knowledge, conduct or period of office, as the suitability test requires.
+
+19. **The Respondent's own concessions support this.** On internal review (decision of 21 April 2023), the reviewer accepted that particular conduct "cannot reasonably or appropriately be attributed to Mr Reid given he was not the director of FFG during this period of time" (para 29(i)), and gave "minimal weight" to the headline financial allegation because the underlying report acknowledged it was not known what proportion of the claims were for services actually provided (para 29(j)).
+
+20. **The stated basis has fallen away.** The same decision fixed the duration of the ban by reference to "the ongoing investigation by the NDIA and law enforcement agencies" (para 46). The Respondent later told the Tribunal there was "no evidence of any criminal charges at this stage" (submissions of 17 September 2025, para 47), and the criminal charges against Mrs Reid were discontinued in February 2024. The premise on which Mr Reid's suitability finding rested no longer holds. **[VERIFY: exact discontinuance date and basis — see flags.]**
+
+21. **Overbreadth / legal unreasonableness.** A prohibition on "any involvement with or in the NDIS sector, in any capacity" is disproportionate and would, among other things, impede Mr Reid's role in the care of his own disabled child (*Minister for Immigration and Citizenship v Li* (2013) 249 CLR 332). **[VERIFY]**
+
+### Mrs Vida Reid (2023/3361)
+
+22. **Ultra vires variation / change of statutory ground.** On internal review the Commission changed the legal basis of the order from s 73ZN(2)(a)(i) (contravention) to s 73ZN(2)(a)(iii) (suitability) and broadened its scope, without a fresh show-cause notice or any opportunity to address the new, suitability case. The applicant's case is that this was a fresh decision dressed up as a "variation," and is (i) jurisdictional error and, in the alternative, (ii) a denial of procedural fairness (*Kioa v West* (1985) 159 CLR 550; *SZBEL v Minister for Immigration and Multicultural and Indigenous Affairs* (2006) 228 CLR 152). **[VERIFY]**
+
+23. **The suitability basis was tied to the criminal proceedings.** The reviewer recorded that a ban on the suitability basis "accords with the usual approach … where a person is alleged to have engaged in fraudulent activity … (particularly where criminal charges are laid)" (para 31) and that the period "corresponds with the amount of time it is reasonably expected to take for the criminal proceedings to be finally determined," and "can be revisited" upon their determination (para 63). Those proceedings have concluded. On a merits review deciding the correct or preferable decision as at today, that changed circumstance is central (*Shi v Migration Agents Registration Authority* (2008) 235 CLR 286). **[VERIFY]**
+
+24. **Procedural fairness / service.** The notice of intention was received after the deadline it imposed and was not routed to the applicant's solicitors. **[VERIFY: dates and mode of service.]**
+
+### Forward Focused Group Pty Ltd (2023/4494)
+
+25. **The matter is not moot.** Although the banning order expired on 20 December 2025, it remains published on the Commission's public register as historical regulatory action and, on the Respondent's own account, expired orders remain on the register indefinitely and may be removed only in exceptional circumstances on written application. A Tribunal finding that the order should not have been made bears directly on any future removal application and on continuing reputational consequences. The proceeding therefore retains practical utility.
+
+26. **Derivative and dependent on the individual findings.** FFG's matter turns on the same contested allegations as the individuals' matters and is most efficiently dealt with after them. FFG seeks that its application remain on foot, not be treated as moot, and be deferred and relisted after the individual matters are progressed or heard.
+
+---
+
+## E. Changed circumstances — the "no current criminal investigation" representation
+
+27. The applicants put the following squarely, on the documentary record alone and without reliance on any informal source:
+
+   (a) On **11 March 2025** the AGS told the Tribunal and Mrs Reid that "there is no current criminal investigation pertaining to Mrs Reid or to FFG," noting it had made enquiries with the NDIA and that it did **not** act for the NDIA. On 19 March 2025 the AGS confirmed only that its earlier letter "confirmed the NDIA's position as was relayed."
+
+   (b) The internal-review decision concerning Mr Reid had, by contrast, justified the **duration** of his ban by reference to "the ongoing investigation by the NDIA and law enforcement agencies" (para 46).
+
+   (c) Documents released by the Department of Home Affairs under FOI (FA 24/10/01764) record that, on 25 September 2024, the Australian Border Force examined Mrs Reid at Perth Airport, recording that she was "subject to Law Enforcement interest," that ABF was "conducting the examination on behalf of another agency," and that she should "speak with AFP or their Lawyer if charges against them have been dropped." The identity of the "another agency" was redacted, including under s 37(2)(b) of the *Freedom of Information Act 1982* (Cth). An Information Commissioner review (MR26/00947) is on foot.
+
+28. The applicants do **not** assert, in this statement, that the 11 March 2025 representation was false. The point is narrower and entirely documentary: the representation was confined to a "criminal investigation," to the NDIA as the only agency asked, and to Mrs Reid and FFG only; and it sits in tension with the Commission's own "ongoing investigation" rationale and with the ABF record of a "Law Enforcement interest … on behalf of another agency." The applicants have written to the AGS (and to the CDPP) seeking verification, and reserve their position pending those responses. **[VERIFY: confirm the verification letters have issued and note their dates once sent.]**
+
+> **Drafting note (not for filing):** the "ABF acted on NDIS instructions" characterisation is **not** safe to plead as fact — the ABF officer's own narrative records that Mrs Reid raised the NDIS and that ABF did not. Plead the unimpeachable wording ("Law Enforcement interest," "another agency," "speak with AFP") and treat the NDIS-direction point as Mrs Reid's evidence, to be given on affidavit.
+
+---
+
+## F. Orders sought
+
+29. The applicants seek orders that:
+
+   (a) the matters be **sequenced**, with ART 2023/3363 (Simon Reid) heard first, ART 2023/3361 (Vida Reid) next, and ART 2023/4494 (FFG) deferred and relisted thereafter;
+
+   (b) the Respondent's s 70 application be **dismissed**, alternatively that the documents be produced to the Tribunal for inspection, and in any event that it **not be determined until Mr Reid's opposition of 19 May 2026 is before the Deputy President**;
+
+   (c) the Respondent **produce** the outstanding material identified in C3, subject to the existing non-disclosure orders;
+
+   (d) ART 2023/4494 **remain on foot and not be treated as moot**; and
+
+   (e) a **fresh timetable** be set, keyed to the sequence in (a).
+
+---
+
+*Simon Reid* — Applicant in person (2023/3363); Sole Director, Forward Focused Group Pty Ltd (2023/4494)
+
+*Vida Reid* — Applicant in person (2023/3361)
+
+Dated: 29 May 2026
+
+---
+---
+
+# DRAFTING NOTES & VERIFICATION FLAGS — *NOT PART OF THE STATEMENT; REMOVE BEFORE FILING*
+
+These are the items the research surfaced that must be resolved before this goes anywhere near the Tribunal. They exist because of the standing rule against fabricated or unverified particulars.
+
+### 1. Citation hygiene (highest priority)
+
+- **Do not import these from the older memos.** The *Fresh Grounds Memo* still cites ***Ramirez v Commissioner* [2023] AATA 432** (one of five citations the *Legal Assessment* §11 identified as **fabricated — no such decision**) and ***Jamal v Secretary, DHHS* [2017] FCAFC 161** (flagged `[UNVERIFIED — DO NOT FILE]`). The *DeepDive* still cites ***Applicant S* (2004) 217 CLR 387** for the change-of-grounds point (the *Legal Assessment* corrected this — use ***SZBEL*** instead) and ***Townshend v ASIC*** (unverified / possibly adverse). None of those four appears in this draft; keep it that way.
+- Every citation in this draft is marked **[VERIFY]**. Re-confirm each against AustLII/primary report before settling a filing version. The verified-authorities list in the chat backup (§3) is the safe starting point.
+
+### 2. The CDPP discontinuance — date and basis
+
+- Our own files disagree: **23 February 2024** (most files, and the memory record) vs **28 February 2024** (Reasonableness Memo). The stated basis varies between **"no evidence"** and **"want of prosecution."** One file cites **s 25 of the *Criminal Code Act 2004* (WA)** — that looks wrong, as the charges were Commonwealth (*Criminal Code Act 1995* (Cth), ss 135.1(3), 400.9(1)).
+- **Action:** pin the exact date and the exact discontinuance basis to the primary CDPP record (and Mrs Reid's affidavit exhibit VR-2) before this is filed. This fact is load-bearing for the "stated basis has fallen away" arguments (paras 20, 23).
+
+### 3. Procedural facts to confirm as at the filing date
+
+- Whether Mr Reid's **s 70 opposition (19 May 2026) was lodged with the Tribunal** (not only sent to AGS) and is before the Deputy President.
+- Whether **any of the 19 March 2026 timetable dates were made into orders** and whether the revised tender bundle / updated statements were in fact filed.
+- Whether the **Farsi/Persian interpreter direction** for Mrs Reid has actually been ordered (it appears only in *proposed* directions).
+- The **possible fourth FFG-related matter, ART 2023/3364**, appears in our notes unreconciled against 2023/4494 — confirm whether it is live and carries its own deadlines before finalising the matter list.
+
+### 4. Evidentiary gaps the merits case has not yet closed
+
+- **Unrebutted Commission witnesses.** The participants and staff the Commission actually relies on — **Goodwin, Clulow, Teague, Leah Norman, Marasigan and the NDIA forensic accountant** — are barely engaged by our "every witness is a competitor" map. The **Paul Ugwunali / ACCESS statement** (operating-while-banned allegation) is unaddressed entirely. These need positive answers, not just credibility framing.
+- **Cassandra Burke recantation** — asserted across our documents but **no primary recantation document is on file.** Do not state it as established until located and exhibited.
+- **No substantive Simon Reid affidavit** — "Affidavit sr.pdf" is an unrelated insurance-case affidavit. Mr Reid's first-hand account (ABF stop, his limited/ceased directorship, the suitability facts) should be put on affidavit.
+- **Maloney coercion** reaches the Tribunal only as **double hearsay** (Fanny-Dulloo → Vida). A first-person Fanny-Dulloo statement and/or the audio is needed; the "4_Affidavit_Vida_Reid_ABF_Stop.pdf" is an **unsworn template** superseded by the substantive 21 January 2025 affidavit.
+- **24 December 2025 property-seizure record** — all OCR attempts are unreadable; obtain a clean copy before relying on it.
+
+### 5. FOI / posture-shift accuracy
+
+- The **"another agency" is never identified as the NDIS** in the ABF record; plead the verbatim wording only.
+- The draft letters to AGS/CDPP mis-describe **s 37(2)(b)** as a "confidential source" exemption (that is s 37(1)(b)) and omit the **s 42(1) LPP** exemption the FOI decision actually claims. Correct both before sending.

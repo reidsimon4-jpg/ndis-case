@@ -1,0 +1,93 @@
+# APPLICANTS' INTERLOCUTORY APPLICATION FOR DISCLOSURE AND PRODUCTION
+
+**IN THE ADMINISTRATIVE REVIEW TRIBUNAL**
+
+| | |
+|---|---|
+| **Matters** | ART 2023/3361 (Vida Reid); ART 2023/3363 (Simon Reid); ART 2023/4494 (Forward Focused Group Pty Ltd) |
+| **Applicants** | Vida Reid; Simon Reid; Forward Focused Group Pty Ltd |
+| **Respondent** | Commissioner of the NDIS Quality and Safeguards Commission |
+| **Date** | 29 May 2026 |
+
+> **STATUS: WORKING DRAFT — NOT FOR FILING.** This is the framework that executes door-opener steps 2–5 of the sequenced play: (2) the Respondent's lodgement duty; (3) production of NDIA-sourced and complaint-provenance material; (4) discharge/variation of the Tactical Intelligence Report non-disclosure orders; (5) determination and dismissal of the Respondent's s 70 application. **Every procedural provision marked [VERIFY] must be settled by counsel against the *Administrative Review Tribunal Act 2024* (Cth) before filing** — section numbers are indicated functionally, not asserted. Nothing here concedes any fraud; the Commission's allegations are contested.
+
+---
+
+## A. ORDERS SOUGHT
+
+The applicants seek the following orders / directions:
+
+1. **(Lodgement)** That, by a date to be fixed, the Respondent lodge with the Tribunal the documents in its possession, custody or power that are relevant to the reviewable decisions, in compliance with its lodgement obligation **[VERIFY ART Act provision — the successor to the former s 37 "T-documents" duty]**, such documents to include (without limitation) the material identified in **Schedule A**.
+
+2. **(Production)** Further or alternatively, that the Respondent produce to the Tribunal and to the applicants the categories of documents set out in **Schedule A**, within 21 days **[VERIFY production / summons-to-produce provision]**.
+
+3. **(Tactical Intelligence Report)** That the non-disclosure orders made on 26 July 2024 **[VERIFY date and the provision under which they were made]** over the document described as the "Tactical Intelligence Report – Project Archer" dated 18 August 2022 ("the TIR") be **discharged**; alternatively **varied** to permit inspection of the TIR by the applicants' legal representatives (and the applicants) on a confidential basis under an agreed or Tribunal-settled regime.
+
+4. **(Section 70)** That the Respondent's application dated 7 May 2026 under s 70 of the *Administrative Review Tribunal Act 2024* (Cth) **[VERIFY]** — seeking that **Attachment O to Briefing Note EC22-002103** and **Attachment G to Briefing Note EC22-002521** not be disclosed — be **listed for determination and dismissed**; alternatively that those documents be **produced to the Tribunal for inspection** before the application is determined, and that it not be determined until Mr Simon Reid's opposition dated 19 May 2026 is before the Tribunal.
+
+5. **(General)** Such further directions, and costs, as the Tribunal thinks fit.
+
+---
+
+## B. SCHEDULE A — CATEGORIES OF DOCUMENTS SOUGHT
+
+*(Targeted, not at large. Each category is relevant to the grounds at Part C — the contested provenance and reliability of the evidence, the improper-purpose ground, and procedural fairness.)*
+
+**Complaint provenance**
+
+A1. For **each complaint** relied on in, or underlying, the Statement of Material Facts and the banning decisions (including the "40 separate complaints" said to have been received between 3 February 2021 and 18 April 2022 and the "29 separate complaints" between 20 May and 1 September 2022): (a) the complaint as received; (b) the **date and channel** of receipt; (c) the **identity of the complainant**; and (d) for any complaint received **anonymously**, all **metadata and intake records** capable of identifying or locating the source — including the telephone number, email address or IP address used, the name of the officer or third party (e.g. a plan-management "Executive Manager") who received or relayed it, and the **referral pathway** by which it reached the Respondent.
+
+A2. All documents recording how each such complaint was **assessed, verified or corroborated** before the banning decisions, and by whom.
+
+**The NDIA-sourced evidentiary base**
+
+A3. The **Tactical Intelligence Report "Project Archer" dated 18 August 2022**, and all source material referred to in or relied on by it.
+
+A4. All **witness statements and interview transcripts** obtained by, or provided to, the Respondent in connection with the banning decisions or the internal reviews, together with records of **who took each statement, where, and when**.
+
+A5. All documents passing **between the Respondent and the National Disability Insurance Agency (NDIA)** concerning the applicants or their associated entities or the affected participants — including referrals, the "**Provider Exit Protocol**", "requests for service", and any "consent removal" or participant-record "alert" records.
+
+A6. All documents **authored by, sent to, or received from Nathan Halls** (and Barbara Lundgren, Bruce Graydon, Maddison Millan and Marie Ross) concerning the applicants, their entities, or the affected participants.
+
+A7. The records of the **reallocation of each affected participant's supports** following the cessation of Forward Focused Group — identifying **which provider each participant's supports were transferred to**, and the "request for service" documents by which those transfers were effected.
+
+**The briefs and the investigation**
+
+A8. Briefing Notes **EC22-002103, EC22-002429, EC22-002521 and EC22-002000**, in full and **unredacted**, including all attachments.
+
+A9. All documents recording the **NDIA investigation** referred to in EC22-002103 as "ongoing", and its **status as at 11 March 2025** and thereafter.
+
+A10. The **McGrathNicol** forensic work product / report referred to in the materials.
+
+A11. The complete **internal review files** for the decisions IR(6) (Vida Reid), IR(7) (Simon Reid) and IR(10) (Forward Focused Group).
+
+---
+
+## C. GROUNDS / SHORT SUBMISSIONS
+
+**Relevance (the gateway).** The applicants' grounds include **improper purpose** (that the banning power was exercised for a purpose foreign to its protective statute) and **denial of procedural fairness**, and they contest the **reliability and provenance** of the evidence on which the Respondent acted. Those grounds put squarely in issue **who generated the complaints and statements, how, and at whose instance** — and, in particular, the role of the NDIA and its officers. Documents going to the source and provenance of the Respondent's evidence are therefore directly relevant to the questions the Tribunal must decide.
+
+**The lodgement duty (Order 1).** The Respondent is obliged to lodge the documents relevant to the reviewable decisions **[VERIFY provision]**. On the Respondent's **own** decision brief (EC22-002103 / "Project Archer"), the evidence supporting the banning decisions "**draws upon statements obtained and provided by the NDIA in support of their criminal investigation**," records that "**the NDIA currently has an investigation ongoing**," and that "**the Provider Exit Protocol has been actioned with the NDIA**," and recommends disclosure to the NDIA's "**A/Director Fraud Investigation, Mr Bruce Graydon**." The NDIA-sourced material is therefore not collateral — it is the **foundation of the decisions under review** — and falls within the lodgement duty.
+
+**Production (Order 2; Schedule A).** To the extent the lodgement duty does not produce the Schedule A material, the categories are sufficiently **particularised and relevant** to warrant production. They are not a fishing expedition: each is tied to the contested provenance/reliability of the evidence and to the improper-purpose ground established on the documentary record. *Anticipated objection — source protection.* The Respondent may resist A1 on confidential-source grounds. That objection does not hold here because (a) the source-protection principle protects **genuine public-interest informants**, not **conflicted competitors** using the complaints process for commercial advantage — and the applicants' case, supported by the documentary record, is that complaints emanated from a competitor cluster operating in concert with an NDIA officer; (b) a party that **relies** on complaints to justify a five-year exclusion cannot fairly **shield their provenance** from the person excluded; and (c) where identity is genuinely sensitive, production **to the Tribunal for inspection**, or production of **provenance/metadata without the name**, meets the concern while preserving fairness.
+
+**The Tactical Intelligence Report (Order 3).** The TIR is **relied on by the Respondent** (it underpins the banning brief) yet **withheld** from the applicants. The Respondent's own internal reviewer attributed **"minimal weight"** to the headline financial allegation **by reference to the TIR's own acknowledgement** that it was not known what proportion of the relevant claims were for services actually provided — i.e. the withheld document **undermines** the case against the applicants. A regulator cannot rely on a document to ban a person while denying that person any ability to test it. Fairness requires discharge of the non-disclosure orders; if any genuine sensitivity remains, a **confidential-access regime** (legal representatives, and the applicants, on undertakings) is available and proportionate.
+
+**The s 70 application (Order 4).** The applicants oppose the Respondent's s 70 application and say the two attachments should be produced (alternatively produced to the Tribunal), for the reasons in Mr Simon Reid's opposition dated 19 May 2026 — in summary: **waiver by inconsistency** (the briefing notes in which the advice sits have been produced) **[Mann v Carnell — VERIFY]**; **selective/associated-material disclosure** **[Goldberg v Ng — VERIFY]**; **issue waiver** (the Respondent, by defending the lawfulness of the banning decisions, has put the advice it received on those very questions in issue) **[DSE (Holdings); Bennett v CEO Customs — VERIFY]**; and the statutory presumption of disclosure and the applicants' need to know the case against them **[VEAL — VERIFY]**. The application should be **listed and dismissed**, alternatively the documents produced to the Tribunal, and in any event it should **not be determined until Mr Reid's opposition is before the Tribunal**.
+
+**Every outcome advances the review.** If the documents are produced, the applicants can test the foundation of the decisions. If production is **refused** on confidentiality or privilege grounds, that refusal is itself a matter the Tribunal may weigh, and it requires the Respondent to **elect** between relying on material whose provenance it will not disclose and abandoning reliance on it.
+
+---
+
+## D. TO SETTLE WITH COUNSEL BEFORE FILING ([VERIFY])
+
+1. The **precise ART Act 2024 provisions** for: the lodgement duty (former s 37 successor); production / summons to produce; the non-disclosure regime (the provision under which the 26 July 2024 TIR orders were made, and the s 70 application provision); and any leave requirements for an interlocutory application.
+2. The **exact terms and date** of the 26 July 2024 non-disclosure orders and the constituting member.
+3. The **exact terms** of the Respondent's 7 May 2026 s 70 application and confirmation of the two documents (Attachment O to EC22-002103; Attachment G to EC22-002521).
+4. That Mr Reid's **19 May 2026 opposition** is lodged with the Tribunal, and the privilege authorities pinpoint-checked.
+5. The **complaint figures** ("40" / "29") and the EC22-002103 quotations confirmed against the primary documents before they are reproduced in a filed version.
+6. Whether to bring this as **one application across all three matters** or to lead with **Mr Reid's matter (2023/3363)** consistent with the severance position.
+
+---
+
+*Prepared 29 May 2026 as a working draft to settle with counsel; not legal advice; not for filing. Standing rules observed: no fabricated authority; no concession of fraud.*

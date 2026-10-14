@@ -1,0 +1,105 @@
+### SOURCE: NDIS Case/Reid_Case_Map_14_June_2026.mermaid
+### MTIME: 2026-06-14 08:44
+
+flowchart TB
+  classDef appl fill:#E8F5E9,stroke:#2E7D32,color:#1B5E20;
+  classDef ndia fill:#E3F2FD,stroke:#1565C0,color:#0D47A1;
+  classDef comm fill:#F3E5F5,stroke:#6A1B9A,color:#4A148C;
+  classDef net fill:#FDECEA,stroke:#C62828,color:#8E0000;
+  classDef agency fill:#ECEFF1,stroke:#546E7A,color:#263238;
+  classDef trib fill:#FFF8E1,stroke:#EF6C00,color:#7F4F00;
+  classDef legal fill:#F5F5F5,stroke:#9E9E9E,color:#424242;
+
+  subgraph P0["2021 to mid-2022 — Background"]
+    FFG["Forward Focused Group (FFG)<br/>Vida & Simon Reid — NDIS provider"]:::appl
+    HH["Hybrid Hive / The Hive<br/>related Reid entities"]:::appl
+    TR0["Terri Roberts resigns (2021)<br/>legal dispute with FFG"]:::net
+    LOCK["NDIA Payment Review /<br/>'Compliance Lock' on FFG (from May 2022)"]:::ndia
+  end
+
+  subgraph P1["Sep to Oct 2022 — The NDIA operation"]
+    HALLS["Nathan Halls — NDIA Asst Director<br/>29 Sep 2022: 'coordinated provider<br/>exit on behalf of the NDIA'"]:::ndia
+    BHAN["Deepak Bhandari — NDIA Delegate<br/>17 Oct 2022: reallocates FFG<br/>participant to Diversitas WA"]:::ndia
+    LUND["Barbie Lundgren — NDIA A/State Mgr WA<br/>11 Oct 2022 acknowledges Shapiera"]:::ndia
+    SHAP["Jonathan Shapiera — participant<br/>9 Oct 2022 letter: Halls inducements<br/>(reported, to be tested)"]:::net
+    TEAR["Sukhi Tear — Diversitas WA<br/>alleged prior NDIA assoc. of Halls"]:::net
+    NA["Nurse Assist 24/7<br/>Amanda Damon"]:::net
+    TR["Terri Roberts — Nurse Assist adviser<br/>former FFG manager"]:::net
+    ROSS["Pieter Rossouw — Roberts' partner<br/>Commission witness 11 Oct 2022"]:::net
+    SEARCH["19 Oct 2022 search & arrest<br/>NDIA Fraud Investigations (INV22-080)"]:::ndia
+    TIR["Project Archer / Tactical<br/>Intelligence Report (NDIA-sourced)"]:::ndia
+  end
+
+  subgraph P2["21 Dec 2022 — Commission action"]
+    BAN["NDIS Commission banning orders<br/>Simon · Vida · FFG (10 to 3 yr)<br/>Hybrid Hive (permanent) · The Hive"]:::comm
+    LEATH["Sian Leathem ('SL')<br/>reviewer-independence issue"]:::comm
+  end
+
+  subgraph P3["2023 — Reviews & ART"]
+    IR["Internal reviews 21 Apr 2023<br/>IR(6) Vida · IR(7) Simon · IR(10) FFG"]:::comm
+    ART["ART applications filed<br/>2023/3361 Vida · 2023/3363 Simon<br/>2023/4494 FFG"]:::trib
+  end
+
+  subgraph P4["2024 — Criminal, disclosure & reserve"]
+    CDPP["CDPP discontinues charges v Vida<br/>~Feb 2024 (date/basis to pin)"]:::agency
+    AGS24["AGS 28 Feb 2024 reply<br/>brief re Simon not sent to CDPP"]:::legal
+    NDO["26 Jul 2024 non-disclosure orders<br/>over the TIR (DP Mischin)"]:::trib
+    ABF["ABF border stop 25 Sep 2024<br/>FOI FA24/10/01764"]:::agency
+    HAM["Hammond Legal — malicious<br/>prosecution work-up"]:::legal
+  end
+
+  subgraph P5["2025 — Multi-agency & procedural"]
+    AGS25["AGS 11 Mar 2025: 'no current criminal<br/>investigation'; 'does not act for NDIA'"]:::legal
+    SCNC["NDIA SCNC calls Mar 2024+<br/>Fanny-Dulloo / Maloney Jan 2025"]:::ndia
+    STAY["Stay sought then abandoned;<br/>directions drift"]:::trib
+  end
+
+  subgraph P6["2026 — Drift & escalation"]
+    EXP["FFG ban expired 20 Dec 2025<br/>AGS 13 Feb 2026 expiry letter"]:::comm
+    SEV["Severance argued ~20 Mar 2026<br/>UNDECIDED (registry 22 Apr, 12 May)"]:::trib
+    S70["s 70 non-disclosure app 7 May 2026<br/>+ Simon opposition 19 May 2026"]:::trib
+    PORT["Hybrid Hive portal lock 5 Jun 2026<br/>continuing NDIA conduct"]:::ndia
+    FED["Federal Court s 39B<br/>Reid v NDIA + mandamus (delay)"]:::appl
+  end
+
+  subgraph PX["Parallel / context"]
+    FFT["Fraud Fusion Taskforce (Nov 2022)<br/>24 agencies — context"]:::agency
+    OAIC["OAIC IC review MR26/00947<br/>FOI cracks (AFP/NDIA/WAPol)"]:::agency
+    AHRC["AHRC complaint (Cocks)"]:::agency
+    ATO["ATO charges/pressure (Aug 2023)"]:::agency
+  end
+
+  FFG --> LOCK
+  TR0 --> TR
+  LOCK --> HALLS
+  HALLS --> BHAN
+  BHAN --> TEAR
+  TEAR --> NA
+  HALLS -.->|alleged| TEAR
+  SHAP --> LUND
+  TR --> NA
+  ROSS --> BAN
+  NA --- ROSS
+  HALLS --> SEARCH
+  SEARCH --> TIR
+  TIR --> BAN
+  HALLS --> BAN
+  BAN --> IR
+  IR --> ART
+  ART --> CDPP
+  CDPP --> AGS25
+  TIR --> NDO
+  ART --> NDO
+  BAN --> EXP
+  ART --> STAY
+  STAY --> SEV
+  SEV --> S70
+  AGS25 --> SEV
+  PORT --> FED
+  SEV --> FED
+  EXP --> FED
+  HALLS --> FED
+  BHAN --> FED
+  HAM -.-> FED
+  FFT -.-> SCNC
+  ABF -.-> OAIC

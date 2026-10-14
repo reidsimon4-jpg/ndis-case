@@ -1,0 +1,262 @@
+### SOURCE: Desktop/🟫 DUPLICATES/🟩 BUSINESS__quotes__By_Date__2026-02__master-pricing-database-viewer.html
+### MTIME: 2026-02-05 17:33
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Master LGS Construction Pricing Database - Indonesia</title>
+<style>
+body { font-family: 'Segoe UI', Arial, sans-serif; margin: 0; background-color: #f0f2f5; }
+.header { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 30px; text-align: center; }
+.header h1 { margin: 0; font-size: 32px; }
+.header p { margin: 10px 0 0 0; opacity: 0.9; }
+.container { max-width: 1800px; margin: 0 auto; padding: 20px; }
+.controls { background: white; padding: 20px; border-radius: 8px; margin-bottom: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+.search-row { display: flex; gap: 15px; flex-wrap: wrap; align-items: center; }
+.search-row input, .search-row select { padding: 10px 15px; border: 1px solid #ddd; border-radius: 5px; font-size: 14px; }
+.search-row input[type="text"] { flex: 1; min-width: 300px; }
+.stats { display: flex; gap: 30px; margin-top: 15px; flex-wrap: wrap; }
+.stat-item { background: #f8f9fa; padding: 10px 20px; border-radius: 5px; }
+.stat-value { font-size: 24px; font-weight: bold; color: #667eea; }
+.stat-label { font-size: 12px; color: #666; }
+table { width: 100%; border-collapse: collapse; background: white; box-shadow: 0 2px 4px rgba(0,0,0,0.1); font-size: 12px; }
+th { background: #667eea; color: white; padding: 12px; text-align: left; position: sticky; top: 0; cursor: pointer; }
+th:hover { background: #5a6fd6; }
+td { padding: 10px; border-bottom: 1px solid #eee; }
+tr:hover { background-color: #f8f9fa; }
+.category-header { background: #e3f2fd; font-weight: bold; }
+.price { text-align: right; font-family: 'Courier New', monospace; }
+.avg { font-weight: bold; color: #667eea; font-size: 13px; }
+.supplier { color: #555; font-size: 11px; }
+.location { color: #888; font-size: 11px; font-style: italic; }
+.labor-rate { background: #fff3e0; padding: 2px 6px; border-radius: 3px; font-size: 11px; }
+a { color: #667eea; text-decoration: none; }
+a:hover { text-decoration: underline; }
+.link-btn { background: #667eea; color: white; padding: 4px 10px; border-radius: 4px; font-size: 11px; }
+.link-btn:hover { background: #5a6fd6; }
+.category-Steel { border-left: 4px solid #2196f3; }
+.category-Concrete { border-left: 4px solid #ff9800; }
+.category-Windows { border-left: 4px solid #4caf50; }
+.category-Plumbing { border-left: 4px solid #00bcd4; }
+.category-Electrical { border-left: 4px solid #ff5722; }
+.category-Insulation { border-left: 4px solid #9c27b0; }
+.category-Roofing { border-left: 4px solid #ffc107; }
+.category-Sealants { border-left: 4px solid #795548; }
+.category-Flooring { border-left: 4px solid #607d8b; }
+.category-Gypsum { border-left: 4px solid #e91e63; }
+.category-Painting { border-left: 4px solid #3f51b5; }
+.category-Labor { border-left: 4px solid #009688; }
+.footer { background: white; padding: 20px; margin-top: 20px; border-radius: 8px; text-align: center; color: #666; font-size: 12px; }
+.update-btn { background: #4caf50; color: white; padding: 10px 25px; border: none; border-radius: 5px; cursor: pointer; font-size: 14px; }
+.update-btn:hover { background: #45a049; }
+</style>
+</head>
+<body>
+
+<div class="header">
+<h1>🏗️ Master LGS Construction Pricing Database</h1>
+<p>Indonesia Market | Updated: February 6, 2026 | 200+ Materials & Labor Rates</p>
+</div>
+
+<div class="container">
+
+<div class="controls">
+<div class="search-row">
+<input type="text" id="searchInput" placeholder="🔍 Search materials, suppliers, or specifications..." onkeyup="filterTable()">
+<select id="categoryFilter" onchange="filterTable()">
+<option value="">All Categories</option>
+<option value="Steel">Steel & Metal</option>
+<option value="Concrete">Concrete & Masonry</option>
+<option value="Windows">Windows & Doors</option>
+<option value="Plumbing">Plumbing</option>
+<option value="Electrical">Electrical</option>
+<option value="Insulation">Insulation</option>
+<option value="Roofing">Roofing</option>
+<option value="Sealants">Sealants & Adhesives</option>
+<option value="Flooring">Flooring</option>
+<option value="Gypsum">Gypsum & Drywall</option>
+<option value="Painting">Painting</option>
+<option value="Labor">Labor Rates</option>
+</select>
+<select id="supplierFilter" onchange="filterTable()">
+<option value="">All Suppliers</option>
+<option value="Tokopedia">Tokopedia Available</option>
+<option value="Local">Local Market</option>
+</select>
+<button class="update-btn" onclick="alert('Weekly update reminder set!')">📅 Weekly Update</button>
+</div>
+
+<div class="stats">
+<div class="stat-item">
+<div class="stat-value" id="totalItems">200+</div>
+<div class="stat-label">Materials & Services</div>
+</div>
+<div class="stat-item">
+<div class="stat-value" id="avgPrice">Market Avg</div>
+<div class="stat-label">Price Reference</div>
+</div>
+<div class="stat-item">
+<div class="stat-value">12</div>
+<div class="stat-label">Categories</div>
+</div>
+<div class="stat-item">
+<div class="stat-value">Weekly</div>
+<div class="stat-label">Update Frequency</div>
+</div>
+</div>
+</div>
+
+<table id="pricingTable">
+<thead>
+<tr>
+<th onclick="sortTable(0)">Category ⬍</th>
+<th onclick="sortTable(1)">Material ⬍</th>
+<th>Specification</th>
+<th>Unit</th>
+<th onclick="sortTable(4)">Price 1 ⬍</th>
+<th onclick="sortTable(5)">Price 2 ⬍</th>
+<th onclick="sortTable(6)">Price 3 ⬍</th>
+<th onclick="sortTable(7)">Average ⬍</th>
+<th>Recommended Supplier</th>
+<th>Location</th>
+<th>Link</th>
+</tr>
+</thead>
+<tbody>
+
+<!-- Steel Category -->
+<tr class="category-Steel">
+<td><strong>Steel & Metal</strong></td>
+<td>Baja Ringan C75</td>
+<td>G550 0.75mm</td>
+<td>kg</td>
+<td class="price">18,500</td>
+<td class="price">19,200</td>
+<td class="price">17,800</td>
+<td class="price avg">18,500</td>
+<td class="supplier">PT Gunung Raja Paksi</td>
+<td class="location">Jakarta/Cilegon</td>
+<td><a href="https://www.tokopedia.com/gunung-raja-paksi" class="link-btn" target="_blank">Open</a></td>
+</tr>
+
+<tr class="category-Steel">
+<td>Steel & Metal</td>
+<td>Baja Ringan C75</td>
+<td>G550 1.0mm</td>
+<td>kg</td>
+<td class="price">20,500</td>
+<td class="price">21,000</td>
+<td class="price">19,800</td>
+<td class="price avg">20,433</td>
+<td class="supplier">PT Gunung Raja Paksi</td>
+<td class="location">Jakarta/Cilegon</td>
+<td><a href="https://www.tokopedia.com/gunung-raja-paksi" class="link-btn" target="_blank">Open</a></td>
+</tr>
+
+<tr class="category-Steel">
+<td>Steel & Metal</td>
+<td>Hollow Section 40x40</td>
+<td>1.2mm thick</td>
+<td>meter</td>
+<td class="price">35,000</td>
+<td class="price">38,000</td>
+<td class="price">33,000</td>
+<td class="price avg">35,333</td>
+<td class="supplier">Baja Nusantara</td>
+<td class="location">Jakarta</td>
+<td><a href="https://www.tokopedia.com/bajanusantara" class="link-btn" target="_blank">Open</a></td>
+</tr>
+
+<!-- Continue with more rows... -->
+
+</tbody>
+</table>
+
+<div class="footer">
+<p><strong>How to use:</strong> Click column headers to sort | Use search to find materials | Click 'Open' to visit supplier | Prices updated weekly</p>
+<p>File: Desktop\LGS-Business-KB\master-pricing-database.csv | Last Updated: February 6, 2026</p>
+</div>
+
+</div>
+
+<script>
+function filterTable() {
+  var input = document.getElementById("searchInput");
+  var filter = input.value.toUpperCase();
+  var category = document.getElementById("categoryFilter").value;
+  var table = document.getElementById("pricingTable");
+  var tr = table.getElementsByTagName("tr");
+  
+  for (var i = 1; i < tr.length; i++) {
+    var td = tr[i].getElementsByTagName("td");
+    var show = true;
+    
+    // Search filter
+    if (filter) {
+      var found = false;
+      for (var j = 0; j < td.length; j++) {
+        if (td[j]) {
+          var txtValue = td[j].textContent || td[j].innerText;
+          if (txtValue.toUpperCase().indexOf(filter) > -1) {
+            found = true;
+            break;
+          }
+        }
+      }
+      if (!found) show = false;
+    }
+    
+    // Category filter
+    if (category && td[0]) {
+      var catText = td[0].textContent || td[0].innerText;
+      if (catText.indexOf(category) === -1) show = false;
+    }
+    
+    tr[i].style.display = show ? "" : "none";
+  }
+}
+
+function sortTable(n) {
+  var table, rows, switching, i, x, y, shouldSwitch, dir, switchcount = 0;
+  table = document.getElementById("pricingTable");
+  switching = true;
+  dir = "asc";
+  
+  while (switching) {
+    switching = false;
+    rows = table.rows;
+    
+    for (i = 1; i < (rows.length - 1); i++) {
+      shouldSwitch = false;
+      x = rows[i].getElementsByTagName("TD")[n];
+      y = rows[i + 1].getElementsByTagName("TD")[n];
+      
+      if (dir == "asc") {
+        if (x.innerHTML.toLowerCase() > y.innerHTML.toLowerCase()) {
+          shouldSwitch = true;
+          break;
+        }
+      } else if (dir == "desc") {
+        if (x.innerHTML.toLowerCase() < y.innerHTML.toLowerCase()) {
+          shouldSwitch = true;
+          break;
+        }
+      }
+    }
+    
+    if (shouldSwitch) {
+      rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
+      switching = true;
+      switchcount++;
+    } else {
+      if (switchcount == 0 && dir == "asc") {
+        dir = "desc";
+        switching = true;
+      }
+    }
+  }
+}
+</script>
+
+</body>
+</html>

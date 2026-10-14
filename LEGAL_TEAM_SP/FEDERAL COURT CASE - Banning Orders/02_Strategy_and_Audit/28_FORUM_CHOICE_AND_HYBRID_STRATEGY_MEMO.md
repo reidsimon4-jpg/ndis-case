@@ -1,0 +1,188 @@
+# FORUM-CHOICE AND HYBRID-STRATEGY MEMORANDUM
+
+**Matter:** Simon Reid and Vida Reid - NDIS Commission banning orders
+
+**Status:** Privileged/confidential working draft for independent counsel. Not legal advice and not for filing or service.
+
+**Date:** 15 July 2026
+
+## Executive recommendation
+
+The strongest present course is not to assume that a fresh Federal Court proceeding is an easy or automatic short-term win. It is to run a short evidence-and-procedure gate while keeping the Federal Court papers ready:
+
+1. Authenticate the exact present ART position - every stay, severance and confidentiality order; whether evidence and submissions are complete; whether a hearing date exists; and whether any decision is actually reserved.
+2. Ask the ART for urgent directions on a confined *Sunflower* issue, including consideration of:
+   - a targeted stay or non-enforcement order under s 32 of the *Administrative Review Tribunal Act 2024* (Cth) (ART Act), addressing candidly why Vida's earlier stay application was withdrawn;
+   - targeted production of the missing decision record under ss 24-26;
+   - limitation of the proceeding to a preliminary legal issue under s 53; and
+   - referral of the precise question of law to the Federal Court under s 185, which requires the President's agreement.
+3. Give the Commission and Tribunal a counsel-set, short but reasonable procedural timetable. Do not invent an ultimatum; the period should be justified by the continuing orders, the age of the proceeding and the current listing position.
+4. In parallel, settle the s 39B papers, the post-*Sunflower* chronology and the separate relief required for Simon and Vida.
+5. If a s 185 referral is refused, no prompt ART determination is available, or a targeted stay is refused, those objective events become important evidence answering the argument that the ART is presently the more convenient and satisfactory remedy.
+6. If an ART decision is genuinely reserved and delivery is imminent, ordinarily seek an expedited decision or a firm delivery indication before starting duplicative proceedings, unless counsel identifies a limitation, continuing-harm or jurisdictional reason requiring immediate filing.
+
+This hybrid sequence uses the existing merits proceeding rather than disparaging it, exposes the shortest legal issue, and improves the discretion case if a separate s 39B application later becomes necessary.
+
+## 1. What the external review got right
+
+The review correctly identified that the current Federal Court discretion section was underpowered. Three points must be stated frankly.
+
+First, the ART is not powerless. Sections 32, 54 and 105 of the ART Act give it substantial powers to protect the applicants pending review and to reach the correct or preferable outcome. An argument that the Tribunal cannot give meaningful relief would be inaccurate.
+
+Second, *Sunflower Care Services Pty Ltd v Commissioner of the NDIS Quality and Safeguards Commission (No 2)* [2025] FCA 1442 at [117]-[120] is not simply favourable. It identifies both sides of the discretion:
+
+- clear excess of power will ordinarily attract relief unless it is just to withhold it;
+- relief can be withheld where merits review is a more convenient and satisfactory remedy, there has been unreasonable delay, relief lacks utility, or no real injustice remains;
+- *McGowan v Migration Agents Registration Authority* [2003] FCA 482; 129 FCR 118 is a concrete example of summary dismissal because an extant AAT review was more satisfactory; and
+- the successful applicant in *Sunflower* had delayed only about two months, had not pursued AAT review through oversight, and already had a Federal Court proceeding on foot.
+
+The Reids' facts are materially different. Their merits review has been on foot since 2023, they have invoked interlocutory processes there, some later delay reflects their own forensic decisions, and a new Court proceeding was not already advanced when *Sunflower* was decided.
+
+Third, the May 2026 production may explain the emergence of Simon's omitted-record and procedural-fairness case. It does not automatically explain why the facial *Sunflower* ground was not brought earlier. That period requires its own evidence.
+
+## 2. The legal routes
+
+| Route | Principal benefit | Principal risk | Best use |
+|---|---|---|---|
+| Continue and expedite the ART review | Existing proceeding; full merits powers; stay power; ability to obtain the decision record and substitute a decision | Further delay; broader factual contest; possible substituted or fresh regulatory outcome; limited ability to obtain a public historical invalidity ruling; possible self-incrimination pressure if issues are not confined | Where a prompt hearing or decision is realistically available |
+| Commence a new s 39B Federal Court case | Authoritative legality ruling; focused documentary ground; potential quashing and costs; no need for Simon to prove broad merits facts on the facial ground | *McGowan* alternative-remedy objection; post-*Sunflower* delay; duplication; adverse costs; Simon revival problem; fresh re-ban remains possible | Where the facial error is clear, delay is fully explained, relief has concrete utility and the ART cannot produce a prompt answer |
+| Ask the ART to refer the question of law under s 185 | Places the statutory question in the Federal Court while maintaining one coordinated merits proceeding; reduces the claim of forum shopping or duplication | Referral is discretionary and needs the President's agreement; formulation must be a true question of law arising in the proceeding; refusal or delay is possible | Recommended first procedural attempt, subject to current ART status and counsel settling the question |
+| Ask the ART to decide a preliminary issue under s 53 | Potentially the quickest route to narrow the merits proceeding around *Sunflower* | Tribunal decision may still be appealed or challenged; may not produce the same historical or public-law relief sought | Useful with, or as an alternative to, a s 185 request |
+
+## 3. Why the facial ground still has force
+
+The best Federal Court issue is tightly documentary:
+
+1. identify the exact words of each original and review banning order;
+2. identify the historical text of s 73ZN(2) in force when each instrument was made;
+3. apply *Sunflower* at [127]-[141]; and
+4. ask whether the instrument prohibited or restricted specified activities, or instead purported to prohibit indirect relationships, statuses or forms of involvement outside the former power.
+
+That issue should not require Simon to explain the alleged criminal conduct, his business arrangements or contested operational facts. It should be presented on the official instruments, reasons, statutory texts and any strictly necessary authenticity evidence. This protects the simplicity of the case and reduces self-incrimination risk.
+
+The procedural-fairness and omitted-record grounds are separate. They may be important, particularly for Simon, but they invite a larger evidence contest. Counsel should consider asking the Court to determine the facial ground first and holding the fact-dependent grounds over.
+
+## 4. The question proposed for an ART Act s 185 referral
+
+Counsel should settle a question using the exact instrument language. A working form is:
+
+> On the proper construction of s 73ZN(2) of the *National Disability Insurance Scheme Act 2013* (Cth), in the form in force on [date], did the [identify original or review] banning order exceed the Commissioner's statutory power by prohibiting or restricting the applicant from being directly or indirectly involved in the provision of NDIS supports or services, including through labour-hire, employment, management, consultancy or other facilitative relationships, rather than by prohibiting or restricting one or more specified activities?
+
+This formulation must be divided by applicant and instrument if the wording or legal effect differs. It must not assume the disputed legal conclusion. The referral request should attach:
+
+- the exact orders and review decisions;
+- the historical statutory text and commencement history;
+- *Sunflower*;
+- a short agreed or competing statement of the question;
+- an explanation of how the answer will narrow or determine the ART proceeding; and
+- proposed directions preventing unnecessary factual evidence until the question is resolved.
+
+## 5. Applicant-specific utility and relief
+
+### Vida Reid
+
+Vida appears to have the cleaner instrument-based case because the original order itself used the broad "directly or indirectly" formulation. Subject to verification of the full order and historical statutory text, quashing relief directed to both the original and review instruments may have direct utility.
+
+Her prior withdrawal of a stay application must be explained accurately. It is not necessarily fatal, but it makes a renewed stay application and a claim of urgent injustice harder unless there is evidence of changed circumstances, newly produced documents, a newly appreciated *Sunflower* issue, or ongoing harm not previously before the Tribunal.
+
+### Simon Reid
+
+Simon has an additional relief problem. If the 2023 review order is quashed, the original 2022 order may remain or revive. The case must identify the legal effect of review under the NDIS Act and attack every instrument necessary to produce useful relief. It must not promise that success against the variation alone ends the ban.
+
+The omitted-record evidence may support Simon's procedural-fairness, legal-unreasonableness or no-independent-assessment case. It should be pleaded only to the extent necessary and supported by documents. His affidavit should avoid admissions or narrative detail about conduct potentially relevant to a contemplated prosecution. The Commission's record and decision-maker evidence should carry the burden wherever possible.
+
+### Both applicants
+
+The 2026 amendments to s 73ZN appear to widen the Commissioner's prospective power, including in relation to activities enabling or facilitating supports or services. A present invalidity ruling does not prevent a fresh, procedurally fair order under the current statute. That possibility reduces the finality of a Court win but does not retrospectively validate the 2022 or 2023 instruments.
+
+## 6. The post-Sunflower delay evidence
+
+The affidavit should contain a short, unemotional chronology from 21 November 2025 to filing. For every material interval it should identify:
+
+- the date and event;
+- the contemporaneous source;
+- who was responsible for the next procedural step;
+- whether the event relates to the facial ground, Simon's personal-record ground, or both;
+- what action the applicants took;
+- why the action could not reasonably have been taken earlier; and
+- whether describing the event risks disclosing privileged advice.
+
+Do not say merely that the Commission caused years of delay. The source materials apparently show a mixed history: an early Commission-supported stay or adjournment connected with prosecution, followed by applicant decisions involving stays, confidentiality and severance. Accuracy will carry more weight than overstatement.
+
+The most important current fact is still unknown: whether the ART is about to hear or decide the matter. That fact can materially change the forum recommendation.
+
+## 7. Evidence gate before filing
+
+No s 39B application should be filed until counsel has a reliable answer to each item:
+
+1. What is the exact operative instrument for each applicant today?
+2. What is the legal effect of setting aside each review decision on the original order?
+3. What are the current ART proceeding numbers, orders and next dates?
+4. Is any decision genuinely reserved, and what document proves that?
+5. What stay relief is currently in force or has been refused or withdrawn?
+6. Has a s 185 referral or s 53 preliminary issue been requested?
+7. What objectively explains the period after 21 November 2025?
+8. What continuing, particularised harm will judicial review alleviate now?
+9. Does the proposed relief correct the public register and historical legal consequences, or only alter the future position?
+10. Is there any current charge, prosecution statement, or CDPP position that affects self-incrimination or case management?
+
+## 8. Relationship to compensation and claims against the NDIA or individuals
+
+A public-law victory may be strategically valuable, but it does not by itself establish a damages claim, malicious prosecution, misfeasance in public office, negligence, or individual liability.
+
+The current banning-order case concerns Commission instruments. The contemplated compensation case against the NDIA, Mr Halls or other individuals must maintain separate elements, defendants, immunities, limitation dates and causation. In particular:
+
+- malicious prosecution ordinarily requires a prosecution to have terminated favourably, absence of reasonable and probable cause, malice, and damage;
+- invalid administrative action is not itself proof of malice or reckless indifference;
+- Commission decision-making must not be conflated with NDIA investigation or referral conduct without admissible evidence linking actors and decisions;
+- a later lawful fresh ban could affect loss and causation even if the old orders were invalid; and
+- allegations of bad faith or malice should not be added to the narrow public-law case merely to create a future damages narrative.
+
+The practical approach is to preserve and index the damages evidence now while keeping the first Court case narrow. A reasoned invalidity judgment, complete decision record and findings about who supplied or withheld material may later become evidence, but the damages pleading should be separately settled after the criminal and public-law positions are sufficiently clear.
+
+## 9. Decision rule
+
+### Prefer the hybrid ART request first where:
+
+- the current ART status is unclear;
+- the Tribunal can give urgent directions;
+- the s 185 question can be cleanly formulated;
+- the post-*Sunflower* delay explanation is incomplete; or
+- a renewed stay can address immediate harm.
+
+### Proceed promptly with s 39B, subject to counsel, where:
+
+- the operative instruments and historical statute establish a strong facial excess-of-power case;
+- the ART has refused referral, stay or a prompt timetable, or demonstrably cannot provide a timely outcome;
+- the post-*Sunflower* chronology is fully evidenced;
+- relief has real, applicant-specific utility despite Simon's revival issue and the possibility of a fresh ban; and
+- the proceeding is confined to avoid duplicating the entire merits review.
+
+### Usually await or expedite the ART result where:
+
+- all evidence and submissions are complete and a decision is reliably expected soon;
+- the Tribunal can grant adequate immediate protection;
+- the delay case is weak or substantially applicant-caused; or
+- a new Federal Court case would add cost without materially accelerating effective relief.
+
+## 10. Immediate counsel instructions
+
+1. Settle the replacement section L saved with the filing suite.
+2. Obtain a current ART registry status letter and complete set of procedural orders.
+3. Settle an urgent directions request addressing ss 32, 53, 185 and targeted production.
+4. Finalise the separate post-*Sunflower* chronology from source documents.
+5. Settle Simon's revival analysis and applicant-specific relief.
+6. Keep Simon's affidavit confined; use Commission documents for the facial and decision-record grounds.
+7. Maintain a separate limitation and evidence-preservation track for compensation claims.
+
+## Primary authorities checked
+
+- *Sunflower Care Services Pty Ltd v Commissioner of the NDIS Quality and Safeguards Commission (No 2)* [2025] FCA 1442 at [117]-[120], [127]-[141]. Local copy: `04_Authorities/01_Sunflower_Care_No_2_2025_FCA_1442.pdf`.
+- *Bechara v Bates* [2021] FCAFC 34; 286 FCR 166 at [157]-[164].
+- *McGowan v Migration Agents Registration Authority* [2003] FCA 482; 129 FCR 118, particularly as discussed in *Sunflower* at [118]-[119].
+- *Administrative Review Tribunal Act 2024* (Cth), ss 24-26, 32, 53-54, 105 and 185: <https://www.legislation.gov.au/C2024A00040/latest/text>.
+- *National Disability Insurance Scheme Act 2013* (Cth), s 73ZN and applicable historical compilations: <https://www.legislation.gov.au/C2013A00020/latest/text>.
+
+## Bottom line
+
+The review does not close the Federal Court route. It shows why the application must be presented as a confined response to an unresolved threshold legality question, not as a substitute merits appeal. The s 185 referral mechanism offers the best first attempt at joining the strengths of both forums. A refusal or inability to provide timely relief can then become evidence supporting, rather than undermining, the Court's discretion to act.

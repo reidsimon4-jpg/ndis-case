@@ -1,0 +1,126 @@
+# Opening-case internal-record schedule
+
+**Prepared:** 15 July 2026  
+**Use:** counsel settling schedule for pleadings, affidavit exhibits and the opening court book  
+**Status:** confidential draft; verify pagination and admissibility before filing
+
+## Recommended order of use
+
+| Priority | Record | Proposition proved without applicant merits evidence | Proposed use | Respondent answer to anticipate |
+|---:|---|---|---|---|
+| 1 | Signed April 2023 Simon and Vida orders | Universal sector chapeau; indirect wording; open-ended assistance; inclusive rather than exhaustive list | Lead facial Sunflower ground | Three examples specify the activities; sever invalid words only |
+| 2 | Sunflower [127]–[141] | Same power does not authorise indirect relational wording; coercive order must be capable of obedience | Lead authority | Different drafting and facts |
+| 3 | T6 Banning Order Policy, pp 139–142 | Seriousness, proportionality, limited/general choice, duration, charge and culpability criteria | Statutory-context and unreasonableness support | Policy is non-binding and reasons must be read as a whole |
+| 4 | T9.4 investigation note | Commission had limited information about Simon’s actual operational involvement | Simon personal-assessment ground | Other corporate, banking and witness material filled the gap |
+| 5 | EC22-002103 and EC22-002521 | Original personal bridge was authority, joint signatory and likely benefit; no identified immediate danger | Simon reasonable-belief ground | Those facts plus NDIA material objectively supported the belief |
+| 6 | Simon review reasons [28]–[40] | Original attribution and amount errors corrected; final reasoning expressly attributes entity/worker wrongdoing and says Simon should have known | Simon misconstruction and lack-of-individual-assessment ground | Director duty and corporate control were legitimate personal evidence |
+| 7 | T65, T65.1 and Simon reasons [41]–[43] | Specific labour-hire activity identified; targeted wording available; activity was outside original order | Sunflower [226], scope and legal-unreasonableness ground | Fresh risk evidence supported broader prospective prevention |
+| 8 | Vida original and review reasons [41], [46], [56]–[59] | Statutory ground changed; detailed contravention response not examined; usual-practice frame used | Vida fairness and alternative fettering ground | Broad review power; facts and proposed wording were notified |
+| 9 | Vida and Simon same-day varied orders | Vida/son exception retained; no Simon family exception | Uncertainty, proportionality and narrow interim relief | No statutory duty to include family exception |
+| 10 | EC22-002429 | 13-day original period, delayed routing, no immediate danger, no LSB advice on response | Fairness/context and reply to urgency | Extension was ultimately granted |
+| 11 | T49–T53 | Legal/process risk identified; final response selected shorter refusal path | Procedural-fairness context and production | Full advice absent; comment author/context unproved |
+| 12 | FFG review reasons | Commission acknowledged original Project Archer information/reasons deficiencies | Corroborative context and production | Separate applicant and review cured those deficiencies |
+| 13 | T44 | Underlying brief used an allegation/evidence summary rather than individual findings | Explain limits of the Simon record | Table was only one part of a larger record |
+| 14 | T75/T76 | Detailed matrices concern FFG/Vida issues, not an independent Simon assessment | Reply to suggestion that matrices filled Simon gap | Simon’s brief relied on other evidence |
+| 15 | TIR reference in Simon review | Major expired-plan amount was qualified because services actually provided were not separated | Show original overstatement and need for controlled production | Reviewer corrected the issue and gave it minimal weight |
+| 16 | 19 Mar and 7 May 2026 AGS/ART material | Simon’s central briefs/order were omitted from the 2024 tender; legal/TIR attachments remain controlled | Delay explanation and record directions | Omission was inadvertent and later remedied |
+
+## Minimum pleading propositions
+
+### Common
+
+1. The instruments are not confined to specified activities.
+2. The inclusive examples do not cure the universal chapeau.
+3. The reasons do not identify the required connection between each activity, the individual, unacceptable unmitigated risk, and breadth/duration.
+4. The 2026 amendment does not retrospectively validate a 2023 order.
+
+### Simon
+
+1. The investigation admitted limited operational information.
+2. The original briefs relied on corporate office, signatory status and inferred benefit.
+3. Review corrected attribution, timing, double-counting and amount problems.
+4. Review then expressly adopted corporate/worker attribution and constructive awareness.
+5. The specific labour-hire material supported, at most, consideration of a targeted prospective activity restriction.
+6. The original order did not prohibit labour hire, and the later variation could not retrospectively make lawful conduct a breach.
+7. No family exception was made despite the same reviewer preserving Vida’s and Alex’s access.
+
+### Vida
+
+1. The original instrument itself used invalid indirect wording.
+2. Review changed the decisive statutory basis without fair notice of that new case.
+3. The change affected which submissions were examined.
+4. The “usual practice” reasoning may disclose a failure to keep the statutory discretion genuinely open.
+5. The order remained charge-process driven despite policy requiring examination of all available evidence and reconsideration after charge determination.
+
+## Minimum affidavit proof
+
+### Common or solicitor affidavit
+
+- authenticate the four signed orders and review reasons;
+- identify the five executive briefs and their receipt/production history;
+- exhibit the narrow extracts of T6, T9.4, T44, T49 and the FFG review on which reliance is placed;
+- identify T65/T65.1 as administrative-record documents without adopting their contents;
+- prove the ART chronology, omitted-record event and current status;
+- prove the certified criminal-court disposition precisely; and
+- explain why the TIR/legal attachments are controlled without asserting concealment.
+
+### Simon personal affidavit
+
+Limit to identity, receipt, ART duration, current register entry, participant-family facts, concrete present uncertainty/effect and interim safeguards. Do not add an operations, finance, recruitment, recipient-list or merits narrative.
+
+### Vida personal affidavit
+
+Limit to receipt and understanding of the review notices, absence of notice of the paragraph (iii) switch, the non-incriminating categories of opportunity she would have sought, objective criminal status, participant/family facts and present effect.
+
+## Court-book extract plan
+
+1. Historical s 73ZN, ss 99–100 and current amending provisions.
+2. Four signed orders.
+3. Simon and Vida review reasons.
+4. T6 pages 139–142.
+5. T9.4 extract containing the limited-information statement.
+6. EC22-002103, EC22-002429 and EC22-002521.
+7. T44 only if the respondent relies on it or the Court needs to understand the summary character.
+8. T49–T53 only if the fairness issue is pressed and privilege/admissibility are settled.
+9. FFG review extract containing the Commission’s concessions, initially in reserve.
+10. T75/T76 rotated extract, initially in reserve.
+11. T65/T65.1 and the exact review passages on circumvention.
+12. Certified 23 February 2024 transcript.
+13. 19 March and 7 May 2026 production correspondence.
+14. Sunflower and the small core authority set.
+
+## Production orders to seek before alleging state of mind
+
+1. Native T49, comment metadata and covering email.
+2. Complete executive-brief version history and approval workflow.
+3. PDMS audit log identifying what each delegate opened or received.
+4. Complete source list behind T44 and the Simon decision.
+5. Attachment P and a relevance/privilege basis for withholding it.
+6. A privilege schedule for Attachments 55, O and G.
+7. Controlled access to the TIR.
+8. Documents addressing the post-February 2024 charge status, policy reconsideration and maintenance of the individual orders.
+9. Documents explaining the family-exception difference.
+10. Documents identifying any current decision to continue enforcement or publication after Sunflower.
+
+## Compensation firewall
+
+The Federal Court opening affidavits and pleading should not allege malicious prosecution, Halls’ malice, misfeasance, conspiracy or compensation loss. Preserve those claims separately.
+
+The present internal record may later be relevant to:
+
+- knowledge of process risk;
+- the adequacy of the information supplied to decision-makers;
+- reliance on qualified or corrected allegations;
+- whether a public officer knowingly or recklessly exceeded power; and
+- causation and loss after a valid liability basis is proved.
+
+It does not presently prove:
+
+- that Halls set the prosecution in motion;
+- that the NDIA rather than the CDPP effectively decided to prosecute;
+- absence of reasonable and probable cause at the commencement of prosecution;
+- malice; or
+- final favourable termination sufficient for malicious prosecution.
+
+Keep all requests for NDIA/Halls/CDPP referral and procurement records in the reserved-damages track.
+

@@ -1,0 +1,60 @@
+# Urgent questions for compensation counsel
+
+## Limitation
+
+1. What limitation period applies in WA to malicious prosecution, misfeasance in public office, negligence and any economic tort?
+2. For malicious prosecution, did time begin on 23 February 2024 or another date?
+3. Does dismissal for want of prosecution under the WA criminal procedure legislation, coupled with a stated intention to recharge, satisfy favourable termination now?
+4. Is any extension, postponement, disability or discoverability provision available?
+5. Does a notice-before-action or Commonwealth pre-litigation requirement apply?
+6. Does any personal-injury component attract a different period?
+7. Can protective proceedings be commenced while investigation of the Halls/prosecution chain continues?
+
+## Proper defendants
+
+1. Is the Commonwealth, NDIA, a named officer or more than one the proper defendant for each proposed cause?
+2. What statutory immunity, vicarious-liability or indemnity provisions apply?
+3. What must be proved to name Halls personally?
+4. What conduct would make an informant/referrer sufficiently instrumental to be treated as initiating or maintaining the prosecution despite CDPP independence?
+5. Can the Commission and NDIA be joined in a later damages proceeding, or should their roles be separated?
+
+## Causes of action
+
+1. Is malicious prosecution viable only for Vida?
+2. What favourable-termination and recharge evidence is required?
+3. What is the proper temporal point for reasonable and probable cause?
+4. What facts would establish malice as a dominant improper purpose?
+5. What precise public power and officer state of mind could support misfeasance?
+6. Is there any viable duty of care concerning referral, payment interruption, provider transition or maintenance of allegations?
+7. What economic-loss rules affect FFG and Simon?
+8. Are any statutory compensation provisions available on the established facts?
+
+## Jurisdiction and procedure
+
+1. Which court has jurisdiction over each proposed defendant and cause?
+2. Is Federal Court accrued jurisdiction available if a federal cause is properly pleaded?
+3. Is preliminary discovery or pre-action production available?
+4. How should evidence obtained in ART/Federal Court be used without breaching confidentiality or implied undertakings?
+5. What pleading detail is required for malice, procurement and reckless indifference?
+
+## Evidence and privilege
+
+1. How should native Gmail/Teams evidence be authenticated?
+2. Can the Commission's internal procedural-fairness comment be used without opening privileged advice?
+3. What privilege belongs to FFG, Vida, Simon and their former lawyers?
+4. What applicant evidence can safely be given while recharge remains possible?
+5. Should a common-interest or joint-defence protocol be formalized among proposed plaintiffs?
+
+## Requested written output
+
+Ask counsel to provide:
+
+- earliest arguable limitation date for each claim;
+- last safe filing date, with a conservative date;
+- proper plaintiff/defendant table;
+- elements and present evidence gaps;
+- preservation notices;
+- recommended pre-action production;
+- whether protective filing is required; and
+- interaction with the Federal Court judicial-review and ART cases.
+

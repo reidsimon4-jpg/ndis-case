@@ -1,0 +1,131 @@
+# ADMINISTRATIVE REVIEW TRIBUNAL 2023/3361
+## BRISBANE REGISTRY 2023/3363 | 2023/4494
+
+**VIDA REID** (Applicant)
+**SIMON REID** (Applicant)
+**FORWARD FOCUSED GROUP PTY LTD** (Applicant)
+v
+**COMMISSIONER OF THE NDIS QUALITY AND SAFEGUARDS COMMISSION** (Respondent)
+
+---
+
+# RESPONDENT’S SUBMISSIONS (ANNOTATED WITH APPLICANT REBUTTALS)
+
+*[Original text in standard font. Applicant's responses in **BOLD**]*
+
+... [Introductory paragraphs 1-25 omitted for brevity, focusing on substantive submissions] ...
+
+## D. Submissions – Adjournment
+
+26. It is relevant to firstly note that Ms Vida Reid is not a director of FFG and has no authority to seek an adjournment on behalf of FFG...
+
+27. The Respondent submits that there is no evidence before the Tribunal that suggest that any criminal proceedings or investigations are currently against Ms Vida Reid. There is therefore no basis for a stay of these proceedings.
+
+> **[APPLICANT'S RESPONSE]**
+> **FALSE / CONTRADICTED.**
+> 1. **Jan 2025 Raid:** NDIS Investigator John Maloney raided the home of witness Virginie Fanny-Dulloo on 7 Jan 2025, stating *"I have enough evidence to put forward to the DPP and throw you in prison"*.
+> 2. **Malice:** If there is "no evidence" of charges, why did the Commission maintain the bans (pegged to criminal proceedings) for 2 years after charges were dismissed (Feb 2024)?
+> 3. This submission ignores the *Commission's own conduct* in continuing to investigate and threaten witnesses.
+
+28. Further Ms Vida Reid has prolonged the application process having foreshadowed the application in October 2024. Since that date Ms Vida Reid has:
+28.1 Failed to comply with the Tribunal’s orders...
+28.2 Caused the anticipated hearing... to be vacated twice...
+
+> **[APPLICANT'S RESPONSE]**
+> **REBUTTAL:** The delay is entirely due to the Commission's failure to disclose the "Jan 2025" investigation and its refusal to revoke the bans despite admitting the criminal case collapsed in Feb 2024. The Commission is the party dragging this out by defending indefensible orders.
+
+... [Paras 29-32 omitted] ...
+
+33. In correspondence between the ABF and legal advisers... the ABF stated that:
+33.1 they were entitled to examine goods...
+33.2 the ABF did not make any copies...
+
+> **[APPLICANT'S RESPONSE]**
+> **NOTE:** The ABF officer "Julian" explicitly stated there was a standing directive from the NDIS to stop and search the Reids. The Commission's denial is a "non-denial denial"—saying *they* aren't investigating doesn't mean they didn't ask ABF to harass.
+
+... [Paras 34-36 omitted] ...
+
+37. Ms Vida Reid also refers to a call between herself and a former employee, Virginie Fanny-Dulloo where Ms Fanny-Dulloo was allegedly questioned by NDIS Investigators in or about January 2025.
+
+> **[APPLICANT'S RESPONSE]**
+> **ADMISSION & NOTE:** The Respondent *admits* the call/questioning happened.
+> **REBUTTAL:** The sworn timeline from Fanny-Dulloo alleges *threats of imprisonment* ("neck or her neck") and *coercion* by John Maloney. This is not a "standard inquiry"; it is witness tampering and is evidence of malice.
+
+38. Following these matters being raised by Ms Vida Reid, the Respondent made inquiries with the National Disability Insurance Agency (NDIA) in March 2025 and was informed that there was no current criminal investigation pertaining to Ms Vida Reid or to FFG.
+
+> **[APPLICANT'S RESPONSE]**
+> **UNRELIABLE / HEARSAY.**
+> 1. Refers to AGS Letter of **11 Mar 2025**.
+> 2. AGS admits they asked the **NDIA**, not the Commission's own investigators.
+> 3. This contradicts the Jan 2025 raid where John Maloney (NDIS Investigator) threatened "DPP" action.
+> 4. "No *current*" investigation might be technically true if they closed it between Jan and Mar, but it hides the malice of the Jan raid.
+
+... [Para 39 omitted] ...
+
+40. It is not the Commission’s responsibility to seek or provide the assurances that Ms Vida Reid seeks...
+
+> **[APPLICANT'S RESPONSE]**
+> **INCORRECT.** As a Model Litigant, the Commission *must* not maintain proceedings for an improper purpose. If they know there are no charges, they must revoke the ban (s 73ZO), not force the Applicant to prove a negative.
+
+41. Ms Vida Reid bears the onus of demonstrating... Ms Vida Reid has not adduced any evidence:
+41.1 she has been charged of any criminal proceedings;
+
+> **[APPLICANT'S RESPONSE]**
+> **IRONY / REVERSAL OF ONUS.**
+> The Commission admits *they* have no evidence of charges (see Para 47 below), yet they require *her* to prove she *hasn't* been charged? The ban exists *because* of alleged charges; if none exist, the ban falls.
+
+... [Paras 42-46 omitted] ...
+
+## The Commissioner’s Previous Position
+
+47. The circumstances of this application for a stay are materially different to the circumstances that existed in 2023. The Respondent’s previous position was based on the fact that there were criminal charges laid against Ms Vida Reid. **There is no evidence of any criminal charges at this stage.** Each application must be considered on the relevant facts that exist at the time.
+
+> **[APPLICANT'S RESPONSE]**
+> **THE GOLDEN ADMISSION.**
+> **Submission:** We accept this admission.
+> **Consequence:** Since the bans were legally "pegged" to the duration of criminal proceedings (see Internal Review decisions), and the Commission now formally admits there are *no* charges, **the bans must be revoked immediately**. The Commission is estopped from maintaining the orders as their sole stated rationale has evaporated.
+
+... [Paras 48-51 omitted] ...
+
+## F. Submissions – Severance of proceedings
+
+52. ... The only factors that have changed since July 2023 are that:
+52.1 the criminal proceedings against Ms Vida Reid have been dropped...
+
+> **[APPLICANT'S RESPONSE]**
+> **MAJOR CHANGE.** The dropping of charges is a *fundamental* change. It removes the primary distinct issue for Vida Reid. However, the *malice* now directed at Vida (witness tampering) is a distinct issue that prejudices Simon Reid if heard together.
+
+... [Para 53 omitted] ...
+
+54.3 Claims were made by FFG and Hybrid... These include participants such as: (a) Ms Meghan Goodwin... (b) Sarah Jane Cudlow... (c) Max Teague...
+
+> **[APPLICANT'S RESPONSE]**
+> **ABUSE OF PROCESS.**
+> 1. These precise allegations formed the brief for the criminal charges.
+> 2. The CDPP (prosecution) **dropped the charges** because there was no reasonable prospect of conviction based on this evidence.
+> 3. For the Commission to now run a "carbon copy" of the failed criminal case in the Tribunal is oppressive and an abuse of process.
+
+54.5 Mr Simon Reid and Ms Vida Reid became involved with Dream Big Employment Pty Ltd...
+
+> **[APPLICANT'S RESPONSE]**
+> **IRRELEVANT.** The "Dream Big" issue is irrelevant to the original banning order (which was about FFG). It is an attempt to "retrofit" justification for the ban using post-ban conduct.
+
+55. Given Mr Simon Reid and Ms Vida Reid were at various times directors... there will be a significant overlap...
+
+> **[APPLICANT'S RESPONSE]**
+> **DISPUTED.**
+> 1. Simon Reid was a "sleeping director" (confirmed by Fanny-Dulloo Transcript).
+> 2. Vida Reid is the target of the Commission's vendetta (e.g. Maloney threats).
+> 3. Linking Simon to Vida's "target" puts him in the crossfire. Severance is required to ensure Simon gets a fair hearing on his own (lack of) conduct.
+
+58. ... having multiple proceedings... will:
+58.1 not be an efficient use of the Tribunals resources;
+
+> **[APPLICANT'S RESPONSE]**
+> **JUSTICE OVER EFFICIENCY.**
+> Efficiency cannot trump procedural fairness. It is structurally unfair to force Simon Reid to defend against a "zombie" criminal case that was effectively dismissed.
+
+---
+**17 September 2025**
+**J MOORE**
+**Counsel for the Respondent**

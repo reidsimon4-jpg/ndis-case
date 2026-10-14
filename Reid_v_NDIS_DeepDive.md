@@ -1,0 +1,833 @@
+---
+title: Reid v Commissioner of the NDIS Quality and Safeguards Commission — Deep Dive
+subtitle: Two principal grounds and the broader context
+matters: ART 2023/3361 (V Reid); ART 2023/3363 (S Reid); ART 2023/4494 (FFG)
+version: v4
+date: 13 May 2026
+classification: CONFIDENTIAL — LEGALLY PRIVILEGED
+status: Internal research note — not legal advice
+---
+
+# Reid v Commissioner of the NDIS Quality and Safeguards Commission
+
+**CONFIDENTIAL — LEGALLY PRIVILEGED**
+
+Deep-dive analysis — two principal grounds and the broader context:
+
+1. **Simon Reid — no individualised assessment** (s 73ZN(2)(a)(iii))
+2. **Vida Reid — ultra vires change in statutory ground** (s 100 review power; s 73ZN(2)(a)(i) → (a)(iii))
+3. **Improper purpose and political timing** (Padfield / Toohey / Sanders)
+
+ART matters 2023/3361 (V Reid), 2023/3363 (S Reid), 2023/4494 (FFG) | v3 — 13 May 2026
+
+| Field | Detail |
+|---|---|
+| Applicants | Simon Reid (2023/3363); Vida Reid (2023/3361); Forward Focused Group Pty Ltd (2023/4494) — all currently self-represented (Tom & Co Legal ceased acting February 2025) |
+| Respondent | Commissioner of the NDIS Quality and Safeguards Commission — Karlie Dickinson and Craig Land, AGS |
+| Tribunal | Administrative Review Tribunal, Brisbane Registry — Deputy President McMillan KC; Hayley Bird MSO |
+| Original decision-maker | Philip Halton, Branch Head, Operations — North Central West (delegate) |
+| Internal reviewer | Sian Leathem, Complaints Commissioner — IR(6) 22/23 (Vida), IR(7) 22/23 (Simon), both 21 April 2023 |
+| Current procedural posture (13 May 2026) | Severance applications heard on the papers 20 March 2026, reserved. Updated tender bundle (promised 10 April 2026) not formally filed. AGS supplied informal bundle of previously-omitted Simon-specific documents on 7 May 2026, concurrently filed s 70 application over two LPP attachments. |
+| Author | Internal research note prepared for the applicants — not legal advice. |
+
+---
+
+## 0. Framing principles and applicant position (standing instructions)
+
+This section is binding on the drafting of every document, submission, email and other piece of correspondence in this matter. It is to be read first.
+
+### 0.0 ABSOLUTE PROHIBITION ON FABRICATION — BINDING STANDING RULE
+
+This rule is the most important rule in this entire document and binds every piece of drafting in this matter from this point onward, without exception.
+
+**No case citation, statute reference, regulatory instrument, decision number, name of officer, name of party, name of witness, date, dollar figure, page reference, paragraph reference, file number, URL or other purportedly factual particular may be included in any document drafted for this matter unless it has been independently verified against a primary source.**
+
+Cases must be verified by direct AustLII / Jade / FedCourt / ART / AAT lookup against the actual reported decision. Verification means three things together: (a) the citation exists; (b) the parties and date match; AND (c) **the case actually stands for the proposition for which it is cited**. A real case cited for a proposition it does not support is treated as a citation error of the same gravity as a fabricated case. Statutes must be verified by direct reference to the as-enacted version on the Federal Register of Legislation. Decisions and instruments of the NDIS Commission must be verified by direct reference to the Commission's public Register or to the document itself. Email contents and dates must be verified against the underlying email file. Document contents and dates must be verified against the underlying document file.
+
+If a citation, name, date or figure cannot be verified, it must be flagged in the draft with the marker "[UNVERIFIED — DO NOT FILE]" and the substance must not be included in any externally-facing document until verification is complete or it is removed.
+
+This rule exists because the consequences of citing fabricated authority in any submission in this matter are catastrophic. The Federal Court, the Family Court, state Supreme Courts, and the ART have all sanctioned parties for citing AI-generated fake authority. The Reids' case rests on credibility with the Tribunal. Credibility is destroyed by a single fabricated citation. The case can be made on real authority. It must not be carried by fabricated authority.
+
+This rule overrides every other consideration in the drafting of any document in this matter.
+
+### 0.1 No fraud is conceded — anywhere
+
+The applicants do not concede that any fraud was committed by any of them, by any of the associated corporate entities, or by any person acting on their behalf at any material time. There is no conclusive evidence of fraud against any of the applicants anywhere on the record. To the applicants' knowledge, no one committed any fraud. The Commission's case is built on allegations. Those allegations are contested in their entirety. They have never been tested in any adjudicative forum.
+
+The Commonwealth Director of Public Prosecutions discontinued all four charges against Mrs Vida Reid on 23 February 2024 for no evidence. Mr Simon Reid was never charged. The Commission's own legal representatives (AGS) have confirmed in writing to the Tribunal on 11 March 2025 that there is no current criminal investigation pertaining to Mrs Reid or to Forward Focused Group Pty Ltd. The Commission's own internal reviewer materially discounted the central financial allegation in IR(7) 22/23 at paragraph 29(j) by reference to the Tactical Intelligence Report — which the Commission itself continues to withhold from disclosure.
+
+### 0.2 Reference frame for the Commission's allegations
+
+Throughout this note and in every related document, references to the Commission's case are references to the allegations the Commission has made on the materials it then held. They are not references to established facts. The language to be used is:
+
+- *"the Commission alleges"* (not "the conduct that occurred")
+- *"the Statement of Reasons asserts"* (not "the Statement of Reasons records")
+- *"the conduct the Commission alleges occurred"* (not "the conduct that occurred")
+- *"on the Commission's case"* (not "on the facts")
+- *"at the level of the Commission's allegations only"* (when reproducing the Commission's framing for the purposes of demonstrating its structure)
+
+The applicants' position is that any reproduction of the Commission's allegations in any document drafted in this matter is for the purpose of demonstrating the structure of the Commission's case as a matter of documentary record. It is not a concession that any of the matters the Commission alleges occurred.
+
+### 0.3 The witness layer is materially compromised
+
+The witness layer the Commission relied on for the December 2022 banning decisions and for the April 2023 internal review decisions is materially compromised. The applicants' position is that the credibility of the witness layer cannot, on the current state of the record, support the conclusions the Commission has drawn from it.
+
+**Disgruntled ex-staff and competing businesses.** Many of the persons relied on by the Commission as witnesses are former employees of Forward Focused Group Pty Ltd who left the business in circumstances of dispute and who subsequently joined competing businesses. The Commission's case includes no analysis of the motive or bias such witnesses may have brought to their statements.
+
+**Ms Terri Roberts and the Nurse Assist 24/7 dispute.** Ms Roberts is a witness relied on at paragraphs 14.1 and 14.5 of EC22-002103 (and reproduced at paragraph 8(d)(v) of the Statement of Reasons accompanying the Hybrid Hive Banning Order). The Commission's reliance on her statements does not disclose the following matters that the applicants say are material to her credibility:
+
+- The Reids had refused Ms Roberts a personal loan prior to her statements being given;
+- After that refusal, Ms Roberts went to work for Nurse Assist 24/7, a business in competition with Forward Focused Group Pty Ltd in the relevant service area;
+- Ms Roberts was at the relevant time an operator of Infinity Living Options Pty Ltd, itself an entity the subject of one of the December 2022 banning orders;
+- There were ongoing legal matters between the Reids (or their associated entities) and Ms Roberts.
+
+Those matters establish a financial dispute, a competing-business interest, a regulatory entanglement and an existing legal dispute as a backdrop to Ms Roberts' witness statements. The applicants say each of those matters bears on the weight properly attached to her evidence and that the Commission's failure to investigate or disclose them is a defect in the decision-making process.
+
+**Documentary anchor: DFG Legal advising on Ms Roberts in February 2022.** The applicants had engaged DFG Legal (Ms Rachel Robson) in respect of Ms Terri Roberts as at 7 February 2022 — eight months before the Commission's suspension of the applicants. Independent legal advice was being taken about Ms Roberts before any of the Commission's processes existed. The DFG Legal correspondence is preserved in the applicants' files. (See Key Gmail Excerpts, item 42.) The Commission's later reliance on Ms Roberts as an independent and credible witness is to be tested against the documentary fact that the applicants were in active legal dispute with her, through a separate solicitor of record, eight months before the Commission's case was constructed.
+
+The applicants further obtained, in 2024, a documented forensic / legal review of the witness layer specifically scoped to "folders named Terri and Amanda" — the same two persons identified above — through Weeksco (Charles Wong and Peter Weeks), for which the applicants paid $6,000 in June 2024. (See Key Gmail Excerpts, item 43.) That engagement is the documentary basis on which the applicants are entitled to put the witness-credibility framework forward in this matter as a considered, professionally-advised position, not an opportunistic argument.
+
+**Mental wellness and influence.** A number of the participant witnesses on whose statements the Commission relied are persons with disability, including persons whose disabilities affect cognition, memory or decision-making. The applicants' position is that several such witnesses were susceptible to influence by third parties — including by competing-business interests, by investigators, and by former employees who had moved to competing businesses — and that their statements ought to have been weighed by the Commission against that susceptibility. The Commission's briefs do not disclose any such weighing exercise.
+
+**The pre-arrest competitor harassment campaign (30 September 2022 documentary record).** Nineteen days before Mrs Reid's arrest, on 30 September 2022, Mrs Reid sent a contemporaneous email to her then-solicitors at Bennett Law (Gina Nofal, Christine Arthur, Martin Bennett, Audrey Webb), with Simon copied, documenting a phone call she had received that afternoon from Mr Jonathan Shapiera — at the time an FFG participant and SIL resident, who later told the Commission's case officers that he had been *"happy with the services I have received"* from FFG and Hybrid Hive (cited at paragraph 41 of Mr Reid's filed Statement of Facts, Issues and Contention). Mr Shapiera reported to Mrs Reid that earlier the same day, at around 2 pm, **Ms Sukhi Tear (Director, Diversitas WA)** had telephoned him and said (in Mr Shapiera's reported words to Mrs Reid):
+
+> *"we don't like Vida and **I know Nathan Halls at NDIA very well and he has provided me with a list of all of Vida's clients** and he is also helping me personally to move them across to myself and other providers that I work with and know personally. We will ensure she does not work in this sector and our plan is to attack her from all angles so that she breaks and doesn't know where to hit back."*
+
+Mr Shapiera reported that Ms Tear had further said: *"well I have already convinced another female client to take out a personal restraining order against Vida"*, and that *"Nathan Halls has told me that your son Nik wants to get an NDIS plan. If you cooperate with us we will approve his plan and **Nathan will personally ensure this even though he has been rejected as he can make this call at his level as a assistant Director of the NDIA**."*
+
+The applicants' email identifies the connections between the named actors:
+
+- **Amanda Damon** — Director of Nurse Assist 24/7. (The same Amanda Damon appears in Executive Brief EC22-002103, at paragraph 10.1, as a co-director and shareholder of N-Able Perth Kids Rehab Centre Pty Ltd — one of the entities the Commission recommended for banning notices on 17 November 2022. The Commission's own brief therefore named, as a co-director of one of the entities to be banned, a person who was at the same time a director of a competing business operating in concert against the applicants. That conflict of interest was not disclosed or investigated by the Commission.)
+- **Terri Roberts** — Business Advisor of Nurse Assist 24/7 — previously employed by FFG as a Service Manager but called into a disciplinary meeting over drug use in the workplace before her departure. Ms Roberts is one of the principal named witnesses the Commission later relied on (cited at paragraphs 14.1 and 14.5 of EC22-002103; reproduced in the Statement of Reasons accompanying the Hybrid Hive Banning Order at paragraph 8(d)(v)). Ms Roberts is also identified by Mrs Reid in her 7 December 2022 registered-post receipt email as an "operator" of Infinity Living Options Pty Ltd, itself one of the entities banned on 21 December 2022.
+- **Sukhi Tear** — Director of Diversitas WA. Vida's email records that Ms Tear "used to work with Nathan Halls in NDIA and is allegedly a close friend of Nathan's".
+
+The 30 September 2022 email further records the operational impact: five FFG clients lost that day; two more "scared to talk to us"; a separate report from FFG staff member Madeline Dawson that Dr Marie Michelle at Wellard Medical had received a call from "Terri and Nathan Halls" stating that "FFG and the Hive are horrible people who should be put away for ever"; and a client (Colleen Hass) cutting herself during the medical appointment in response.
+
+In an 8 November 2022 email to Bennett Law, Mrs Reid records that she is transmitting (among other documents) "an email from Nathan Halls" — confirming the existence of direct correspondence between Mr Halls (an NDIA Assistant Director, on the applicants' material) and the applicants in the period leading to the December 2022 banning decisions. That correspondence is preserved in the applicants' files and is available for forensic deployment.
+
+The applicants' position is that the 30 September 2022 email and the 8 November 2022 transmission together establish, as documentary fact contemporaneous to the events:
+
+(a) **a sustained pre-arrest competitor-harassment campaign** directed at the applicants by Nurse Assist 24/7, Diversitas WA and associated actors;
+
+(b) **an alleged NDIA insider conduit (Mr Nathan Halls, Assistant Director, NDIA)** through whom FFG's client list was transmitted to a competitor, who provided preferential NDIS plan-approval offers in exchange for cooperation, and who made adverse statements about the applicants to a medical practitioner;
+
+(c) **a witness pool materially compromised** — specifically Ms Terri Roberts, who at the time of her witness statement to the Commission was (i) a former FFG employee who had left in disciplinary circumstances; (ii) a Business Advisor at Nurse Assist 24/7 (a competing business); (iii) a personal friend and operational ally of Sukhi Tear, herself acting in concert with the alleged NDIA insider; and (iv) an operator of Infinity Living Options Pty Ltd, itself one of the entities the Commission later banned; and
+
+(d) **a structural conflict of interest in the Commission's own brief** — Amanda Damon, named as a co-director of N-Able for banning purposes, was simultaneously a director of Nurse Assist 24/7 (the competing business Ms Roberts had joined) — without disclosure or investigation by the Commission.
+
+The Commission has at no point investigated these matters. They were not raised with Mr Halton in any briefing note. They were not addressed in IR(6), IR(7) or IR(10) (the FFG internal review). They are not addressed in any AGS submission filed in the ART proceedings to date.
+
+****Cassandra Burke recantation.** Ms Burke's sworn statement of 16 February 2023 was used by the Complaints Commissioner on internal review to broaden the case (the Dream Big Employment thread). On the applicants' material, Ms Burke has recanted that statement. The Commission has not addressed the recantation in any document the applicants have seen.
+
+**The post-discontinuance investigator-conduct pattern (Modplex / Bec Hayward & Alex Bowers / Fanny-Dulloo).** Beyond the witness layer, the applicants' contemporaneous records (preserved in Gmail correspondence to their solicitors at the time) establish a sustained pattern of NDIA / NDIS investigator outreach to third parties — former employees of FFG, past business contacts, and persons whose statements the Commission already held — *after* the CDPP discontinuance of 23 February 2024. The full text of these records is set out in the separate document *Key Gmail Correspondence Excerpts for the Record* in the workspace folder. The sequence is:
+
+- **27 March 2024 (one month after the CDPP discontinuance)** — Mrs Reid records that "Francesco (Frank) from Modplex construction" (a past business contact, not a participant or NDIS provider) telephoned her at 11:57 am to advise that "NDIA investigators have called me 30 minutes ago and *demanded not asked* that he hands over any emails and transactions Frank's company has had with us". The investigator did not have a court order and described the demand as "not a request, let's put it that way". The named investigator was subsequently identified two days later as **Mr Jason Moore, Assistant Director, Serious and Complex Non-Compliance (SCNC) Team — Fraud Intelligence & Investigations Branch, National Disability Insurance Agency (`scnc@ndis.gov.au`)**.
+
+- **25 September 2024 — ABF Perth Airport stop**. The applicants and their two minor children were detained at Perth Airport for approximately three hours. Devices were seized and digitally examined. The applicants asserted LPP at the scene. The named Border Force officer (Julian) is recorded as stating that the family was on "*a flagged list of the Border Force as per the instructions of the NDIS*"; that the search was to "*collect any information that falls under the umbrella of the NDIS case*"; and that "*The Border Force has broad powers and it is being used to extract information we are told to do so and we don't need a warrant*". The applicants were threatened with continued detention "*every single time until we are taken off the list*". The family's then-solicitor, Mr Tom Monks, wrote within 48 hours describing the development as raising "*possible abuse of power by ABF and NDIS*" (28 September 2024 "PRIVILEGE & CONFIDENTIAL — URGENT" memorandum). A Federal Court injunction was recommended but not pursued, on cost grounds.
+
+- **Late 2024 (described by Mrs Reid to Weeksco on 5 December 2024)** — Bec Hayward (a former FFG receptionist) and her husband Alex Bowers (also a former FFG employee) reported that the NDIS had visited them "asking questions about us", "*directly after our devices were seized and searched without a warrant at the Perth airport*".
+
+- **7 January 2025 (eleven months after the CDPP discontinuance)** — Ms Virginie Fanny-Dulloo's husband reported by phone that NDIS investigators had entered the Fanny-Dulloo home and "sat her down". The named investigator was subsequently identified as **Mr John Maloney**. Mrs Reid's contemporaneous email to her solicitors that morning concludes: "*We don't know what's going on but clearly this is an active investigation.*"
+
+- **11 March 2025 (eleven weeks after the Fanny-Dulloo home attendance)** — The Commission's legal representatives (AGS Karlie Dickinson) write to the Tribunal and Mrs Reid stating that the Commission "*has made enquiries with the NDIA and has been informed that there is no current criminal investigation pertaining to Mrs Reid or to FFG*".
+
+Each of those four events on 27 March 2024, 25 September 2024, late 2024 and 7 January 2025 is independently evidenced by contemporaneous Gmail correspondence to solicitors. They are not retrospective reconstructions; they were sent within hours of the events they document, to multiple addressees, with the documentary footprint preserved. The Commission has at no point investigated those events. The applicants' position is that the conduct described is inconsistent with the asserted protective character of the s 73ZN power and supports the improper-purpose ground developed at Section 6 and the witness-credibility analysis above.
+
+### 0.4 The applicants' affirmative position
+
+The applicants' affirmative position, taken across the principal grounds developed in this note, is:
+
+- That no fraud was committed by any of the applicants or by any person acting on their behalf;
+- That the Commission's case has rested throughout on contested allegations which it has never tested, never adjudicated and (in the criminal forum) had withdrawn for no evidence;
+- That the Commission's witness layer is compromised by undisclosed motive, bias, competing-business interests, ongoing legal disputes, mental health susceptibilities, recantation and coercive investigative conduct;
+- That the December 2022 banning decisions were procedurally defective, individually unsupported (as to Mr Simon Reid in particular), and (as to Mrs Vida Reid) re-anchored on internal review in a manner that exceeded the s 100 review power;
+- That the broader procedural pattern (late disclosure, selective LPP claims, withholding of the Project Archer Tactical Intelligence Report which contains material favourable to the applicants on the internal reviewer's own admission, continued maintenance of the orders post the CDPP discontinuance) is itself reviewable;
+- And that the conduct of the proceedings against the applicants since 19 October 2022 has imposed substantial harm on them — financial, professional, reputational, familial — for which the appropriate remedies, in the order of priority developed at Section 9, should now be sought.
+
+### 0.5 Standing instruction
+
+These framing principles bind every document drafted in this matter from this point onwards. They are not to be diluted, softened, or hedged. The applicants do not concede the Commission's allegations and never have. References to the content of Commission documents are made for forensic purposes — to demonstrate the structure of the Commission's case as a matter of record — and not as concessions.
+
+### 0.6 The genuine-provider position — documentary anchors
+
+(Subsections 0.6 and 0.7 should be read together: 0.6 establishes that the applicants ran a genuine, operating NDIS provider, and 0.7 establishes that the conduct now relied on by the Commission was, four to six weeks before the arrest, being raised by the applicants and by participants as conduct **by the NDIA toward them**.)
+
+The Commission's case against Hybrid Hive (see in particular paragraph 5.1.6 of EC22-002103) is framed on the premise that the entity was "a vehicle to facilitate significant fraud." A directly equivalent framing underlies the case against FFG. That framing must be tested against the applicants' contemporaneous operational record. On that record:
+
+- **2021 — pre-existing professional relationship with NDIA WA Operations.** Nathan Halls (Nathan.Halls2@ndis.gov.au), at the time an officer of NDIA WA Operations, was corresponding with the applicants in June 2021 in relation to the multi-agency coordination of crisis support for participant David Germon (NDIS 431504500), together with Dean Tingey of the WA Department of Justice and Kaela Sullen of the NDIS. That relationship pre-dated the 19 October 2022 arrest by over fifteen months. (See Key Gmail Excerpts, item 20.)
+- **June 2022 — formal PRODA audit.** Hybrid Hive / FFG staff (Danica Hall, Rejaul Alam) were preparing materials for a Commonwealth PRODA audit covering multiple named participants only four months before the suspension. A "vehicle" does not undergo PRODA audit. (Key Gmail Excerpts, item 21.)
+- **February 2022 — director-level enforcement of client-contact standards.** Mrs Vida Reid was, in writing to the FFG staff group, enforcing the standard that participants must not go more than two months without contact, and required documented follow-up. (Key Gmail Excerpts, item 22.)
+- **2021–2022 — operating workforce.** FFG and Hybrid Hive maintained a documented, working staff team of at least eleven persons running daily participant operations, including the production of internal daily reports. (Key Gmail Excerpts, items 23 and 24.)
+- **March 2022 — Mr Simon Reid personally coordinating participant care.** Mr Reid coordinated the transition of David Germon into aged-care placement in conjunction with ORS Group (Behaviour Support practitioner Jason Ahearn) and the receiving facility. (Key Gmail Excerpts, item 25.)
+- **Several of the Commission's witnesses were former internal staff.** Notably, Ms Terri Roberts — relied on in the Commission's later case — was a working FFG staff member in 2021 sending daily reports internally to the applicants. Her later move to a competing business (Nurse Assist 24/7) and to the period of her later statements post-dates the operational record on which she was producing nothing inconsistent. This bears on the weight to be given to her later accounts. (Key Gmail Excerpts, item 24; deep dive Section 0.3.)
+
+This evidence is not produced to litigate every operational point. It is produced to make the framing point: the businesses were genuine operating NDIS providers, working in cooperation with the NDIA, the NDIS Commission, the WA Department of Justice and independent behaviour-support providers, in respect of real participants whose care the applicants were managing in real time. The Commission's case theory is reconciled to that record, or it is not. The applicants' position is that it has not been.
+
+This subsection is a standing reference. All later drafting — the amended SFICs, the s 73ZO applications, the s 70 opposition, any tortious or constitutional pathway — proceeds from these documentary anchors.
+
+### 0.7 The pre-arrest dismantling — documentary anchors
+
+The Commission's case theory is constructed on the premise that the applicants' alleged conduct prompted the Commission's intervention. The pre-arrest documentary record displaces that premise. On that record:
+
+- **1 October 2022 (18 days pre-arrest)** — Mr Simon Reid wrote, in private email to a participant family, that "Nathan Hall[s] is using government funding to essentially bribe participants to forgo their choice and co[ntrol]." (Key Gmail Excerpts, item 26.) Bribery and improper-purpose concerns were raised, in writing, by Mr Reid, before any arrest.
+- **1 October 2022** — Mrs Vida Reid instructed Bennett Law to issue a cease and desist to Ms Sukhi Tear of Diversitas WA (the competing provider in concert with whom Mr Halls was alleged to be operating). (Key Gmail Excerpts, item 27.)
+- **9–11 October 2022** — Mr Jonathan Shapiera, an FFG participant, wrote in support of FFG directly to Ms Barbara Lundgren, then Acting State Manager of NDIA Western Australia. (Items 30 and 34.)
+- **10 October 2022** — Ms Alexandra Oleksiuk of FFG staff wrote impact statements to Minister Bill Shorten (Minister for the NDIS), Minister Punch DPC WA, Senator Katy Gallagher, and the Member for Armadale. (Item 31.)
+- **10 October 2022** — Mrs Reid wrote to the WA Department of Justice (Ms Vicki Kay) and to MIFWA, on the record, recording that the NDIA's Mr Halls had been removing FFG's clients "without any reason or communication" and noting expressly: "we have not been audited, not accused of any[thing]". (Item 33.)
+- **11 October 2022** — Mrs Reid wrote to NDIA planner Mr Deepak Bhandari and to WA.OPERATIONS@ndis.gov.au directly, asserting participants' rights under "choice and control" and demanding an explanation for the continuous removal of clients. (Items 28 and 29.)
+- **12 October 2022** — The applicants identified, in writing to Bennett Law, the timing pattern by which Mr Halls had "suddenly approved" the access request of the son of the participant who had just written in their support. (Item 34.)
+- **26 October 2022 (seven days post-arrest, but reporting pre-arrest events)** — Mrs Reid transmitted to Mr Tom Monks and Mr Henry Gawley of Francis Burt Chambers correspondence titled "NDIA Assistant Director (Nathan Halls) asked me to hire his friend Brooke." (Item 35.) This is a forensic anchor for the misfeasance pathway.
+- **18 November 2022** — The Commission issued a second Notice of Suspension that expressly "supersedes the previous notice that is currently under review" — a procedural anomaly to be tested. (Item 36.)
+- **18 November 2022** — Mr Reid's individual Notice of Intention was served direct to his personal email (cheechybrown@hotmail.com), not via his solicitors — to be tested for *Annetts v McCann* / *Kioa v West* compliance. (Item 37.)
+- **7 December 2022** — Bennett Law confirmed in writing that the AGS held the seized devices and that, as at that date, the NDIS Commission and the AFP had not accessed them. The Commission cannot therefore have lawfully relied on device contents in making the December 2022 banning orders. (Item 39.)
+
+The forensic point follows. The Commission's later case theory of the applicants' alleged misconduct must accommodate the fact that, by 12 October 2022 — one week before the arrest — the applicants and FFG participants and FFG staff and the WA Department of Justice and four federal/state ministerial offices and a peak intermediaries body had all been put on notice that the conduct under scrutiny was, in significant part, NDIA-side conduct toward the applicants. The Commission did not address that material at any point in EC22-002000, EC22-002103, EC22-002521, IR(6) or IR(7).
+
+This is also the appropriate footing on which to bring evidence under any redress or tort pathway: the pattern of alleged misuse of position by NDIA officers in concert with a competing provider was contemporaneously documented, by name, in writing, to qualified legal advisers, before the events that the Commission later relied on as the trigger for the banning orders.
+
+### 0.8 The pre-arrest "instruction not to pay your invoices" audio — and post-discontinuance conduct anchors
+
+Three pieces of recorded or contemporaneously-transcribed evidence in the workspace folder are foundational, going to (a) the operational mechanism of the pre-arrest dismantling and (b) the post-discontinuance pattern of conduct identified in Section 0.3.
+
+- **Pre-arrest 2022 — Mr Halls personally directing the freezing of FFG's invoice payments by an external service provider.** The recording at `audio_evidence_20260211.3gpp` (the `20260211` portion of the filename is the date the file was saved or transcribed; the call itself was made pre-arrest in 2022, before the 19 October 2022 arrest) captures "Karen" — an officer of a service provider, plan manager or finance gateway — confirming in her own words that she "received an email from this Assistant Director Nathan ho[ll]s, um, explaining that, um, there is this, um, instruction, he confirmed the instruction not to pay your invoices." The applicants had no notice of the freeze; Mr Halls misrepresented to Karen that they did. (See Key Gmail Excerpts, item 46.) This is direct admissible evidence — recorded — of the operational mechanism by which the financial dismantling of FFG described abstractly throughout this deep dive was being conducted by Mr Halls personally. It is the audio counterpart of the 30 September 2022 Bennett Law email (Section 0.3), the 11 October 2022 NDIA WA Operations correspondence (item 29 of Key Gmail Excerpts), and the 26 October 2022 "asked me to hire his friend Brooke" transmittal (item 35).
+- **7 January 2025 — NDIS investigator Mr John Maloney's home interrogation of Ms Virginie Fanny-Dulloo.** The contemporaneously-recorded verbatim transcript (`Timeline of events Virginie Fanny Dulloo and her husband Jean.docx`) records Mr Maloney as conditioning the avoidance of imprisonment on Ms Fanny-Dulloo signing a witness statement against Mrs Reid ("It's your neck or her neck"), expressly admitting telecommunications interception ("we have been listening to all your phone calls with Vida and are continuously monitoring Vida's movements, calls and messages"), and expressly referencing public-shaming retaliation ("we can put your face all over the news like we did to Vida very publicly"). (See Key Gmail Excerpts, item 48.)
+- **7 January 2026 — ATO senior officer "Mark": $87,000 of post-payment penalty charges with "no documentation backing them up".** The transcript records Mark's express admissions that the applicants' November 2022 lump-sum payment of $69,430 zeroed out the underlying tax debt, but that an ATO audit then attached approximately $87,000 of SG / Part 7 / GIC charges anomalously and without the normal supporting documentation. The ATO has formally advised the applicants to object via the Online Services for Business portal. (See Key Gmail Excerpts, item 47.)
+
+### 0.9 Named actors and the redress matrix
+
+The documentary record now permits identification of the following named NDIA-side actors against whom redress is contemplated in any future tort, AHRC, Commonwealth Ombudsman, NACC, IGIS or other pathway:
+
+- **Mr Nathan Halls** — Assistant Director, NDIA WA Operations. The June 2021 multi-agency David Germon coordination (Key Gmail Excerpts item 20); the June 2022 "asked me to hire his friend Brooke" approach; the 30 September 2022 alleged conduit conduct (Section 0.3 of this deep dive); the 8 November 2022 transmittal of "an email from Nathan Halls" to Bennett Law; and the 11 February 2026 invoice-freeze instruction (Key Gmail Excerpts item 46). The Hammond Legal brief identifies him as having internally referred to Mrs Reid in NDIS / Commission correspondence as "baptism by fire."
+- **Ms Barbra Lundgren** — Acting State Manager, NDIA Western Australia, NDIA National Delivery (Barbie.LUNDGREN@ndis.gov.au). Recipient of Mr Jonathan Shapiera's 9 October 2022 complaint in support of FFG (Key Gmail Excerpts item 30). Identified in the Hammond Legal brief as having coached Ms Brooke Andrews on reporting back on FFG's internal affairs.
+- **Mr Bruce Graydon** — Assistant Director, NDIA Fraud Fusion Taskforce. Identified in the Hammond Legal brief as having pressured FFG's disabled clients, including Mr Shapiera (66 years old), to testify against Mrs Reid under threat of imprisonment, and as having offered substantial financial inducements (recorded as "increased NDIS funding of $200,000.00 plus his son being accepted into the NDIS scheme") as a bribe.
+- **Mr John Maloney** — NDIS investigator. Identified by name on the 7 January 2025 Fanny-Dulloo transcript (Key Gmail Excerpts item 48) and the contemporaneous Gmail item at deep dive Section 0.3 (post-discontinuance investigator-conduct pattern).
+- **Ms Brooke Andrews** — Mr Halls's close associate; placed within FFG in June 2022 (Hammond Legal brief).
+
+The accomplice / witness-side documentary record identifies:
+
+- **Ms Terri Roberts** — internal FFG staff member (Key Gmail Excerpts item 24); subject of DFG Legal advice from February 2022 (Key Gmail Excerpts item 42); subsequent Business Advisor at Nurse Assist 24/7 (deep dive Section 0.3); operator of Infinity Living Options Pty Ltd; introducer of Mr Rejaul Alam to FFG (Hammond Legal brief);
+- **Ms Amanda Damon** — Director of Nurse Assist 24/7; co-director of N-Able for Commission banning purposes (Section 0.3 of this deep dive); the structural conflict of interest in the Commission's own brief;
+- **Ms Sukhi Tear** — Director of Diversitas WA; the cease-and-desist subject of the 1 October 2022 Bennett Law instruction (Key Gmail Excerpts item 27); alleged conduit with Mr Halls;
+- **Mr Rejaul Alam ("RJ")** — FFG's former CFO at the time of the 5 May 2022 compliance lock (Hammond Legal brief); introduced to FFG by Ms Roberts; the source of the $160,000 cleaning-services invoice anomaly that triggered the compliance lock; making routine $5,000 ATO payments without Mrs Reid's knowledge (Key Gmail Excerpts item 47); fled to Canada after the October 2022 arrest; **subsequently hired by Nurse Assist 24/7** (the competing business operated by Ms Damon).
+
+### 0.10 The genuine-provider position — additional documentary anchor
+
+- **April 2022 — Federal Employment Services contract worth approximately $5 million per year.** Per the Hammond Legal brief, FFG was, only six months before the suspension, awarded a Workforce Australia / DEWR Federal Employment Services contract of approximately $5M per annum. The DEWR contract is a stand-alone anchor displacing the "vehicle" framing of EC22-002103. The applicants should locate and exhibit the underlying contract documentation.
+
+### 0.11A The Dream Big / Nurse Assist 24/7 structural witness map — new strategic position
+
+Following the consolidated Gmail/Outlook sweep documented in Key Gmail Excerpts Part 7, the witness layer the Commission relied on can now be mapped, by name, in full. Three things follow.
+
+First, **every materially adverse witness the Commission has relied on against the applicants is a former internal staff member of FFG or Hybrid Hive** who, after departure, either (a) joined Nurse Assist 24/7 (the competing business operated by Ms Amanda Damon — the same Ms Damon the Commission's own EC22-002103 brief named as a co-director of N-Able for banning purposes) or (b) became an owner or director of Dream Big Employment Pty Ltd, the post-arrest successor entity formed on 1 November 2022 by Ms Bec Hayward, Ms Madeline Dawson and Mr Alex Bowers, with Ms Virginie Fanny-Dulloo as a director.
+
+Second, that map has a structural consequence. There is, on the documentary record, **no independent third-party witness layer** in the Commission's case against the applicants. Every adverse witness has a documented prior employment relationship with the applicants, and a documented post-departure interest in a competing business that benefitted from the dismantling of FFG / Hybrid Hive. The Commission has at no point disclosed or investigated this map. The witness-credibility ground at Section 0.3 of this deep dive is therefore not a hypothetical position; it is a structural feature of the Commission's case which has been concealed by the Commission's failure to engage with the witness layer.
+
+Third, the post-discontinuance pattern of conduct (Section 0.3 / Section 0.7 of this deep dive — Modplex, ABF Perth Airport, Bec Hayward home visit, Fanny-Dulloo home interrogation) is consistent with **NDIA-side reinforcement of the same witness layer**. The 7 January 2025 Maloney transcript at Key Gmail Excerpts item 48 records Mr Maloney expressly seeking from Ms Fanny-Dulloo a witness statement against Mrs Reid in conditions of recorded coercion. Ms Fanny-Dulloo is a Dream Big director. The pattern is therefore recursive: the NDIA-side conduct that the applicants attribute to Mr Halls is, on the documentary record, being maintained by the substantial collection of witness statements from the Dream Big and Nurse Assist 24/7 collectives — collectives that were themselves formed in the operational space the dismantling of FFG opened up.
+
+This is the integrated *Padfield / Toohey / Mengel* case in its strongest documentary form.
+
+### 0.11B Rejaul Alam unauthorised access — explains the Hybrid Hive trading anomaly
+
+Per Key Gmail Excerpts item 61, on 24 July 2023 Mrs Reid identified that her former CFO Mr Rejaul Alam had **retained unauthorised access to the Hybrid Hive corporate email account (hello@hybridhive.com.au)** more than nine months after his October 2022 departure. He had fled to Canada after the arrest and had been hired by Nurse Assist 24/7. He is the named source of the May 2022 $160,000 cleaning-services invoice anomaly that triggered the FFG compliance lock (Hammond Legal brief).
+
+This identification is forensically material. The 27 January 2025 anomaly at Key Gmail Excerpts items 45 and 63 — Hybrid Hive showing trading at over $1M in 2023 despite having stopped trading in November 2022, plus the FFG 2022 tax-return discrepancy of $201,260 between the applicants' figures and Active Tax Services' figures — is, on the documentary record, attributable to a former CFO who retained unauthorised access to the entities' email and (likely) financial systems and who was at the same time operating in the competing-business space. This is a McGrathNicol forensic accounting question; it is also potentially an ATO objection, an IGTO complaint, a Privacy Act complaint, and a referral for criminal investigation in respect of Mr Alam — not the applicants.
+
+### 0.11C DEWR ES-22-0090 / Workforce Australia six-year contract
+
+Per Key Gmail Excerpts items 56–57: FFG held the **Workforce Australia Services Deed of Standing Offer 2022–2028 (procurement reference ES-22-0090, GDV1)** with the Commonwealth Department of Employment and Workplace Relations. This was a six-year Federal Employment Services contract worth approximately $5 million per year, awarded in mid-2022. DEWR was continuing to manage performance of the contract through December 2022 — the same period in which the NDIS Commission was making the FFG banning order. The applicants should obtain by FOI the full DEWR contract performance and award history.
+
+Two Commonwealth agencies were therefore operating at cross-purposes on the same entity in December 2022 — DEWR managing FFG as a going-concern Federal Employment Services contractor, while the NDIS Commission was characterising FFG as a vehicle to facilitate fraud. The Commission's case theory must accommodate that.
+
+### 0.11D Cross-agency directorship change — Tori Fitton sole director from 12 December 2022
+
+Per Key Gmail Excerpts item 56: by **12 December 2022 — nine days before the FFG banning order issued on 21 December 2022** — Mr Simon Reid had stepped down as sole director of FFG. Ms Tori Vince Fitton was then the sole director and secretary. The FFG banning order was therefore made against an entity Mr Reid was no longer a director of, and Ms Fitton (the then sole director) was not a respondent to the banning order. This is an additional anchor for the individualised-assessment ground in respect of Mr Reid (deep dive Section 2) and for the FFG side of the SFIC.
+
+### 0.11E McGrathNicol full-systems forensic engagement from 4 November 2022
+
+Per Key Gmail Excerpts item 55: the applicants engaged McGrathNicol (one of Australia's leading forensic-accounting firms) within weeks of the arrest, through Bennett Law, with **full access** to Xero, BrightHR, MyPlace and PRODA, undertaken by named senior forensic accountants Mr Michael Shanahan and Mr Vern Meiring. This forensic engagement pre-dated the December 2022 banning orders by approximately six weeks.
+
+The implications:
+
+(a) Before the banning orders were made, the applicants had voluntarily opened every operational system to a top-tier independent forensic-accounting firm. The Commission did not access that work product before deciding to ban.
+
+(b) The McGrathNicol output is potentially the single strongest evidentiary instrument the applicants have. It should be retrieved in full, with the LPP Schedule of 13 May 2024 (Section 0.3 reference) and the underlying forensic-system access logs and reports.
+
+(c) The 11 March 2025 AGS letter confirming "no current criminal investigation pertaining to Mrs Reid or to FFG" is consistent with what the McGrathNicol forensic review would have found — there was, on the documentary record now available, nothing for a criminal investigation to find. The fraud framing was built on the witness layer documented at Section 0.11A; the operational records, when examined, do not appear to have supported it.
+
+### 0.11F Honey Nguyen — second ministerial pathway anchor
+
+Per Key Gmail Excerpts item 51: in addition to the 10 October 2022 Alexandra Oleksiuk impact statements (item 31), FFG staff member Ms Honey Nguyen wrote to the Minister for the NDIS (Bill Shorten) at minister.invitations@dss.gov.au on 17 October 2022 — 48 hours before the arrest. This is a second independent ministerial-pathway anchor for the improper-purpose ground at Section 6 of this deep dive. Whether DSS responded is to be tested by FOI.
+
+### 0.11G NDIA Privacy Act breach in October 2022
+
+Per Key Gmail Excerpts item 53: on 27 October 2022 the NDIA was identified by the applicants — to senior counsel Mr Hubert Gawley — as having emailed Mrs Reid a third party's personal information. This is a Privacy Act 1988 (Cth) APP 6 and APP 11 breach by the NDIA against the applicants, contemporaneously documented within days of the arrest. It anchors a separate Privacy Commissioner / OAIC complaint pathway in the deep dive Section 9 redress framework.
+
+### 0.11 Procedural fairness primary anchor — registered-post defect
+
+The pre-existing workspace document `Reid_v_NDIS_Legal_Assessment.docx` identifies the following primary procedural-fairness defect on which the existing assessment is **65–75% likelihood of a Tribunal finding of procedural defect, with 55–65% prospect of remittal or order modification on this ground alone**:
+
+(i) Notices of Intention dated **19 November 2022** with a response deadline of **30 November 2022** (only 11 days);
+(ii) Sent by registered post requiring signature;
+(iii) Received by Mrs Reid only on **7 December 2022 — 18 days after posting, 7 days post-deadline**;
+(iv) **Signed for by Mr Ousman Kamara — not Mrs Reid or Mr Reid** — raising further service-validity questions;
+(v) Not delivered to the solicitors of record (Mr Tom Monks) before the deadline.
+
+Applying *Kioa v West* (1985) 159 CLR 550; *Hot Holdings v Creasy* (1996) 185 CLR 149; *Re MIMA; Ex parte Lam* (2003) 214 CLR 1; *SZFDE v Minister* (2007) 232 CLR 189; and *MIC v SZIZO* (2009) 238 CLR 627, the procedural-fairness ground stands as the strongest single-issue pathway in the matter. It applies equally to Mr Reid's 18 November 2022 Notice of Intention served direct to his personal email at cheechybrown@hotmail.com (Section 0.7 item) — the SZIZO line covers both modes of defective service.
+
+---
+
+## 1. Executive summary
+
+This note examines, in depth, the two grounds the applicants now propose to put at the centre of their case before the Administrative Review Tribunal, and the broader context that explains and reinforces them:
+
+- **Simon Reid** — that the original banning decision was made without any individualised assessment of his own conduct, knowledge or culpability, in circumstances where the contemporaneous record discloses that the Commission attributed his wife's conduct, and the conduct of corporate entities of which he was not a director at the material time, to him personally;
+- **Vida Reid** — that, on internal review under s 100 of the NDIS Act, the Complaints Commissioner purported to "vary" Mrs Reid's banning order by switching its statutory foundation from s 73ZN(2)(a)(i) (contravention) to s 73ZN(2)(a)(iii) (suitability). That move was not a variation; it was, in substance, the making of a fresh decision under a different head of power, undertaken in excess of the s 100 review power and without compliance with the antecedent statutory protections in ss 73ZM, 73ZN; and
+- **The broader context (Section 6)** — that the decisions were made on a 19 October 2022 same-day footing that required multi-agency coordination, against a December 2022 ministerial announcement window, with the Commission's own originating brief recording that the proposed action was "quite strong" relative to conduct that focused on "administrative and personal errors". On the *Padfield* / *Toohey* line of authority, the dominant purpose for which the power was exercised is open to challenge.
+
+Both principal grounds are documentary in nature. Each is anchored in admissions on the face of the Commission's own materials, so the evidentiary risk is comparatively low. Each is independently sufficient, on a merits review, to warrant setting aside the relevant decision; together they constitute a forceful platform for relief. The political-timing context developed at Section 6 does not displace the two grounds — it explains why the procedural and substantive defects were as comprehensive as they were.
+
+As at 13 May 2026 the case has reached an unusual procedural inflection point. The Commission has admitted on the record (Short Supplementary Submissions, 19 March 2026) that eight categories of Simon-specific documents — including Mr Reid's own Notice and Statement of Reasons and the three briefing notes that underlie his ban — were omitted from the original 13 June 2024 tender bundle. The promised remediation by 10 April 2026 did not occur. On 7 May 2026 the AGS supplied an informal version of the omitted documents direct to Mr Reid, but concurrently filed an application under s 70 of the ART Act 2024 to withhold from the applicants two legal advice attachments to the briefing notes. The severance applications, heard on the papers on 20 March 2026, remain reserved. This is the moment to file amended Statements of Facts, Issues and Contentions that put each ground at the front of the case.
+
+---
+
+## 2. Procedural history and documentary basis
+
+### 2.1 The decisions actually under review
+
+The decision in respect of Simon Reid is the banning order made by Mr Philip Halton on 21 December 2022, prohibiting Mr Reid from any involvement in the NDIS sector for five years, expressed to be made under s 73ZN(2)(a)(iii) — "not suitable to be involved in the provision of supports or services". That decision was "varied" by the Complaints Commissioner on 21 April 2023 only to broaden the operative prohibition (to include indirect involvement, labour hire, and the provision of support, funding, guidance or assistance to NDIS providers). The statutory foundation of Simon Reid's order has at no time changed: it has always been s 73ZN(2)(a)(iii).
+
+The decision in respect of Vida Reid is the banning order made by Mr Halton on 20 December 2022. On its face that order rested on s 73ZN(2)(a)(i) — a reasonable belief that Mrs Reid had contravened, was contravening, or was likely to contravene the NDIS Act. That decision was "varied" by the Complaints Commissioner on 21 April 2023 in two distinct respects: (a) the statutory ground was changed from s 73ZN(2)(a)(i) to s 73ZN(2)(a)(iii); and (b) the operative prohibition was broadened in the same terms as Simon's.
+
+### 2.2 Key documentary sources
+
+The analysis that follows relies on the following materials (now all in the applicants' possession):
+
+- Notice of Banning Order — Vida Reid (Halton, 20 December 2022) — cites s 73ZN(2)(a)(i)
+- Notice of Banning Order — Simon Reid (Halton, 21 December 2022) — cites s 73ZN(2)(a)(iii); produced informally on 7 May 2026 after non-inclusion in the original bundle
+- Executive Brief **EC22-002000** (19 October 2022) — originating brief; FFG suspension and notice of intention against Vida; signed on the day of Ms Reid's arrest
+- Executive Brief **EC22-002103** (Project Archer, 17 November 2022) — notice-of-intention brief for Simon and multiple entities under s 73ZN(2)(a)(iii)
+- Executive Brief **EC22-002429** (2 December 2022) — extension of time for Mr Reid's submissions
+- Executive Brief **EC22-002521** (21 December 2022) — decision brief for Mr Reid's banning order
+- Executive Brief **EC22-002581** (20 December 2022) — decision brief for FFG revocation and Vida's banning order
+- **IR(6) 22/23** — Vida Reid (Sian Leathem, 21 April 2023)
+- **IR(7) 22/23** — Simon Reid (Sian Leathem, 21 April 2023)
+- NDIA Statement of Material Facts (19 October 2022) — lodged in criminal proceedings against Mrs Reid
+- NDIA Tactical Intelligence Report — Project Archer (18 August 2022) — subject to DP Mischin non-disclosure orders 26 July 2024
+- Respondent's Short Supplementary Submissions (19 March 2026); AGS letter and s 70 application (7 May 2026); applicants' Short Directions Submissions (8 March 2026)
+- Joint Ministerial-Commission media release (23 December 2022) issued through ministers.dss.gov.au
+
+Two features of that documentary record drive everything that follows. First, the Commission has now admitted, on the record, that the original tender bundle did not contain the principal source materials underlying Simon's ban — including his banning order, three briefing notes and three pieces of solicitor correspondence. Second, the Complaints Commissioner's Statement of Reasons in each of Vida's and Simon's internal reviews repeatedly attributes alleged misconduct in language that draws no distinction between Mr and Mrs Reid and that, on its face, concedes attribution errors. Those features supply the forensic foundation for both principal grounds.
+
+---
+
+## 3. Ground 1 — Simon Reid: no individualised assessment
+
+### 3.1 The proposition
+
+A banning order under s 73ZN(2)(a)(iii) of the NDIS Act requires the decision-maker to form a reasonable belief, on the basis of an individualised assessment, that the particular person the subject of the order is not suitable to be involved in the provision of supports or services. The reasonable belief must be that of the decision-maker, must be referable to the particular individual, and must be supported by considerations directed to that individual — including (where corporate conduct is involved) the individual's knowledge, intent, position, period of office and personal conduct. The decision-maker must not impute to the individual conduct that is not his, must not collapse the individual into a corporate or marital aggregate, and must not adopt findings made about another person (here, Vida Reid) by reference to a different statutory test (here, a criminal allegation tested on a different standard of proof in a different forum).
+
+On the documentary record, the original decision-maker did none of this in any sustained or rigorous way. The decision was made on the materials before him in a brief structured around corporate conduct and Vida Reid's criminal charges, with Mr Reid drawn into the orbit of the order by reason of his marital and directorship relationships rather than because the brief or the decision-maker undertook a discrete analysis of his individual conduct and culpability. The internal reviewer's own reasons concede — repeatedly — that aspects of the original attribution to Mr Reid were not sustainable.
+
+### 3.2 The statutory requirement
+
+Section 73ZN(2) of the NDIS Act confers a discretion on the Commissioner (or her delegate) to make a banning order where (relevantly) the Commissioner reasonably believes that *the person* is not suitable to be involved in the provision of supports or services to people with disability: s 73ZN(2)(a)(iii). The word *person* is significant. The power is a power to act against an individual, not against a household or a corporate group. The *reasonable belief* must therefore be a belief about that individual, formed on materials that bear on that individual, and articulated in reasons that address that individual.
+
+The duty to give an individualised assessment is the implication of three settled principles. First, the rule that a statutory power conferred on a decision-maker must be exercised by reference to the considerations the statute makes mandatory: *Minister for Aboriginal Affairs v Peko-Wallsend Ltd* (1986) 162 CLR 24. Second, the principle that procedural fairness requires that the case actually decided against a person be a case the person had a meaningful opportunity to meet: *SZBEL v Minister for Immigration* (2006) 228 CLR 152. Third, the principle that a decision must rest on probative material rather than mere suspicion, with elevated evidentiary care required in regulatory decisions of grave reputational consequence: *Briginshaw v Briginshaw* (1938) 60 CLR 336; *Annetts v McCann* (1990) 170 CLR 596.
+
+### 3.3 The Commission's own admissions
+
+**(a) The decision brief EC22-002521 is structured around corporate office, not personal conduct.** The brief frames Simon's "unsuitability" by reference to two propositions:
+
+> "It is alleged that Mr Reid is not suitable to be involved in the provision of supports or services to people with disability on the basis that Mr Reid, a person who has authority or responsibility for (or significant influence over) planning, directing or controlling the activities of Hybrid Hive Pty Ltd (Hybrid):
+> 1.1 Has authority or responsibility for (or significant influence over) planning, directing or controlling the activities of Hybrid as a Director, an entity under which fraudulent claims for services were submitted to the NDIS; and
+> 1.2 Mr Reid is a joint signatory to the bank accounts of FFG and Hybrid, to which monies for fraudulent claims were paid."
+
+Neither limb is an individualised allegation of conduct. Limb 1 is a derivation through directorship. Limb 2 is a banking arrangement. Neither identifies what Mr Reid did, what Mr Reid knew, or any specific decision he made.
+
+**(b) The decision brief copies Vida's case across to Simon.** The factual matrix is the matrix from the criminal Statement of Material Facts (19 October 2022). The 81 alleged false payment requests, the $1.485M expired-plans figure, and the Goodwin and Clulow allegations are stated as conduct of "Ms Reid and Mr Reid" jointly. The brief draws no distinction.
+
+**(c) The internal reviewer conceded misattribution.** At paragraph 29(i) of Mr Reid's Statement of Reasons:
+
+> "I note the original decision-maker took into account the allegations contained in the Statement of Material Facts that relate to FFG having submitted fraudulent claims against the NDIS plan of Ms Sarah-Jane Clulow between 24 November 2021 and 22 June 2022. In my view, this conduct cannot reasonably or appropriately be attributed to Mr Reid given he was not the director of FFG during this period of time (or otherwise responsible for such conduct)."
+
+**(d) The internal reviewer discounted the headline merits figure.** At paragraph 29(j):
+
+> "Similarly, the original decision-maker seems to have given weight to the allegation… that FFG and Hybrid are responsible for $1,485,527 in claims from the expired plans of NDIS participants. However, the original decision-maker had other material before him (specifically, a 'Tactical Intelligence Report' from the NDIA dated 18 August 2022) which acknowledges that it is not known what proportion of these claims against expired plans were for services that were indeed provided. Therefore, I have given minimal weight to this fact."
+
+**(e) The Commission's own witnesses do not implicate Mr Reid personally.** Ms Goodwin told the Commission "Simon never was involved with providing the services". The internal review records the Commission's own internal description of Mr Reid as the "absent boss most of the time". Ms Fanny-Dulloo recorded that Mr Reid had "no involvement with FFG". The Regali, Benediktsson and Smith statements (the three the original decision-maker is said to have relied on) are not adverse to Mr Reid on a fair reading.
+
+### 3.4 The ASIC record contradicts the Commission's narrative
+
+| Entity | Mr Reid's period(s) as director | Alleged offending period covered by the ban |
+|---|---|---|
+| FFG | 28 Aug 2020 – 3 Jan 2021; then 1 Nov 2022 – present | 26 Nov 2021 – 22 Jun 2022 (SMF); Clulow claims 24 Nov 2021 – 22 Jun 2022 — expressly excluded by IR (para 29(i)) |
+| Hybrid Hive | 17 Feb 2022 – present (co-director until 21 Aug 2022; sole director from 22 Aug 2022) | Goodwin claims 25 Jan 2022 – 10 May 2022; 81 false payment requests 26 Nov 2021 – 22 Jun 2022 |
+
+For almost the entire FFG offending window, Mr Reid was not a director (ceased 3 January 2021; returned 1 November 2022). For the first 79 days of the Hybrid offending window (and the first three weeks of the Goodwin period), Mr Reid was also not a director.
+
+### 3.5 The omission of the decision brief from the tender bundle
+
+From June 2024 to 19 March 2026, the principal documentary basis for Mr Reid's banning order was not in evidence before the Tribunal. The Respondent now concedes that the Notice and Statement of Reasons for Simon's banning order, briefing notes EC22-002103, EC22-002429 and EC22-002521, three pieces of Tom & Co correspondence, and the Cassandra Burke statement were all omitted (Short Supplementary Submissions, 19 March 2026, [15]). The 10 April 2026 remediation deadline was not met.
+
+On 7 May 2026 the AGS supplied informal copies of those documents direct to Mr Reid. Concurrently the AGS filed an application under s 70 of the ART Act 2024 for non-disclosure orders over Attachment O to EC22-002103 and Attachment G to EC22-002521 — the legal advice documents.
+
+### 3.6 Authorities
+
+- *Frugtniet v ASIC* (2019) 266 CLR 250 — case-specific quality of suitability assessment
+- *Townshend v ASIC* [2023] AATA 3810 — decision-maker cannot transpose conduct from corporate proceedings to individual without considering personal state of mind and acts
+- *ASIC v Healey* (2011) 196 FCR 291 and *Daniels v Anderson* (1995) 37 NSWLR 438 — directors' obligations personal; office-holding insufficient
+- *Morley v ASIC* (2010) 81 ACSR 285 — regulatory action against directors requires discrete personal findings
+- *Peko-Wallsend* (1986) 162 CLR 24 — failure to take account of mandatory relevant consideration is jurisdictional error
+- *Annetts v McCann* (1990) 170 CLR 596 and *Ainsworth v Criminal Justice Commission* (1992) 175 CLR 564 — heightened procedural fairness where reputation engaged
+
+### 3.7 How to put this on the merits review
+
+On *Shi v MARA* (2008) 235 CLR 286 merits review the Tribunal makes the correct or preferable decision on the materials. The forensic strategy is to compel the Commission to identify each document in the bundle that (i) attributes a specific act to Mr Reid (distinct from Mrs Reid or the corporate entities); (ii) identifies a specific date or period when Mr Reid had the capacity in which he is said to have acted; (iii) discloses the Commission's analysis of his individual knowledge or intent; and (iv) discloses any consideration of his ability to dissociate. The working hypothesis is that the bundle will produce few, if any, documents meeting all four tests.
+
+---
+
+## 4. Ground 2 — Vida Reid: ultra vires change in statutory ground
+
+### 4.1 The proposition
+
+On 21 April 2023, on internal review under s 100 of the NDIS Act, the Complaints Commissioner (Sian Leathem) issued IR(6) 22/23. The decision is described as a "variation". On its face the decision did two things at once: it changed the statutory ground of Mrs Reid's banning order from s 73ZN(2)(a)(i) of the NDIS Act to s 73ZN(2)(a)(iii); and it broadened the operative prohibition. The first of those moves was not authorised by the power under which the Complaints Commissioner purported to act. It was, in substance, the making of a fresh banning order under a different head of power, without compliance with the antecedent statutory protections that govern the making of such an order. The vice is jurisdictional error in the s 100 review, not merely procedural unfairness.
+
+Three propositions:
+
+- (a) s 100 of the NDIS Act does not confer a power to substitute a different statutory ground. The power to vary, in s 100(6)(b), is a power to alter the terms or scope of the decision under review, not to make a different decision under a different power;
+- (b) the substitution was made without the procedural protections that ss 73ZM and 73ZN require when a new decision is to be made under s 73ZN(2)(a)(iii). Mrs Reid was never given a notice of intention identifying (a)(iii), never invited to respond to a (a)(iii) case, and never given a reasonable opportunity to address the suitability standard on its own terms;
+- (c) the substitution is independently invalid as procedurally unfair under *Applicant S*, *SZBEL* and *WZARH*: the case actually decided was not the case put to Mrs Reid.
+
+### 4.2 The smoking-gun extract
+
+Paragraphs 1–2 of the 21 April 2023 letter:
+
+> "I refer to the email received by the NDIS Quality and Safeguards Commission (the NDIS Commission) on 25 January 2023 requesting an internal review of the decision made on 20 December 2022 to impose a banning order against your client, Ms Vida Reid, for a period of 5 years under section 73ZN(2)(a)(i) of the NDIS Act (the original decision). … The variation I have decided to impose is to: 1. change the legislative basis for the banning order from section 73ZN(2)(a)(i) of the NDIS Act to section 73ZN(2)(a)(iii) instead; and 2. broaden the scope of the banning order to make it explicit that Mrs Reid is to have no involvement with or in the NDIS sector, in any capacity."
+
+Paragraphs 29–30 of the Statement of Reasons:
+
+> "I am of the view that the original decision was the correct and preferable decision to be made, however, I disagree with the basis for the original decision, namely the original decision-maker forming a reasonable belief that Mrs Reid had contravened, was contravening, or likely to contravene the NDIS Act. Section 73ZN(2)(a)(i) allows for a banning order to be made against a person in such circumstances. In my view, the original decision should have been made pursuant to section 73ZN(2)(a)(iii) of the NDIS Act, which provides a banning order can be made where a decision-maker forms a reasonable belief that a person is not suitable to be involved in the provision of supports or services to people with disability."
+
+Paragraph 31 frankly explains the rationale:
+
+> "A banning order on this latter basis accords with the usual approach followed by the NDIS Commission in matters where a person is alleged to have engaged in fraudulent activity against the NDIS (particularly where criminal charges are laid) and is also more consistent with the NDIS Commission's Banning Order Policy."
+
+### 4.3 The s 100 power and its limits
+
+Section 100 of the NDIS Act is an internal review provision. On review, the reviewer may affirm, vary or set aside the original decision: s 100(6). The power to vary is limited to a power to alter the content or scope of the decision under review; it is not a freestanding power to make a different decision under a different head of substantive power.
+
+In the banning-order regime, s 73ZM imposes a duty to give written notice of the proposed action, to set out the grounds, and to provide a reasonable opportunity to respond. The 19 November 2022 notice of intention against Mrs Reid identified s 73ZN(2)(a)(i). She was never given a notice of intention identifying (a)(iii).
+
+At paragraph 27 of the Vida Statement of Reasons, the reviewer expressly recognised that on 22 March 2023 she wrote to Mr Monks proposing to vary the order in light of "new information" (the Dream Big Employment registration). But the 22 March 2023 letter did not propose to switch the statutory ground. It proposed (only) to broaden the scope to address the new information. The ground-switch was not flagged. Mrs Reid was not invited to respond to a (a)(iii) case.
+
+### 4.4 The two operations are not the same
+
+Sub-paragraph (a)(i) — *"the person has contravened, is contravening, or is likely to contravene this Act"* — engages a question of conduct against an objective normative standard.
+
+Sub-paragraph (a)(iii) — *"the person is not suitable to be involved in the provision of supports or services"* — engages a broader evaluative question of overall fitness and suitability.
+
+These are different statutory questions with different evidentiary frameworks and different procedural fairness corollaries. The Complaints Commissioner's own reasons admit, by her use of "this latter basis" at paragraph 31, that the two grounds are functionally distinct.
+
+### 4.5 Authorities
+
+- *Frugtniet v ASIC* (2019) 266 CLR 250 — regulator cannot substitute a different statutory test
+- *Applicant S v Minister for Immigration and Multicultural Affairs* (2004) 217 CLR 387 — decision cannot be sustained on a basis different from that actually relied on
+- *SZBEL v Minister* (2006) 228 CLR 152 — issues to be addressed on review must be put to the affected person
+- *Minister for Immigration and Border Protection v WZARH* (2015) 256 CLR 326 — procedural fairness attaches to the case actually being run
+- *Townshend v ASIC* [2023] AATA 3810 — reviewer cannot re-anchor a banning decision on a different ground without opportunity to address
+- *Craig v South Australia* (1995) 184 CLR 163 and *Kirk v Industrial Court (NSW)* (2010) 239 CLR 531 — misidentification of the nature of the power being exercised is jurisdictional error
+- *Hossain v Minister* (2018) 264 CLR 123 — threshold of materiality for jurisdictional error
+
+### 4.6 Two consequences
+
+**(a) Jurisdictional error rather than merely procedural unfairness.** The Final Submission (September 2025, Section F) characterises the variation as procedurally unfair and as a misuse of the s 73ZO variation power. That is right so far as it goes but understates the vice. The point is jurisdictional. A purported s 100 review that is in substance a fresh s 73ZN decision under a different sub-paragraph exceeds the s 100 power. With the (a)(i) basis abandoned and no valid (a)(iii) decision ever lawfully made, there is no operative banning order against Mrs Reid.
+
+The applicant should plead the ground in the alternative: if the exercise was under s 100, it was jurisdictional error; if it was under s 73ZO, it was likewise outside power and procedurally unfair. On either view, the variation is invalid.
+
+**(b) The Respondent's answer is insufficient.** The Respondent's 19 March 2026 submissions answer the ground at paragraph 6 by saying merits review will give Mrs Reid an opportunity at the final hearing. That misses the point: merits review on a *Shi* basis cannot retrospectively confer power on a decision-maker who lacked it. The Tribunal's task is to set aside.
+
+Further, the Respondent's framing ignores the collapse of the s 73ZN(2)(a)(i) basis. The CDPP discontinued all charges against Mrs Reid on 23 February 2024. The (a)(iii) re-anchoring of 21 April 2023 is the only thing keeping the ban operative — and it was an exercise outside power.
+
+---
+
+## 5. How the two grounds interlock
+
+The two grounds are independent but reinforce each other materially. First, the internal review by the Complaints Commissioner is the principal exercise of forensic care in the entire administrative pathway. If her exercise of the s 100 power is unlawful (Ground 2), there is no exercise of the power that can be said to have rectified the absence of an individualised assessment of Mr Reid (Ground 1). Second, the rationale for switching the ground in Mrs Reid's case — that (a)(iii) is more apt where criminal charges have been laid but not determined — is undermined by the CDPP discontinuance of 23 February 2024. Third, the Commission's case against Mr Reid was, in form, derivative of the case against Mrs Reid: when the Vida (a)(iii) decision falls away, the basis on which Mr Reid was "swept along" with her falls away too.
+
+The two grounds operate as a pincer movement: Mr Reid was never the subject of an individualised assessment in the first place; Mrs Reid's case has lost its statutory foundation through an unlawful variation; and there is no operative path back through the s 100 power that can repair either defect without the Commission starting again at the s 73ZM notice stage.
+
+---
+
+## 6. The broader context — same-day coordination, improper purpose, and political timing
+
+The two grounds at Sections 3 and 4 stand on their own as procedural and substantive defects. They are reinforced — and their comprehensiveness explained — by a third dimension: the original decisions were made on a 19 October 2022 same-day footing, against a December 2022 ministerial announcement window, in a political environment in which the regulator was being marshalled for narrative purposes beyond its protective statutory mandate. The *Padfield* / *Toohey* line of authority makes that environment legally relevant: where the dominant purpose for which a statutory power is exercised is foreign to the purpose for which the power was conferred, the exercise is invalid.
+
+### 6.1 The 19 October 2022 same-day pattern
+
+19 October 2022 was the day Ms Vida Reid was arrested at Armadale Police Station and appeared in the Armadale Magistrates Court. The same day, Mr Halton signed Executive Brief EC22-002000; issued the suspension of FFG's NDIS registration with immediate effect; issued the notice of intention to revoke FFG's registration; and issued the notice of intention to make a banning order against Ms Reid for ten years. The sequence is recorded expressly at paragraph 12 of the subsequent EC22-002581 decision brief.
+
+The multi-agency coordination required to achieve that cadence — the Commission's brief signed and acted on; the NDIA's investigation feeding into the Statement of Material Facts of 19 October 2022; the AFP arrest and CDPP charging; the Magistrates Court appearance — does not occur by accident. The 19 October 2022 date was chosen for impact: either the criminal arrest was timed to coincide with the regulatory action, or the regulatory action was timed to coincide with the criminal arrest. Either way, the date carries an inference of coordinated stage management.
+
+### 6.2 The December announcement window
+
+The substantive banning orders were concentrated in the days before the ministerial announcement. Ms Reid's banning order was made on 20 December 2022. The orders against Mr Reid, FFG, Hybrid, Hive, EFS, Sahar & Simon Pty Ltd and Malibuhouse were made on 21 December 2022. The joint Ministerial-Commission media release of 23 December 2022 followed two days later, in the dead news week before Christmas.
+
+The brief's own internal cadence reflected the timing pressure. EC22-002103 (signed 17 November 2022) proposed at paragraph 20.1–20.2 a 21-day notice period (14 days plus 7 days postage). The actual notice letters were dated 19 November 2022 with a 30 November 2022 deadline — 11 days. The Commission halved its own brief's recommended timeframe.
+
+### 6.3 The brief's own admissions
+
+Three contemporaneous admissions in EC22-002000 are revealing. At paragraph 4 of Risks/Sensitivities:
+
+> "It is likely that the Commission's action against the Provider and individual may be viewed as quite strong given that the complaints and breaches focus on administrative and personal errors."
+
+At paragraph 5:
+
+> "The individuals involved have participated in local (WA) meetings with Federal Ministers. If the Commission decides to proceed to the completion of the notices then the loss of income will be substantial. Historical interactions with the individual/s indicate that the Commission should be prepared for a retaliatory response."
+
+At paragraph 3.4:
+
+> "a considerations document (Attachment 1D) has been generated to clearly separate information being used to support a contravention from information being used to support a 'state of mind'."
+
+The first concedes the disproportion. The second discloses awareness of political sensitivity and the prospect of pushback. The third confirms that the raw evidence was mixed and had to be reformatted before it could support the proposed action.
+
+### 6.4 The post-decision political deployment
+
+The 23 December 2022 media release tied the Reid matter directly to the broader political project. The Minister was quoted:
+
+> "These actions taken by the NDIS Commission demonstrate the Government's commitment to protecting participants from NDIS providers who do the wrong thing. … For years the Liberals were asleep at the wheel. I am happy the watchdog is doing what it should — protecting the interests of Australians with disability. A warning to NDIS fraudsters stealing from people with a disability and taxpayers — the easy ride is over."
+
+The release expressly tied the action to the expansion of the Fraud Fusion Taskforce. The Commissioner's quoted comment characterised the action as "swift" — a term that, against the documentary record of the same-day 19 October 2022 action, has documentary support.
+
+In 2023, the Minister engaged the strategy firm RedBridge to test "narrative" framings for the NDIS reform agenda. The RedBridge advice (later reported in *The Saturday Paper*, 27 July 2024) was that the saleable framing was "rorts, fraud, and spiralling costs". That framing was then deployed for the 2024 budget reductions of $14.4 billion. *The Saturday Paper* (11 January 2025) subsequently reported that only about 1.05% of the forecast $19 billion savings came from the fraud crackdown — the larger portion came from removing children from the scheme. The Reid matter was an early example of the kind of high-profile bust the campaign required for credibility.
+
+### 6.5 The legal framework
+
+The s 73ZN banning power is conferred on the Commissioner for the protective regulatory purpose of safeguarding NDIS participants. Where a statutory power is exercised for a purpose foreign to that for which it is conferred — or where the dominant purpose is improper — the exercise is invalid.
+
+- *Padfield v Minister of Agriculture* [1968] AC 997 — foundational improper purpose authority
+- *R v Toohey; Ex parte Northern Land Council* (1981) 151 CLR 170 — power exercised for foreign purpose is invalid
+- *Thompson v Randwick Corporation* (1950) 81 CLR 87 — dominant improper purpose vitiates exercise
+- *Sanders v Snell* (1998) 196 CLR 329 — powers may not be used to punish
+- *Minister for Immigration and Citizenship v Li* (2013) 249 CLR 332 — legal unreasonableness as free-standing ground
+
+### 6.6 How this bears on the two principal grounds
+
+The political-timing context does not displace Grounds 1 and 2. It explains them. The procedural and substantive defects — the truncated notice period, the joint attribution to "Ms Reid and Mr Reid" without individualised inquiry, the (a)(i) to (a)(iii) ground-switch on internal review, the late disclosure, the selective non-disclosure of the Tactical Intelligence Report and the legal-advice attachments, the maintenance of the bans after the CDPP discontinuance — are intelligible as the consequence of a process required to deliver decisions to a political announcement window.
+
+That context does three things. First, it provides documentary anchoring for a *Padfield* / *Toohey* / *Sanders* argument that the dominant purpose was foreign to the statute. Second, it reinforces the *Li* legal-unreasonableness analysis. Third, it weakens the Commission's claim to deference.
+
+### 6.7 Tactical framing
+
+A direct political-motive submission to the Tribunal carries risk. The right framing is the administrative-law framing of *Padfield* and *Toohey*: purpose foreign to the statute; multiple purposes with a dominant improper one; the documentary record of the same-day coordination, the December announcement window, and the brief's own admissions about the disproportion of action to conduct.
+
+The RedBridge material is best held in reserve and deployed only if the Respondent submits at hearing that the bans were made in good faith for purely protective regulatory purposes — at which point the broader environment is squarely in issue.
+
+The 19 October 2022 same-day coordination is itself a fact that can be pleaded without political framing. Calm presentation of the documentary chronology will allow the Tribunal to draw its own inferences.
+
+---
+
+## 7. How the Commission's strongest counter-arguments should be met
+
+### 7.1 "Merits review cures any defect"
+
+*Shi* merits review repairs many things but does not confer power on a decision-maker who lacked it. Where the vice is jurisdictional (Ground 2) the Tribunal's role is not to affirm or vary the decision but to recognise that there is no decision capable of being affirmed. On the individualised-assessment ground, the applicant's task is to show that, on the materials now available, no reasonable Tribunal could uphold a banning order in the terms imposed against Mr Reid.
+
+### 7.2 "Section 73ZN(2)(a)(iii) is broad enough to capture Mr Reid as a director"
+
+The statute uses the phrase "not suitable to be involved in the provision of supports or services" as an evaluative standard requiring an individualised consideration of the person's actual conduct, knowledge and remediation steps. *Healey*, *Daniels v Anderson* and *Morley* reject the proposition that mere office-holding will support a personal regulatory sanction.
+
+### 7.3 "The variation power is broad enough to change the ground"
+
+The Banning Order Policy cannot expand the s 100 power. Even if a switch were within power, it could only be effected after a fresh notice under s 73ZM identifying the new ground. None of that occurred.
+
+### 7.4 "The protective purpose favours the order remaining in place"
+
+The protective purpose does not authorise a defective process. Where the foundations of the order — the (a)(i) ground for Mrs Reid; the individualised case for Mr Reid — have been removed, the protective purpose is served by ordering the Commission to re-do its work properly. Section 181D(4)(b) NDIS Act itself requires risk-responsive and proportionate compliance activities.
+
+### 7.5 "The political-timing material is irrelevant to merits review"
+
+The *Padfield* / *Toohey* / *Sanders* principles characterise the original exercise of power as invalid where the dominant purpose was improper. That is an administrative-law objection to the validity of the underlying decision, not a political objection. On *Shi*, the Tribunal stands in the shoes of the decision-maker and makes the correct or preferable decision on the materials, including materials that disclose purpose.
+
+---
+
+## 8. Relief and recommended order of attack
+
+### 8.1 Relief sought
+
+**On Ground 1**, the Tribunal should set aside the banning order against Mr Reid and substitute a decision that no banning order should be made; alternatively, remit for fresh consideration directing attention to the individualised standard.
+
+**On Ground 2**, the Tribunal should set aside the 21 April 2023 internal review decision in respect of Mrs Reid; recognise that no valid decision under s 73ZN(2)(a)(iii) has ever been made against her; and (because the (a)(i) basis has been abandoned and is in any event no longer supportable on the materials) declare that there is no operative banning order against her.
+
+**Ancillary orders**: (a) removal of the applicants from the NDIS Provider Register pursuant to s 73ZS; (b) costs order against the Respondent for the conduct of the proceedings in respect of the supplementary disclosure; (c) discharge of DP Mischin's 26 July 2024 non-disclosure orders over the Tactical Intelligence Report.
+
+### 8.2 Immediate procedural tasks (May–June 2026)
+
+- Respond by ~21 May 2026 to the s 70 application over Attachments O and G (structured around *Mann v Carnell* waiver — reinforced by the three categories of already-disclosed legal-advice content in the original tender bundle — *Goldberg v Ng* selective disclosure, *DSE (Holdings)* issue waiver, and s 70(2) discretion under *VEAL*).
+- Prepare an application under s 86 ART Act 2024 for discharge or variation of the 26 July 2024 non-disclosure orders over the Tactical Intelligence Report — Project Archer.
+- Once the severance decision is handed down, request the Respondent's promised updated tender bundle.
+- Prepare amended SFICs pleading the two grounds, with Section 6 included as a discrete additional ground of improper purpose / legal unreasonableness.
+- Adduce ASIC extracts (with directorship chronology), the CDPP discontinuance, and the 23 December 2022 media release.
+
+### 8.3 Hearing sequencing
+
+1. Open on Ground 2 (the variation) — cleanest, most documentary point.
+2. Cross-examine Sian Leathem on the s 100 power, the absence of any (a)(iii) notice under s 73ZM, and the ground-switch rationale.
+3. Cross-examine Philip Halton on the EC22-002521 decision brief — paragraph-by-paragraph attribution audit.
+4. Address merits — the only conduct properly attributable to Simon is conduct within his Hybrid directorship (17 February 2022 onwards), and even within that period the Commission's witnesses describe him as an "absent boss" without operational engagement.
+5. Only if necessary, deploy the Section 6 material as a discrete additional ground of improper purpose.
+
+---
+
+
+## 9. End goals, redress, and the long view
+
+The substantive forensic analysis at Sections 3–6 is built around the question whether the banning orders can be set aside. That is the immediate task. But the case has been running since December 2022; the applicants have suffered substantial reputational, financial and personal harm; and the resolution of the ART matter is not the end of the story. This section addresses three further dimensions: what success in the ART would actually achieve for the Reids; the pathways to redress beyond the ART; and how the matter could over time be turned to the applicants' advantage.
+
+### 9.1 What success in the ART would actually achieve
+
+The orders sought at Section 8.1 — set-aside of the banning orders against Mr and Mrs Reid, recognition that no valid (a)(iii) decision against Mrs Reid has been made, removal from the NDIS Provider Register, costs — are the immediate end goal. Each carries practical and reputational consequences.
+
+**The orders themselves.** Set-aside ends the operational prohibition on involvement in the NDIS sector. As at the date the orders are set aside, the applicants are free to provide services, hold key personnel positions, and (if Simon chooses) seek registration of a corporate vehicle. That is the substantive freedom that has been denied since December 2022.
+
+**Removal from the NDIS Provider Register.** Section 73ZS of the NDIS Act requires the Commission to maintain the Register. Entries about banning orders are published online. Set-aside without removal would leave a residual reputational footprint. The Tribunal should be asked, as part of the orders sought, to direct the Commission to take all necessary steps to remove the entries against the applicants and against the affected corporate entities.
+
+**Costs.** The ART is a costs-neutral jurisdiction by default under s 105 of the ART Act 2024, but the Tribunal retains discretion to make costs orders in particular circumstances. The Respondent's disclosure conduct — the three-year omission of the Simon-specific documents, the late and selective 7 May 2026 disclosure, the s 70 application over already-comparable advice content — supplies a basis for the costs discretion to be exercised against the Respondent. A costs order would not make the applicants whole, but it would mark the Tribunal's view of the conduct.
+
+**Public record.** A set-aside decision with reasons will be published. For self-represented applicants who have spent more than three years contesting these orders, the publication of reasons that vindicate them is not merely a procedural fact — it is the documentary basis for everything that follows.
+
+### 9.2 Realistic outcomes in the ART
+
+Across the spectrum of possible outcomes, the realistic distribution is approximately:
+
+| Outcome | Probability | What it looks like |
+|---|---|---|
+| Full set-aside (orders quashed) for both Simon and Vida; removal from the Register | 25–35% | Reasons that find the variation ultra vires and the individualised assessment not made out; Register entries removed; possible costs order |
+| Partial set-aside (e.g., Simon's order set aside; Vida's varied or remitted) | 30–40% | More likely than full set-aside because Vida's case has the criminal-charge history overhang notwithstanding the discontinuance |
+| Remittal to the Commission for fresh decision | 20–30% | Tribunal finds procedural defects and remits; Commission must restart at s 73ZM with proper notice and individualised assessment |
+| All orders upheld (worst case) | 5–15% | Requires Tribunal to find no procedural defect, valid (a)(iii) re-anchoring, and individualised assessment made out — unlikely on the materials |
+
+The base case is that the applicants achieve material relief. The question is what shape it takes. Even in the remittal scenario, the Commission would face the same evidentiary record on a fresh decision — with the CDPP discontinuance, the conceded misattribution, the witness recantation, and the Project Archer Report's contents all part of the redo. Remittal is not the worst case; it is a different path to the same destination.
+
+### 9.3 Pathways to redress beyond the ART
+
+The ART can set aside the orders. It cannot award damages, formally censure the regulator, or order compensation for the losses the applicants have suffered. Those are the work of other forums.
+
+**Federal Court — judicial review under s 39B Judiciary Act 1903.** If the ART outcome is anything less than full set-aside, or if the matter is significantly delayed, s 39B remains available for jurisdictional error against an officer of the Commonwealth. The grounds developed at Sections 4 and 6 are also Federal Court grounds. The Federal Court can grant declarations, prohibition and injunctive relief.
+
+**Federal Court — misfeasance in public office.** The tort recognised in *Northern Territory v Mengel* (1995) 185 CLR 307 and developed in *Sanders v Snell* (1998) 196 CLR 329 requires (a) the holder of a public office, (b) exercising a power, (c) with knowledge that the exercise was unauthorised (or reckless indifference), (d) causing harm. The case is hard to make out — the requirement of subjective knowledge or recklessness is a high bar — but the documentary record now available (the EC22-002000 brief's admission that the action was "quite strong" relative to "administrative and personal errors"; the truncation of the brief's own recommended notice period; the SL1 comment recording awareness of "the legal risk of procedural fairness being relied upon as grounds to challenge the decision"; the post-discontinuance maintenance of the bans) creates a plausible factual basis for pleading. The action would be brought against the decision-makers personally and against the Commonwealth on the principle of vicarious liability.
+
+**Federal Court — negligence in the exercise of statutory power.** Following *Crimmins v Stevedoring Industry Finance Committee* (1999) 200 CLR 1, a duty of care can attach to the exercise of statutory powers in some circumstances. The applicants' position — that the Commission was on notice of legal risk, ignored its own recommended notice period, made decisions on a thin evidentiary base, and maintained those decisions after the criminal foundation collapsed — is the kind of factual pattern *Crimmins* contemplates. Duty of care is more difficult to establish than misfeasance, but damages quantification is more straightforward.
+
+**Administrative Decisions (Judicial Review) Act 1977 (ADJR Act).** The 28-day time bar has long closed and the prospects of an extension under s 11(1)(c) are weak after more than three years. ADJR is not a viable pathway.
+
+**Commonwealth Ombudsman.** The Ombudsman can investigate maladministration by Commonwealth agencies and produce a report with findings and recommendations. The Ombudsman cannot award damages or set aside the orders, but a finding of maladministration carries political and reputational weight. The complaint pathway is open at any time and does not affect the ART proceedings.
+
+**Australian Human Rights Commission.** The applicants already have a complaint on foot via William Cocks. The AHRC's conciliation processes may produce an undertaking from the Commonwealth or a recommendation; they cannot make binding orders but can produce settlement.
+
+**Act of Grace payment — Public Governance, Performance and Accountability Act 2013 (Cth), s 65.** Where Commonwealth conduct has caused detriment in circumstances warranting special consideration, the Finance Minister can authorise an ex gratia payment. Act of Grace applications are not subject to time limits and don't require proof of a tort. They are discretionary, but the application creates a structured opportunity for the Commonwealth to acknowledge harm and provide compensation without admitting liability.
+
+**Parliamentary mechanisms.** Petition to the Senate; submission to the Senate Standing Committee on Community Affairs (which has oversight of disability services and the NDIS Commission); approach to a sympathetic Senator or Member with a request for parliamentary questions. These mechanisms cannot directly compensate but can create political pressure for an administrative resolution.
+
+**Public-interest litigation funders and disability advocacy organisations.** Once the ART matter is resolved in the applicants' favour, third-party funding for a subsequent damages action becomes more accessible. People with Disability Australia, the Public Interest Advocacy Centre and similar organisations may be interested in a case that establishes principles around the proper exercise of the s 73ZN power.
+
+### 9.4 The damages question
+
+**What was lost.** The financial harm includes: revenue from FFG and Hybrid that ceased in December 2022; the value of the property trusts (Malibuhouse, Sahar & Simon) that became unleasable to NDIS providers; the legal fees expended on the proceedings since December 2022; the cost of replacing income for over three years; and the costs of the ABF stop and FOI matter. Vida's affidavit material (January 2025) and the ANZ statement (sale of properties) in the workspace folder are the starting documentary base for quantification.
+
+**What is harder to quantify but real.** Reputational damage from the NDIS Provider Register publication and the 23 December 2022 ministerial media release. Harm to family relationships and to the children's experience of being part of an investigated household. The 75% reduction in the NDIS plan for the Reids' severely disabled son. The fact of having been stopped at Perth airport on 25 September 2024 in front of the children. Vida's MS diagnosis and the stress impact on a person with an existing health condition.
+
+**Tactical considerations on a damages claim.** A damages claim should not be brought until the ART matter is resolved in the applicants' favour, because (a) the ART findings will be evidence in the subsequent action, (b) the Commission may be more disposed to settle once the ART has spoken, and (c) the cause of action accrues continuously while the orders are in force. Filing while the ART proceedings are live invites a stay of the damages action pending the ART outcome.
+
+### 9.5 Reputational restoration
+
+Even with the orders set aside, the public record of the 23 December 2022 ministerial media release and the NDIS Provider Register entries will continue to circulate online. Reputational restoration is a separate task.
+
+**The Commission's media archive.** The applicants can request the Commission take down or update the 23 December 2022 release on its website. If refused, the request itself is reviewable under the AAT/ART regime.
+
+**The ministers.dss.gov.au archive.** The DSS Ministers media archive contains the 23 December 2022 release at URL /media-releases/9961. Requesting a correction or update is appropriate once the ART matter resolves. The applicants do not need the consent of the Commission to engage directly with DSS on this.
+
+**Search engine results.** Australian privacy law (the Australian Privacy Principles under the Privacy Act 1988) gives some leverage to seek de-indexing of materials that are inaccurate, out of date, or no longer relevant. *Trkulja v Google LLC* (2018) 263 CLR 149 establishes that defamation can attach to search results in some circumstances.
+
+**The professional context.** Many of the participant complaints described in the briefing notes pre-date Simon's directorship of Hybrid. A formal statement, supported by ASIC records and the internal reviewer's concessions, would assist in subsequent professional engagements.
+
+**Public-interest advocacy.** Engagement with disability advocacy organisations and with researchers and journalists working on the NDIS regulatory regime can produce informed coverage of the case in due course. *The Saturday Paper*'s reporting on the broader NDIS political dynamics shows there is a journalist audience for the systemic critique. Rick Morton's work on the regulatory environment is a natural starting point.
+
+### 9.6 How this becomes a positive precedent
+
+The applicants are unlikely to be the only NDIS providers banned in 2022–2024 in circumstances where the individualised assessment was thin and the political environment was contributing. A successful set-aside ruling — particularly on the ultra vires variation ground and the no-individualised-assessment ground — would be cited in other matters and could prompt the Commission to revise its banning order practice.
+
+**Forensic precedent.** A finding that s 100 of the NDIS Act does not authorise a switch of statutory ground would constrain the Commission's practice across all future internal reviews. The internal review process is at present one of the principal regulatory levers available to the Commission; tightening it has real systemic effect.
+
+**Procedural precedent.** A finding that 11-day notice periods are insufficient for s 73ZM purposes (or a Tribunal observation along similar lines) would have application across NDIS regulatory practice.
+
+**Disclosure precedent.** A Tribunal observation about the Commission's three-year omission of decision-record documents and selective LPP claims could influence future s 23 compliance.
+
+**Policy reform.** Once vindicated, the applicants are in a position to engage with the NDIS reform debate from a position of credibility and lived experience. The current political emphasis on "fraud" as the framing for NDIS reform (Section 6.4) has substantive critics; the applicants' story is illustrative of the costs that framing imposes on actual providers and families.
+
+### 9.7 The long view
+
+The Reid case has been, since 19 October 2022, a contest between the regulator's discretion and the documentary record. Three-and-a-half years on, the documentary record is more comprehensively available than it has ever been: the ASIC extracts; the internal reviewer's concessions; the EC22-002000, EC22-002103, EC22-002429 and EC22-002521 briefs; the SL1 and SL2 tracked-change comments; the CDPP discontinuance; the 23 December 2022 media release; the 7 May 2026 supplementary disclosure with its admissions and its selectivity. The record now supports the applicants in a way the regulator could not have anticipated when the decisions were made.
+
+The realistic horizon for full resolution is 12 to 24 months: 4 to 6 months for the substantive ART hearing and decision once severance and disclosure questions are resolved; 6 to 12 months for any subsequent Federal Court or tort proceedings (if pursued); and 3 to 6 months for the reputational restoration work to take effect. That is a long horizon, but not an unreasonable one for a matter of this scale.
+
+The end goal for the applicants is not just the set-aside of the orders. It is the restoration of professional standing, the closure of the regulatory matter on a defensible basis, the recovery (where possible) of the losses suffered, and the conversion of a costly chapter into one that contributes to the proper functioning of the regulatory regime. That conversion is possible. It will require continued effort, careful sequencing of the secondary actions after the ART matter, and a willingness to engage the public dimension of the case once the legal foundation is laid.
+
+This section is included in this note in recognition that the case is, for the applicants, a personal as well as a legal matter. The legal analysis at Sections 3 to 8 provides the platform. The end-game at Section 9 is what the legal analysis is in service of.
+
+---
+
+
+## 10. The s 73ZO corporate-entity pathway and post-13 May 2026 documentary developments
+
+Since the original drafting of this note, three documentary developments have materially strengthened the position. They are not new grounds — they reinforce the grounds already developed at Sections 3, 4 and 6 — but they open a discrete pathway under section 73ZO of the NDIS Act that runs in parallel to the ART proceedings. Section 10 records those developments and the pathway they support.
+
+### 10.1 The 11 March 2025 AGS letter — "no current criminal investigation"
+
+By letter dated 11 March 2025 addressed to the Administrative Review Tribunal and Mrs Vida Reid (Karlie Dickinson, Senior Lawyer, Australian Government Solicitor; reference 23004627), the Respondent opposed Mrs Reid's stay application on the following basis:
+
+> *"Following receipt of Mrs Reid's submissions, the Commission has made enquiries with the NDIA and has been informed that there is no current criminal investigation pertaining to Mrs Reid or to FFG."*
+
+That single sentence does three things for the applicants' case. First, it is the Commission's own documentary acknowledgement, more than a year after the CDPP discontinuance of 23 February 2024, that the criminal foundation of the December 2022 banning decisions has been removed. Second, it triggers the contingency Sian Leathem identified at paragraph 63 of IR(6) 22/23 — the order would be "revisited" upon the determination of the criminal proceedings; the proceedings have now been determined; the orders have not been revisited. Third, it operates as an approbation-and-reprobation point: in November 2023 the Commission urged the Tribunal to stay the proceedings on the basis that criminal proceedings might be jeopardised by witnesses giving evidence; in March 2025 the Commission opposes a stay on the basis that there is no current criminal investigation. The Commission cannot consistently maintain both positions across the same proceedings (*Sargent v ASL Developments Ltd* (1974) 131 CLR 634; *The Commonwealth v Verwayen* (1990) 170 CLR 394; Model Litigant Obligations under the Legal Services Directions 2017 (Cth), Appendix B).
+
+### 10.2 The Hybrid Hive Banning Order — full text now in hand
+
+The original Notice of Banning Order against Hybrid Hive Pty Ltd, dated 21 December 2022 and bearing the reference EC22-002431, was not in the original 13 June 2024 tender bundle and was not part of the 7 May 2026 supplementary disclosure (which was Simon-specific). The applicant has now located a copy. Its content materially strengthens the case for revocation of the Hybrid Hive ban under section 73ZO.
+
+**Operational features of the order.** The Banning Order was signed by Mr Philip Halton, Branch Head, Operations — North Central West, on 21 December 2022. It is permanent in duration. It was made under sections 73ZN(1)(b)(i) and 73ZN(1)(b)(iii) of the NDIS Act. It took effect at 5:00pm AWST on 21 December 2022.
+
+**The Statement of Reasons is built on contested allegations, not findings.** Two essential context points before any reference to the content of the Statement of Reasons:
+
+First, the criminal allegations on which the Banning Order primarily rested have not been tested in any adjudicative forum. All four charges laid against Mrs Vida Reid on 19 October 2022 — the charges that the Statement of Reasons recites verbatim at paragraph 4 — were discontinued by the Commonwealth Director of Public Prosecutions on 23 February 2024 for no evidence. The Commission has subsequently confirmed (in the AGS letter of 11 March 2025) that there is no current criminal investigation. Mr Simon Reid was never charged.
+
+Second, the Commission's own internal reviewer materially discounted the central financial allegation. At paragraph 29(j) of IR(7) 22/23, the reviewer recorded that the $1.485M expired-plans figure relied on by the Statement of Reasons should be given "minimal weight" because "it is not known what proportion of these claims against expired plans were for services that were indeed provided". The Tactical Intelligence Report dated 18 August 2022 — which the reviewer expressly relied on for that finding — has been withheld from disclosure under DP Mischin's 26 July 2024 non-disclosure orders. The applicants have repeatedly contended that this Report contains material favourable to them, a contention the internal reviewer's own reasons confirm.
+
+The witness layer the Statement of Reasons relies on is itself contested. The applicants' material identifies that the Cassandra Burke statement of 16 February 2023 (used to broaden the case on internal review) has been recanted. The participant Ms Goodwin — whose plans are at the centre of the Hybrid claims — told the Commission expressly that *"Simon never was involved with providing the services"*, and Ms Fanny-Dulloo described Mr Reid as having *"no involvement with FFG"*. The January 2025 attendance of NDIS investigator John Maloney at Ms Fanny-Dulloo's home, alleged by the applicants to have included coercive language about "DPP" action, is uninvestigated.
+
+In short, the Statement of Reasons is a record of what the Commission *alleged*. It is not a record of established facts. The applicants do not accept those allegations. There is no conclusive evidence of fraud against any of the applicants anywhere on the record.
+
+**Simon's distinct procedural and statutory position.** With that frame in place, two procedural features of the Banning Order against Hybrid Hive are forensically significant for Mr Simon Reid's position as the present director.
+
+First, the covering letter records expressly: *"I refer to my letter of 17 November 2022, inviting Hybrid Hive Pty Ltd to make submissions about a proposed banning order. I note that the Commission has not received any submissions from Hybrid Hive Pty Ltd."* The Banning Order was accordingly made on the Commission's case as presented in the Notice of Intention of 17 November 2022, without any rebuttal or corporate response. The 11-day notice period that Hybrid Hive was given is the same period at the centre of the broader procedural fairness ground developed at Section 3 of this note.
+
+Second, the Statement of Reasons asserts certain operational conduct against Hybrid Hive in language that does not, even on its own terms, identify Mr Simon Reid as a personal actor. Paragraphs 7, 8(c) and 8(d) of the Statement of Reasons (the operational-conduct paragraphs) name Forward Focused Group staff, Mr Rejaul Alam and Mrs Vida Reid in the activities the Commission alleges occurred. The applicant does not concede the truth of those allegations; they are contested in their entirety. But, on the document's own face, the Commission's case against Mr Reid personally rests not on alleged operational conduct but on his joint-signatory status to bank accounts (paragraphs 5(d) and 5(e)) and the cross-referenced criminal-charge allegation against "V REID and S REID" from the Statement of Material Facts (paragraph 5(a)) — which has now been discontinued.
+
+**The corporate-attribution timing point.** The conduct the Statement of Reasons alleges occurred between 30 November 2021 and 22 June 2022. The ASIC Company Extract for Hybrid Hive Pty Ltd records that Mr Simon Reid became sole director on 22 August 2022. Even assuming the truth of every allegation in the Statement of Reasons (which the applicants do not), the alleged conduct pre-dates Mr Reid's sole directorship. The Statement of Reasons identifies no conduct of Hybrid Hive occurring during Mr Reid's directorship period that could support either of the (1)(b)(i) or (1)(b)(iii) grounds. The corporate case against Hybrid Hive is, on the document's own face, a case constructed without reference to anything Mr Reid personally did during his time as director.
+
+### 10.3 The s 73ZO pathway
+
+Section 73ZO of the NDIS Act confers a discretion on the Commissioner to vary or revoke a banning order at any time, on the Commissioner's own initiative or on application. The pathway carries five operational features that make it attractive in the present matter:
+
+- **No time bar.** A s 73ZO application can be made at any time. The 3-month s 100 internal review window and the 28-day ART window are not engaged.
+- **No internal review prerequisite.** An applicant does not need to have sought internal review before applying under s 73ZO. Hybrid Hive's absence of any prior internal review is therefore not an obstacle.
+- **Low cost.** A s 73ZO application is filed by email. No filing fee. No representation requirement.
+- **Reviewable refusal.** If the Commissioner refuses, the refusal is itself a reviewable decision under s 100 of the NDIS Act. The 3-month internal review window opens from the date of refusal, then a fresh 28-day ART window from the internal review decision.
+- **Parallel to ART proceedings.** A s 73ZO application does not affect the existing ART matters of Mr Reid, Mrs Reid or FFG. It runs in parallel.
+
+The pathway has been developed in detail in the s 73ZO application document drafted for Hybrid Hive Pty Ltd (saved to the workspace folder as *Hybrid_Hive_s73ZO_Application_for_Variation_or_Revocation.docx*). The application is built around four factual anchors: paragraph 63 of IR(6) 22/23 (the Commission's institutional undertaking to revisit upon determination of the criminal proceedings); the 11 March 2025 AGS letter (the Commission's documentary confirmation that no current criminal investigation exists); the Statement of Reasons accompanying the Banning Order (taken at face value for the purposes of the application only, while the applicant maintains that the underlying allegations are contested and unproven); and the temporal mismatch between Mr Reid's directorship period and the conduct the Commission alleges occurred.
+
+### 10.4 Extension to the other corporate entities
+
+The Hybrid Hive application is the test case for an analogous pathway in respect of the other corporate banning orders made on 21 December 2022:
+
+- **The Hive Pty Ltd** — banned for 5 years under s 73ZN(2A), with no NDIS service-delivery footprint on the Commission's own admission at paragraph 4 of EC22-002103; Mr Reid is the sole director;
+- **Malibuhouse Pty Ltd** — banned for 10 years under s 73ZN(2A); described as a property trust; no NDIS service-delivery evidence per paragraph 11.2 of EC22-002103;
+- **Sahar & Simon Pty Ltd** — banned for 10 years under s 73ZN(2A); no NDIS service-delivery evidence per paragraph 9.2 of EC22-002103;
+- **Exact Financial Solutions (PM) Pty Ltd** — banned for 10 years under s 73ZN(2A); no NDIS service-delivery evidence per paragraph 8.2 of EC22-002103;
+- **Infinity Living Options Pty Ltd** — banned for 10 years under s 73ZN(1)(b)(iii); some limited service delivery ($68,297 in claims per paragraph 6.2) but the case is structurally similar.
+
+The Hybrid Hive template can be adapted for each. The non-operating-entity entities (Hive, Malibuhouse, Sahar & Simon, EFS) are easier — the Commission's own admission that there is no NDIS service-delivery evidence is, on its face, decisive of the s 73ZN(2A) "suitable to be involved in the provision of supports or services" question.
+
+### 10.5 Indicative cost the Commonwealth has incurred prosecuting this matter
+
+An order-of-magnitude estimate of the cost the Commonwealth has incurred across all agencies and forums between mid-2022 and May 2026 is in the range of **AUD 1.8 to 2.4 million**. The estimate is built from observable scope (briefs, submissions, witness statements, court appearances, ART matters) and standard agency rates. The principal line items are:
+
+| Workstream | Range |
+|---|---|
+| NDIA Project Archer investigation | $300k – $600k |
+| CDPP prosecution (Oct 2022 – Feb 2024 discontinuance) | $150k – $300k |
+| NDIS Commission decision-making (Oct–Dec 2022) | $150k – $300k |
+| NDIS Commission internal review (Jan–Apr 2023) | $100k – $200k |
+| AGS representation (mid-2023 – May 2026) | $400k – $800k |
+| NDIS Commission ongoing involvement (2023+) | $150k – $300k |
+| ABF stop and follow-up (Sept 2024) | $20k – $50k |
+| NDIA Fraud Fusion Taskforce ongoing | $50k – $150k |
+| DSS / Ministerial offices | $30k – $50k |
+| Home Affairs FOI | $20k – $40k |
+| Tribunal time | $50k – $100k |
+| **Total** | **$1.42M – $2.89M** |
+
+Two observations follow. First, the central-estimate Commonwealth spend ($1.8–2.4M) exceeds the maximum quantum of the most serious financial allegation against the applicants — the $1,485,527 expired-plans figure that the internal reviewer herself discounted to "minimal weight" in IR(7) paragraph 29(j). Second, hard numbers can be obtained via FOI requests directed to NDIA (Project Archer costs), the NDIS Commission (Compliance and Enforcement costs), and AGS (legal services costs through Attorney-General's Department). The cost-benefit asymmetry is itself a relevant fact when the Commission's posture in the proceedings is assessed.
+
+### 10.6 The approbation-and-reprobation point as a discrete ground
+
+The Fresh Grounds Memo of 16 April 2026 identified election and approbation-and-reprobation as Ground 2 of the unfiled grounds. The 11 March 2025 letter elevates that ground from inference to documented fact. The Respondent's position can be tested against the documentary record:
+
+- **November 2023:** Commission urged the Tribunal to stay the proceedings, citing risk to criminal proceedings if witnesses also gave evidence in the ART.
+- **23 February 2024:** CDPP discontinued all charges against Mrs Reid for no evidence.
+- **11 March 2025:** Commission opposed Mrs Reid's stay application, citing "no current criminal investigation pertaining to Mrs Reid or to FFG".
+- **19 March 2026:** Commission's Short Supplementary Submissions oppose severance, treating the criminal proceedings as irrelevant to the substantive merits.
+
+The Commission has used the criminal-proceedings nexus as both shield (in 2023, to halt the ART) and sword (from 2024 onwards, to maintain the bans on suitability grounds while denying that the criminal collapse is material). That pattern can be deployed at the amended SFIC stage as a discrete ground bearing on the credit of the Respondent's position in the proceedings, and as a Model Litigant Obligation point in any costs argument.
+
+### 10.7 Documents now in hand (as at 13 May 2026)
+
+For procedural completeness, the documents in the applicants' possession as at the date of this note include:
+
+- **All decision-level documents for the December 2022 banning orders** — the FFG, Vida, Simon and Hybrid Hive banning orders with their accompanying Statements of Reasons. Outstanding gaps: a Hybrid Hive-specific decision brief (equivalent of EC22-002521 for Simon or EC22-002581 for FFG/Vida) has not been identified; the legal-advice attachments O and G to EC22-002103 and EC22-002521 are the subject of the Respondent's s 70 application of 7 May 2026.
+- **Both internal review decisions** — IR(6) 22/23 (Vida) and IR(7) 22/23 (Simon), with full Statements of Reasons.
+- **The FFG internal review** — set out in "Notice of Internal Review Decision and Statement of Reasons - FFG.pdf".
+- **The Project Archer briefing notes** — EC22-002103 (notice of intention brief, full content) and EC22-002521 (Simon's decision brief), produced on 7 May 2026.
+- **The originating brief** — EC22-002000 (FFG/Vida initial brief, in the original tender bundle as T9), with its disclosed references to the LEX 1602 legal advice.
+- **The SL1 and SL2 tracked-change comments** — visible in the tender bundle as part of the draft Halton response letter of 15 November 2022.
+- **The 11 March 2025 AGS letter** — confirming no current criminal investigation.
+- **The 7 May 2026 AGS letter and s 70 application** — over Attachments O and G.
+- **The 23 December 2022 joint Ministerial-Commission media release** — preserved in the Mirage News and AusPol syndications.
+- **The CDPP discontinuance** — 23 February 2024, of all four charges against Mrs Reid.
+
+Outstanding gaps that may warrant separate disclosure requests:
+
+- The Tactical Intelligence Report — Project Archer dated 18 August 2022 (subject to DP Mischin's non-disclosure orders of 26 July 2024).
+- Attachment 55 to EC22-002000 (LEX 1602 LSB advice) — referenced in the EC22-002000 brief as Attachment 55 with the [SEC=OFFICIAL:Sensitive, ACCESS=Legal-Privilege] classification but not included in the tender bundle as a T-reference.
+- Any decision brief specific to Hybrid Hive (analogous to EC22-002521 for Simon).
+- Any decision brief specific to The Hive, Malibuhouse, Sahar & Simon Pty Ltd, EFS or Infinity (each banned on 21 December 2022 under s 73ZN(2A)).
+- The NDIA Fraud Fusion Taskforce / Project Archer file in respect of Hybrid Hive (relevant to corporate-attribution questions).
+
+These gaps support an FOI strategy that complements the litigation pathway: a series of focused FOI requests to NDIA (Project Archer materials), to the NDIS Commission (the missing decision briefs), and to AGS (legal services records) can produce material both for the substantive ART hearing and for any subsequent Federal Court action.
+
+---
+
+## Appendix — Key documentary references
+
+| Document | Why it matters |
+|---|---|
+| Notice of Banning Order — Vida Reid (Halton, 20 Dec 2022) | Expressly cites s 73ZN(2)(a)(i); fixes the original statutory ground for Mrs Reid. |
+| Notice of Banning Order — Simon Reid (Halton, 21 Dec 2022) | Cites s 73ZN(2)(a)(iii) from the outset; omitted from the original tender bundle and only produced informally on 7 May 2026. |
+| EC22-002000 (19 Oct 2022) | Originating brief — same-day suspension/notice of intention against FFG and Vida. Contains the "quite strong" admission, the "retaliatory response" sensitivity, and references the LSB advice at Attachment 55 (LEX 1602) substantively at paragraphs 3.1–3.2. |
+| EC22-002103 (17 Nov 2022) | Project Archer notice-of-intention brief — recommends s 73ZN(2)(a)(iii) notice for Simon. Attachment O withheld on LPP grounds (s 70 application 7 May 2026). |
+| EC22-002429 (2 Dec 2022) | Records extension of time granted to Mr Reid. Not in the original tender bundle. |
+| EC22-002521 (21 Dec 2022) | Decision brief for Simon's ban — frames "unsuitability" only by reference to directorship and joint signatory authority; copies Vida's case across without individualisation. Attachment G withheld on LPP grounds. |
+| EC22-002581 (20 Dec 2022) | Decision brief for FFG revocation and Vida's banning order; records the 19 October 2022 same-day pattern at paragraph 12. |
+| SL1 and SL2 tracked-change comments (Nov 2022) | Legal-advice content visible on the face of a disclosed draft Halton letter — references prior AGS advice on procedural fairness; notes LSB did not review the suspension aspect. |
+| Attachment 1D considerations document (T9.5) | Working product generated to separate evidence supporting contravention from evidence supporting state of mind — responsive to legal advice; disclosed without privilege claim. |
+| Internal Review IR(6) 22/23 — Vida (Leathem, 21 Apr 2023) | Smoking-gun document for Ground 2: switches statutory ground (a)(i) → (a)(iii) (paras 1–2; 29–31). |
+| Internal Review IR(7) 22/23 — Simon (Leathem, 21 Apr 2023) | Concedes misattribution of FFG Clulow claims (para 29(i)); gives "minimal weight" to the $1.485M expired-plans figure (para 29(j)). |
+| NDIA Statement of Material Facts (19 Oct 2022) | Source of the joint-attribution language ("Ms Reid and Mr Reid caused 81 false payment requests"). Criminal charges discontinued by CDPP on 23 Feb 2024. |
+| Tactical Intelligence Report — Project Archer (18 Aug 2022) | Referenced by internal reviewer as containing material favourable to Mr Reid; subject to DP Mischin non-disclosure orders 26 July 2024 and continues to be withheld per AGS letter 7 May 2026. |
+| ASIC Company Extracts — Hybrid Hive and FFG | Establish that Mr Reid was not a director of FFG during the alleged offending period and was a director of Hybrid only from 17 February 2022. |
+| Short Supplementary Submissions (Respondent, 19 Mar 2026) | Admits eight categories of Simon-specific documents omitted from the June 2024 tender bundle (para 15); proposes updated bundle by 10 April 2026 (not met). |
+| AGS Letter and s 70 Application (Dickinson, 7 May 2026) | Informal copies of omitted documents + s 70 application over Attachments O and G; continued reliance on Project Archer non-disclosure orders. |
+| Tom & Co Legal — FFG Internal Review Submission (20 March 2023, REIV6422) | Contemporaneous record of procedural-fairness objections, disclosure failures and pre-determination concerns raised at the s 100 internal review stage. Cites the NDIS (Procedural Fairness) Guidelines 2018 — Clauses 7(1)(d), 8(1), 13(5)–(6). Expressly requested continuation of suspension order rather than permanent banning order pending criminal proceedings — the request the Commission refused, before the CDPP discontinued for no evidence in February 2024. |
+| Final Submission ART Brisbane (Vida Reid, 23 Sep 2025), Section F | Pleads ultra vires variation as misuse of s 73ZO and procedurally unfair. This note recommends pleading the further ground that the exercise, if under s 100, is jurisdictional error. |
+| 30 September 2022 email — Vida to Bennett Law — "Continuous attacks and sabotaging business" | Pre-arrest documentary record of competitor harassment campaign (Diversitas WA / Nurse Assist 24/7) with named NDIA insider conduit (Mr Nathan Halls, Assistant Director, NDIA). Establishes Terri Roberts's compromise as a witness; Amanda Damon's undisclosed conflict (Nurse Assist 24/7 + N-Able). |
+| 7 December 2022 email — Vida — "Private and Confidential Legal Privilege - Communication from NDIS Commission" | Records the 10 am 7 December 2022 receipt of the registered-post November 2022 notices — eight days after the 30 November 2022 submissions deadline. Identifies Terri Roberts as operator of Infinity Living Options Pty Ltd. |
+| 9 June 2023 — Internal Review Decision IR(10) 22/23 — Forward Focused Group Pty Ltd | The Commission's separate s 100 internal review decision for FFG, distinct from IR(6) (Vida) and IR(7) (Simon). Newly identified in the Outlook review. To be retrieved and analysed. |
+| ART matter 2023/3364 — FFG Notice of Application (1 June 2023) | A fourth ART matter previously unknown to this analysis (in addition to 2023/3361, 2023/3363 and 2023/4494). Relationship to 2023/4494 to be established. |
+| Key Gmail Correspondence Excerpts for the Record (workspace folder, .md) | Consolidated verbatim text of seven items of contemporaneous applicant-side Gmail correspondence (27 Mar 2024; 29 Mar 2024; 27 Sep 2024; 28 Sep 2024 Tom Monks memo; 4 Oct 2024 ABF/NDIS complaint; 5 Dec 2024; 7 Jan 2025) documenting the post-discontinuance investigator-conduct pattern, the ABF Perth Airport stop and the LPP / abuse-of-power concerns. |
+| Joint ministerial-Commission media release (23 Dec 2022) | Documentary evidence of the political deployment of the decisions; ties Reid matter to the "expanded Fraud Fusion Taskforce" and the "fraudsters stealing" narrative. |
+| Notice of Banning Order — Hybrid Hive Pty Ltd (Halton, 21 December 2022; Our ref: EC22-002431) | Permanent banning order under ss 73ZN(1)(b)(i) and (b)(iii). Records that no submissions were received from Hybrid Hive. The Statement of Reasons consists of contested allegations against the applicants which were never tested in any adjudicative forum and which the applicants do not accept. The allegations against Mrs Reid were discontinued by the CDPP for no evidence on 23 February 2024. |
+| AGS letter to ART and Mrs Reid (Dickinson, 11 March 2025) | Commission's own confirmation, on enquiry with NDIA, that "there is no current criminal investigation pertaining to Mrs Reid or to FFG". Triggers the paragraph 63 contingency. Supports approbation-and-reprobation argument. |
+| CDPP discontinuance (23 Feb 2024) | All four charges against Mrs Reid discontinued; undermines the Banning Order Policy rationale for the (a)(iii) switch. |
+
+---
+
+*— end of note —*

@@ -1,0 +1,102 @@
+# STRATEGIC REFRAME MEMO — from "set the order aside" to "the order was unlawful and made for an improper purpose"
+
+**Matter:** Reid v Commissioner of the NDIS Quality and Safeguards Commission — ART 2023/3361 (Vida Reid), 2023/3363 (Simon Reid), 2023/4494 (FFG); related Hybrid Hive s 73ZO.
+**Date:** 29 May 2026
+**Prepared for:** Simon Reid, to brief counsel (Tom & Co / Bennett / Hammond).
+**Standing rules observed:** no fabrication (every citation marked **[VERIFY]** is a research starting point, not confirmed authority); no concession of fraud — the Commission's case is contested allegations, never findings.
+
+> **One-paragraph thesis.** The pivot you want is achievable, and it is strongest exactly where the documents are strongest. The ordinary merits-review case (no individualised assessment for Simon; ultra vires variation for Vida) stays the spine. On top of it we add a **single new ground in the Tribunal: that the power was exercised for a purpose foreign to the statute** — supported by (a) the Commission's *own* tender-bundle documents, (b) a quantified proportionality mismatch that makes the ordinary-regulation explanation implausible, and (c) the post-discontinuance multi-agency conduct. The stronger words you used — "malicious," misfeasance — are real causes of action but they live in *other forums*, carry a higher bar, and must be **built before they are asserted**. The discipline that makes this work: lead with the documentary, verified material; keep the contested and dramatic material in reserve until the record carries it.
+
+---
+
+## 1. The single most important discovery this week
+
+The strongest evidence that an NDIA officer drove the case against FFG is **not** in our own narrative brief — it is sitting inside **the Commission's own tender bundle**.
+
+In `Tender_Part2_0_extracted.txt` (item T9.22, dated **12 August 2022**, four months before the bans), Nathan Halls — whose own signature block reads **"Assistant Director, Participant Solutions, WA Operations, NDIA"** — is recorded:
+
+- soliciting adverse material from a former FFG manager (Jan Nuttall): *"any information … that can be substantiated through available evidence would be appreciated"*; and
+- routing it into the fraud system: *"Please reply all on the e[m]ail so information can go directly through to the fraud team"* — **copied to Barbie Lundgren** (A/State Manager, NDIA WA).
+
+Why this matters: it is documentary, it is the Commonwealth's own production, and it shows a named NDIA Assistant Director **actively assembling and channelling fraud allegations against FFG before any ban**. That is the difference between *asserting* improper purpose and *proving* the factual substrate for it. Everything else in the Halls story is support around this spine.
+
+---
+
+## 2. Why are they still pursuing this? The proportionality answer
+
+I can't tell you their actual motive, and we should never plead one we can't prove. But the file lets us state, as documented fact, that **the effort is wildly out of proportion to the sums** — and that disproportion is itself the engine of the improper-purpose argument.
+
+**What was ever actually charged:** four charges against Vida totalling **exactly $247,484.78** (Goodwin $127,475.30 + Clulow $120,009.48) — **all discontinued for no evidence in February 2024** (*date to be pinned — see §7*). Simon was never charged.
+
+**The headline number, deflated by their own reviewer:** the "$1,485,527 = 31% of total successful claims" figure (which, at 31%, implies a total book of ~**$4.79M** — *my calculation, not stated in the documents*) was given **"minimal weight"** by the Commission's *own* internal reviewer, because the underlying Tactical Intelligence Report "acknowledges that it is not known what proportion of these claims … were for services that were indeed provided" (Simon IR, para 29(j)).
+
+**What was spent to get there:** a **1,506-page / 108 MB** tender bundle; an **NDIA forensic accountant**; an **AFP-led search warrant**; a **CDPP** prosecution; the **Fraud Fusion Taskforce** (described in our submissions as **21 agencies**); **ABF / Home Affairs** border stops and device seizure; **ATO** involvement; **DEWR**; across **~5 years** and **seven banning orders / seven entities** — several of which the Commission concedes had no NDIS service-delivery footprint at all.
+
+**The mismatch, stated plainly:** the DeepDive's own order-of-magnitude estimate of Commonwealth spend (**AUD 1.8–2.4M** — *flag: internal estimate, not a documented figure; obtainable hard via FOI*) is **7–10× the $247k ever charged**, and **exceeds the $1.485M headline the reviewer herself discounted**. Set against the family's documented losses — a DEWR contract worth ~**$5M/year**, ~**$850,000** in legal fees (house sold), and the destruction of the businesses — the ledger does not read like ordinary regulation.
+
+The legally usable conclusion is not "they are corrupt." It is: *on the Commission's own numbers and concessions, the ordinary protective-regulation explanation does not account for the scale, breadth and persistence of what was done — which is a matter the Tribunal is entitled to weigh, and which the Commonwealth should be required to explain.*
+
+---
+
+## 3. The Nathan Halls angle — what holds up, and what must be dropped
+
+**What holds up (use it):**
+
+- Halls's **own 12 Aug 2022 emails** in the Commission's bundle (§1 above) — court-ready.
+- The **Shapiera complaint** (`shapiera_complaint_20221014.eml`, 14 Oct 2022) — a participant's contemporaneous, first-hand account that Halls emailed FFG clients with fraud allegations and steered them to a competitor (Diversitas / Sukhi Tear), with a plan upgrade "if I played along." Primary, verified.
+- The **real-time bribery concern**: Simon's 1 Oct 2022 email — Halls "is using government funding to essentially bribe participants to forgo their choice and control." Primary.
+- The **competitor-benefit structure**: ex-FFG staff and clients moving to Diversitas, Nurse Assist 24/7 and Dream Big — the same people who became the Commission's adverse witnesses.
+
+**What must be corrected or dropped (it will backfire if used):**
+
+- **"Baptism by fire" is mischaracterised in the Hammond brief.** The primary email (T9.22, 15 July 2022) shows Halls said it to *praise a colleague's onboarding* — "a real baptism by fire into the PST [Participant Solutions Team]" — **not** as a remark about Vida. Do **not** deploy it as a motive admission; the Commission will produce the email and we lose credibility.
+- **"Graydon / $200,000 bribe" has no primary source in the file** — it appears only in our own memos. Either locate the recording/primary document or do not assert it. (The $200k *Shapiera* inducement is separately sourced to Shapiera's own complaint and is the one to use.)
+
+**The gap to close:** Halls is **NDIA**; the banning orders were made by the **NDIS Commission** — a different body. The improper-purpose case needs a **documented bridge** showing the Commission's decision drew on the Halls-driven complaint stream. The bridge is partly there already (the complaints Halls routed are in the tender bundle and feed the Statement of Reasons), but it must be drawn explicitly.
+
+---
+
+## 4. The legal architecture — three theories, honestly graded
+
+| Theory | What it gets you | Where it runs | Strength now |
+|---|---|---|---|
+| **Improper purpose** (*Padfield* [1968] AC 997; *R v Toohey* (1981) 151 CLR 170; *Thompson v Randwick* (1950) 81 CLR 87; *Sanders v Snell* (1998) 196 CLR 329) | Goes to validity and to the correct/preferable decision; discredits the Commission's case | **ART now**; also Federal Court judicial review | **Strongest.** All four authorities are on our verified list. |
+| **Misfeasance in public office** (*Northern Territory v Mengel* (1995) 185 CLR 307; *Sanders v Snell*) | Damages against officers personally + Commonwealth | Federal/State court — **not** the ART | **Real but later.** The mental element (officer *knew* the act was unauthorised, or was recklessly indifferent) is currently **missing/inferential**. |
+| **Abuse of process / permanent stay** (*Jago* (1989) 168 CLR 23; *Williams v Spautz* (1992) 174 CLR 509; *Walton v Gardiner* (1993) 177 CLR 378; *Moti* (2011) 245 CLR 456 — **all [VERIFY]**) | Stops oppressive *criminal* proceedings | Criminal court, on charging | **In reserve / contingent.** Trigger (live or revived charges) does not presently exist — charges were dropped; Vida re-entered from Bali without incident. |
+
+The pattern to notice: **the strongest theory carries the safest citations; the weakest theory carries the unverified citations and the dependence on the informal "still-live" source.** That is not a coincidence — it tells you the sequencing.
+
+---
+
+## 5. The pivot in practice — what changes, what doesn't
+
+**In the Tribunal, now:** add **improper purpose** as a discrete ground alongside the two existing documentary grounds, framed strictly in administrative-law language — *"the power in s 73ZN was exercised for a purpose foreign to its grant; alternatively a dominant improper purpose"* — supported by the calm chronology (the Halls tender-bundle emails; the same-day arrest-plus-regulatory cadence of 19 Oct 2022; the brief's own admission that the action "may be viewed as quite strong given that the complaints and breaches focus on administrative and personal errors"; the truncated notice period; the competitor-benefit witness structure). Add ***Li*** **[VERIFY]** legal-unreasonableness on the scope/proportionality picture from §2.
+
+**Do NOT, in the Tribunal:** plead "malice," "corruption," or misfeasance. The Tribunal cannot make those findings; asserting them reads as over-reach and risks colliding with the no-concession-of-fraud line. Those are reserved.
+
+**Reserved for other forums (built now, asserted later):** the misfeasance tort (after a favourable ART result); the **NACC / Commonwealth Ombudsman / IGIS / OAIC** referrals and the **OLSC model-litigant** complaint under the Legal Services Directions **[VERIFY]**; and the permanent-stay application (held ready, filed within days only if charges are ever laid).
+
+---
+
+## 6. Order of operations (build the record before you assert the conclusion)
+
+1. **Now → week 1:** file note of the 27 May source debrief and Vida's clean Bali re-entry; verification letter to AGS in the *item-by-item* form (agency-by-agency, applicant-by-applicant, criminal-vs-intelligence, brief-of-evidence status) — not the broad "is the 11 March letter still correct" that invites a second narrow answer.
+2. **Weeks 2–4:** FOI to AFP and the NDIA Fraud Fusion Taskforce; APP-12 access requests to Home Affairs, ABF, AFP, NDIS Commission, NDIA, ATO, CDPP; the CDPP letter. Treat every refusal as itself disclosable and useful.
+3. **Weeks 4–6:** affidavits — corroborate the Maloney material (audio + Fanny-Dulloo's own statement), identify "Karen" and recover the Halls invoice-freeze email, preserve Shapiera's account (he is elderly and unwell), and document the disabled child's funding consequences. Then the amended SFICs adding improper purpose + *Li*, and (if instructed) the application to revoke the stay waiver.
+4. **Months 2–3:** senior-counsel view on a s 39B Federal Court judicial-review and/or an *Adachi*-style interlocutory **[VERIFY *Adachi* [2024] FCA 311]**.
+5. **Months 3–9:** the oversight/referral track, once the documentary record is at its strongest.
+6. **Months 12+ / contingent:** misfeasance proceedings after a favourable ART outcome; permanent stay only if charges are laid.
+
+---
+
+## 7. Cautions and must-fix items (no-fabrication discipline)
+
+- **CDPP discontinuance date/basis** is recorded inconsistently in our own files (23 vs 28 February 2024; "no evidence" vs "want of prosecution"; one file cites a WA statute when the charges were Commonwealth). Pin it to the primary CDPP record before it appears anywhere — it is load-bearing for §2 and the changed-circumstances arguments.
+- **Drop "baptism by fire" and unsourced "Graydon/$200k"** (§3).
+- **The abuse-of-process citation cluster (Jago, Walton, Williams v Spautz, Moti) and *Li*, *Adachi*, the NACC/Legal Services Directions references are all unverified** — confirm against primary sources before any external use. The improper-purpose authorities (Padfield, Toohey, Thompson, Sanders v Snell) are the safe core.
+- **Do not assert a live criminal investigation as fact.** Assert only what the ABF FOI documents prove ("Law Enforcement interest"; "on behalf of another agency"; "speak with AFP") and the *narrowness* of the AGS letter — which makes a continuing investigation *compatible with* the letter, not *proven* by it. Protect the source.
+- **The ABF "another agency" is never identified as the NDIS in the ABF record** — the officer's own narrative says Vida raised the NDIS. Plead the verbatim wording; treat the NDIS-direction point as Vida's evidence.
+
+---
+
+*This memo is strategic analysis to brief counsel; it is not legal advice and is not for filing. All bracketed [VERIFY] items must be confirmed against primary sources before external use.*

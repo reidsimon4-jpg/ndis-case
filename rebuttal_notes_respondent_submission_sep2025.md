@@ -1,0 +1,37 @@
+# Rebuttal to Respondent's Submissions (17 Sep 2025)
+
+**Purpose:** To provide a specific rebuttal or note for each relevant point in the Respondent's Submissions, for use in the Applicant's Reply.
+
+---
+
+## Part D: Submissions – Adjournment (The "Stay" Argument)
+
+| Respondent's Point | Paragraph | Applicant's Rebuttal / Note |
+| :--- | :--- | :--- |
+| **"No evidence... that any criminal proceedings or investigations are currently against Ms Vida Reid."** | **[27]** | **FALSE / CONTRADICTED.** <br>1. **Jan 2025 Raid:** NDIS Investigator John Maloney raided the home of witness Virginie Fanny-Dulloo, stating "I have enough evidence to put forward to the DPP". <br>2. **Malice:** If there is "no evidence" of charges, why did the Commission maintain the bans (pegged to criminal proceedings) for 2 years after charges were dismissed? |
+| **Complaint about V Reid's delay and conduct (foreshadowing stay, vacating hearings).** | **[28]-[29]** | **REBUTTAL:** The delay is entirely due to the Commission's failure to disclose the "Jan 2025" investigation and its refusal to revoke the bans despite admitting the criminal case collapsed in Feb 2024. The Commission is the party dragging this out by defending indefensible orders. |
+| **Dismissing ABF interactions as not an investigation.** | **[33]-[36]** | **NOTE:** The ABF officer "Julian" explicitly stated there was a standing directive from the NDIS. The Commission's denial is a "non-denial denial"—saying *they* aren't investigating doesn't mean they didn't ask ABF to harass. |
+| **Fanny-Dulloo Call (Jan 2025).** | **[37]** | **NOTE:** They admit the call happened. They try to frame it as a standard inquiry. <br>**REBUTTAL:** The sworn timeline from Fanny-Dulloo alleges *threats of imprisonment* ("neck or her neck") and *coercion*. This is not a "standard inquiry"; it is witness tampering. |
+| **"Inquiries... in March 2025... informed no current criminal investigation."** | **[38]** | **UNRELIABLE / HEARSAY.** <br>1. Refers to AGS Letter of **11 Mar 2025**. <br>2. AGS admits they asked the **NDIA**, not the Commission's own investigators. <br>3. This contradicts the Jan 2025 raid where John Maloney (NDIS Investigator) threatened "DPP" action. <br>4. "No *current*" investigation might be technically true if they closed it between Jan and Mar, but it hides the malice of the Jan raid. |
+| **"Not Commission's responsibility to seek assurances."** | **[40]** | **INCORRECT.** As a Model Litigant, the Commission *must* not maintain proceedings for an improper purpose. If they know there are no charges, they must revoke the ban (s 73ZO), not force the Applicant to prove a negative. |
+| **"Ms Vida Reid has not adduced any evidence... she has been charged."** | **[41]** | **IRONY.** The Commission admits *they* have no evidence of charges (Para 47), yet they require *her* to prove she *hasn't* been charged? This reverses the onus of proof. The ban exists *because* of alleged charges; if none exist, the ban falls. |
+| **"No evidence of any criminal charges at this stage."** | **[47]** | **THE GOLDEN ADMISSION.** <br>**Submission:** We accept this admission. <br>**Consequence:** Since the bans were legally "pegged" to the duration of criminal proceedings (see Internal Review), and the Commission admits there are none, **the bans must be revoked immediately**. The Commission is estopped from maintaining the orders. |
+
+---
+
+## Part F: Submissions – Severance (The "Joint Trial" Argument)
+
+| Respondent's Point | Paragraph | Applicant's Rebuttal / Note |
+| :--- | :--- | :--- |
+| **"Only factors changed... criminal proceedings dropped."** | **[52]** | **MAJOR CHANGE.** The dropping of charges is a *fundamental* change. It removes the primary distinct issue for Vida Reid. However, the *malice* directed at Vida (witness tampering) is now a distinct issue that prejudices Simon Reid if heard together. |
+| **Reciting the same allegations (Goodwin, Cudlow, Teague, etc.)** | **[54.3]** | **ABUSE OF PROCESS.** <br>1. These precise allegations formed the brief for the criminal charges. <br>2. The CDPP (prosecution) **dropped the charges** because there was no reasonable prospect of conviction. <br>3. For the Commission to now run a "carbon copy" of the failed criminal case in the Tribunal is oppressive and an abuse of process. They are trying to get a "second bite at the cherry" with a lower standard of proof. |
+| **"Dream Big" Allegation.** | **[54.5]** | **NOTE:** The "Dream Big" issue is irrelevant to the original banning order (which was about FFG). It is an attempt to "retrofit" justification for the ban using post-ban conduct. |
+| **"Significant overlap... allegations against each party."** | **[55]** | **DISPUTED.** <br>1. Simon Reid was a "sleeping director" (Fanny-Dulloo Transcript). <br>2. Vida Reid is the target of the Commission's vendetta (e.g. Maloney threats). <br>3. Linking Simon to Vida's "target" puts him in the crossfire of the Commission's malice. Severance is required to ensure Simon gets a fair hearing on his own (lack of) conduct. |
+| **"Inefficient use of Tribunal resources."** | **[58]** | **JUSTICE OVER EFFICIENCY.** <br>Efficiency cannot trump procedural fairness. It is structurally unfair to force Simon Reid to defend against a "zombie" criminal case that was effectively dismissed against Vida Reid. |
+
+---
+
+## Summary of Rebuttal Strategy
+1.  **Weaponize Para 47:** Use their admission ("no evidence of charges") to destroy the *basis* of the bans (Paras 41, 47).
+2.  **Expose the Malice:** Use the Jan 2025 Fanny-Dulloo raid to rebut their clean hands arguments (Paras 27, 37, 38).
+3.  **Res Judicata / Abuse:** Argue that running the failed criminal allegations (Para 54.3) in the Tribunal is abusive.

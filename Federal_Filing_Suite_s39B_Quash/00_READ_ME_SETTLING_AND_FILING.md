@@ -1,0 +1,136 @@
+# Reid v Commissioner — Federal Court filing suite
+
+**Draft date:** 15 July 2026  
+**Court:** Federal Court of Australia, Western Australia District Registry  
+**Proposed applicants:** Simon Reid and Vida Reid  
+**Proposed respondent:** Commissioner of the NDIS Quality and Safeguards Commission
+
+## Status
+
+This is a first settlement draft for an Australian administrative-law solicitor and counsel. It is not signed, filed, served or legal advice. Text in square brackets must be completed or deleted. Quotations and dates have been checked against the available signed instruments and extracted reasons, but counsel must compare the filing set with the native PDFs.
+
+The recommended filing route is an originating application in Form 69 under s 39B(1) and (1A)(c) of the *Judiciary Act 1903* (Cth), with relief under ss 21–23 of the *Federal Court of Australia Act 1976* (Cth). Rule 31.11 of the *Federal Court Rules 2011* applies. Counsel should decide whether there is any forensic advantage in joining an out-of-time ADJR claim; this suite does not presently do so.
+
+## Filing architecture
+
+1. `01_DRAFT_FORM_69_ORIGINATING_APPLICATION.md` — relief and concise grounds for transfer into the current Form 69.
+2. `02_DRAFT_STATEMENT_OF_CLAIM.md` — material facts, jurisdictional-error grounds and particulars.
+3. `03_DRAFT_APPLICANTS_OUTLINE_OF_SUBMISSIONS.md` — opening written submissions.
+4. `04_DRAFT_INTERLOCUTORY_APPLICATION_AND_SHORT_MINUTE.md` — expedition and optional interim restraint.
+5. `05_DRAFT_COMMON_AFFIDAVIT_DELAY_AND_EFFECTS.md` — common chronology, delay, utility and current effects.
+6. `06_DRAFT_SIMON_REID_AFFIDAVIT.md` — minimum-evidence affidavit limited to orders, delay, family uncertainty, present effect and undertakings.
+7. `07_DRAFT_VIDA_REID_AFFIDAVIT.md` — minimum-evidence affidavit limited to process, objective criminal status, family circumstances, present effect and delay.
+8. `08_COURT_BOOK_AND_AUTHORITIES_INDEX.md` — proposed documentary record and authorities.
+9. `09_SETTLING_SCHEDULE_EXACT_WORDING.md` — side-by-side statutory and order wording.
+10. `10_DRAFT_PRE_ACTION_LETTER_TO_COMMISSION.md` — open proposal for suspension, expedition, records and confined family protection.
+11. `11_SUPPLEMENTARY_POINTS_FAMILY_AND_LABOUR_HIRE.md` — evidence chain, candid forensic treatment and affidavit instructions for the family, Dream Big and labour-hire points.
+12. `filing_suite_manifest.json` — structured reference map.
+
+The final consolidated package also contains a separate internal-decision-record audit, Gmail evidence index and reserved NDIA/Halls compensation strategy. Those materials are for counsel and evidence preservation; they are not to be annexed wholesale to the opening affidavits.
+
+## Case kept deliberately narrow
+
+The proceeding should decide the legality of existing coercive instruments. It should not ask the Court to determine whether either applicant is suitable, innocent of every allegation, or immune from any future lawful order.
+
+The pleaded order of attack is:
+
+1. both operative 21 April 2023 orders are not orders prohibiting engagement in “specified activities” within s 73ZN(2), because they prohibit “any involvement with or in the NDIS sector, in any capacity”, extend expressly to indirect conduct and assistance “of any form”, and use an inclusive, non-exhaustive list;
+2. both review decisions misconstrued the power and lack the personal, activity-specific, risk-responsive connection required by *Sunflower Care Services Pty Ltd v Commissioner of the NDIS Quality and Safeguards Commission (No 2)* [2025] FCA 1442;
+3. Vida’s original 20 December 2022 order is separately invalid on its face because it prohibits providing supports and services “directly or indirectly”;
+4. Vida was denied procedural fairness when review changed the decisive gateway from s 73ZN(2)(a)(i) to (iii), after notice directed principally to Dream Big and broader wording, and then treated much of her paragraph (i) response as unnecessary;
+5. Simon’s decisions used corporate position and attribution as a substitute for an objectively reasonable personal and activity-specific assessment, despite the investigation record admitting limited information about his actual operational involvement;
+6. the reviewer treated activity lawful under Simon’s original order as possible “circumvention” and used it to justify a much wider instrument, although *Sunflower* at [226] confirms that a later variation cannot retrospectively make earlier lawful conduct unlawful;
+7. the Commission's own T58 investigation recorded that Simon's Dream Big ASIC assistance preceded the notice and order and was described as limited, with no ongoing operational or email role, while the review reasons treated involvement as commencing around the order and as possible circumvention;
+8. the 2026 insertion of s 73ZN(2B)–(2C), including an express power concerning certain services that “enable or facilitate” disability supports, does not retrospectively validate the 2023 orders;
+9. scope and five-year duration were tied substantially to external processes, not an intelligible assessment of unmitigable risk in each prohibited activity; and
+10. Simon’s 9 February 2023 Vitality email identified a concrete labour-hire concern and may support a targeted restriction, but the reasons do not expose why it required the universal chapeau or the other all-sector limbs. The absence of any Simon family exception, contrasted with the express exception in Vida’s same-day order, supports uncertainty, hardship and confined interim relief rather than a free-standing claim of automatic invalidity.
+
+## Matters that must be settled before filing
+
+### Mandatory factual completion
+
+- applicants’ full residential or service addresses, phone numbers and email addresses;
+- whether both applicants will be represented and, if so, solicitor details;
+- respondent’s correct current service address;
+- authenticated current NDIS Commission banning-order register entries;
+- complete ART chronology after 17 September 2025 and copies of every operative direction/order;
+- exact present status of ART matters 2023/3361 and 2023/3363;
+- when each applicant first read or was advised of *Sunflower* and every step taken from 21 November 2025 to filing;
+- one or two current, concrete and non-incriminating effects of each order, supported by documents;
+- whether a confined family order or expedition can provide practical relief without a broader merits affidavit;
+- the applicants’ instructions on proposed protective undertakings;
+- redacted proof that Vida and Alex are NDIS participants and one or two concrete family activities affected by Simon’s order;
+- the certified 23 February 2024 Magistrates Court transcript;
+- any current CDPP correspondence confirming whether a recharge decision has or has not been made; and
+- written clearance from criminal defence counsel for every paragraph in the personal affidavits that could overlap with the investigation, charges, company conduct, devices, documents, finances, recruitment or labour hire.
+
+### Counsel decisions
+
+- joint proceeding or separate proceedings under the joinder rules;
+- whether the original Simon order is challenged in the same proceeding and whether the pleaded evidence supports that ground;
+- whether certiorari should be framed as ancillary relief and the exact form of prohibition/injunction;
+- whether any ADJR Act ground and extension application should be joined;
+- whether the Civil Dispute Resolution Act 2011 requires Form 16 or the ART-review exclusion applies;
+- whether to seek a declaration concerning past invalidity, prospective restraint, register correction, or all three;
+- severability of the three illustrative limbs from the invalid chapeau;
+- whether remitter should be to a differently constituted delegate; and
+- whether interlocutory suspension is needed or expedition alone is the safer application;
+- whether to seek, as primary or fallback interlocutory relief, a tightly conditioned non-enforcement order for Simon’s ordinary unpaid assistance to Vida and Alex; and
+- how to answer the Commission’s likely severability argument concerning the labour-hire limb without asking the Court to remake the instrument.
+
+## Grounds intentionally not pleaded
+
+- fraud, bad faith, misfeasance, reckless indifference or damages;
+- personal claims against Commission or NDIA officers;
+- s 100 reviewer disqualification, unless native T49 metadata and decision workflow prove the statutory fact;
+- a categorical claim that no banning order against either applicant can lawfully be made;
+- a merits attack on every allegation contained in the Commission material; and
+- FFG or Hybrid corporate claims.
+
+## Self-incrimination and evidence protocol
+
+The certified 23 February 2024 transcript records that the charges were dismissed for want of prosecution and Vida was formally discharged. It also records that the Commonwealth sought dismissal so the charges could be commenced later, described discontinuance as being “at this stage”, and indicated an intention to recharge. The filing must not describe that disposition as an acquittal or assume that passage of time has ended the risk.
+
+The opening Federal Court case should therefore be document-led:
+
+1. prove the wording, decision path, T65/T65.1 and executive briefs through the administrative record, an agreed court book or the common solicitor affidavit;
+2. use Simon’s and Vida’s affidavits only for minimum non-incriminating facts necessary for standing, delay, present family effect and carefully confined interim relief;
+3. do not volunteer explanations of the allegations, corporate operations, systems, finances, devices, recruitment or labour hire;
+4. do not disclose the substance of legal advice;
+5. obtain coordinated advice from criminal defence counsel and administrative-law counsel before filing or cross-examination; and
+6. if particular compelled evidence may tend to incriminate, raise the objection before the evidence is given and seek directions and any available protection under s 128 of the *Evidence Act 1995* (Cth). Do not assume a voluntarily filed affidavit is automatically protected.
+
+This restraint has a trade-off: the Simon personal-assessment ground and Vida procedural-fairness materiality ground may be weaker if they require new factual accounts. Counsel should keep them record-based, narrow them, or defer them rather than expose either applicant unnecessarily.
+
+## Candour about delay and ART
+
+The affidavit must not say the Commission alone caused all delay. The verified chronology shows the Commission sought and obtained an adjournment pending Vida’s criminal proceedings. On 23 February 2024 the charges were dismissed for want of prosecution and Vida was formally discharged, while the transcript recorded an intention to recharge. Later programming resumed, and later confidentiality, stay and severance applications also consumed time. The applicants should identify responsibility for each interval neutrally.
+
+The answer to discretionary delay is cumulative: statutory merits review was commenced promptly and the dispute remained live; *Sunflower* supplied a later authoritative construction of the same power and materially similar wording; the current orders continue to operate; only about 17 months remain as at 15 July 2026; the legality issue is principally documentary; and further delay risks making relief practically hollow. The eight months after *Sunflower* still require a complete, evidence-based explanation.
+
+## Immediate filing sequence
+
+1. Have senior administrative-law counsel and the criminal defence solicitor settle a coordinated pleading, privilege and interim strategy.
+2. Complete the common affidavit and the two minimum-evidence personal affidavits; obtain criminal-defence clearance before either applicant swears anything.
+3. Send the respondent a concise pre-action proposal: consent to suspend/remove the impugned wording, or agree to expedition and a documentary court book.
+4. Notify the ART of the proposed legality proceeding and seek coordinated case management without abandoning merits review.
+5. File Form 69, the settled pleading, supporting affidavits, the review decisions/reasons, and any interlocutory application together.
+6. Seek an early case-management hearing and an expedited final hearing on an agreed record.
+
+## Principal verified sources
+
+- *National Disability Insurance Scheme Act 2013* (Cth), s 73ZN as in force when the orders were made and s 100 review power.
+- *Sunflower Care Services Pty Ltd v Commissioner of the NDIS Quality and Safeguards Commission (No 2)* [2025] FCA 1442 at [127]–[141], [180]–[191], [202]–[209], [222], [225]–[231].
+- Simon original order and reasons, 21 December 2022.
+- Simon internal-review decision, varied order and reasons, 21 April 2023.
+- Vida original order and reasons, 20 December 2022.
+- Vida internal-review decision, varied order and reasons, 21 April 2023.
+- EC22-002103, EC22-002429 and EC22-002521 executive briefs.
+- T9.4 investigation considerations and T49 tracked legal comments.
+- T58 section 56 notice, Dream Big written response and 9 March 2023 Commission examination extract, tender bundle pages 1135–1139, 1143, 1178, 1185–1189 and 1193–1194.
+- T65 notice dated 22 March 2023 and T65.1, Simon’s 9 February 2023 Vitality recruitment email, tender bundle pages 1346–1352.
+- The two 21 April 2023 varied orders, including Vida’s express exception concerning herself and Alex and the absence of an equivalent in Simon’s order.
+- Certified Magistrates Court transcript dated 23 February 2024, recording dismissal for want of prosecution, formal discharge and the stated intention to recharge.
+- *Evidence Act 1995* (Cth), s 128.
+- *Criminal Procedure Act 2004* (WA), ss 25 and 79.
+- ART respondent submissions dated 17 September 2025 and later directions/documents once completed.

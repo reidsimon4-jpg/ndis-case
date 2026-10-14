@@ -1,0 +1,373 @@
+# Commission decision-record completeness matrix
+
+**Prepared:** 15 July 2026  
+**Purpose:** identify every located internal document bearing on the reasons, scope, duration and review of the Reid banning orders  
+**Status:** confidential counsel working paper; not evidence, not a pleading, and not legal advice
+
+## Bottom line
+
+The audited 218-file corpus contains five documents described as executive briefs:
+
+1. EC22-002000, signed 19 October 2022 — FFG suspension and proposed FFG/Vida action;
+2. EC22-002103, signed 17 November 2022 — proposed Simon banning order;
+3. EC22-002429, dated 2 December 2022 — Simon extension request;
+4. EC22-002581, signed 20 December 2022 — final FFG/Vida decision; and
+5. EC22-002521, signed 21 December 2022 — final Simon decision.
+
+No other executive brief was located by identifier, title or content in the audited corpus. That is a corpus result, not proof that no other brief or workflow record exists.
+
+The strongest internal-document case is cumulative:
+
+- the Banning Order Policy required a case-by-case, risk-responsive and proportionate decision, and said key personnel would be unlikely to be banned without direct involvement or a responsible failure that significantly facilitated, contributed to or exacerbated the conduct;
+- the investigation note admitted that the Commission had limited information about Simon’s actual operational involvement;
+- the Simon intention and final briefs principally bridged the gap by directorship, authority, joint-signatory status and an inference of likely benefit;
+- the reviewer corrected misattribution, double counting and a major claim figure, but then expressly attributed entity and worker wrongdoing to Simon because he was a director and “should have been aware”;
+- the original Simon order did not prohibit labour hire, but lawful activity outside that text was characterised as possible circumvention and used to create a much wider instrument;
+- the same-day Vida order preserved family access for Vida and the couple’s son, while Simon’s instrument contained no equivalent protection;
+- internal legal comments recommended providing requested information to reduce procedural-fairness risk, yet the decision path selected the version refusing further disclosure;
+- the later FFG review expressly acknowledged deficiencies in the original Project Archer process and reasons; and
+- central Simon documents, the Tactical Intelligence Report and internal/legal attachments were omitted, withheld or protected, leaving a material record-completeness issue.
+
+The opening Federal Court case should still lead with the words of the April 2023 instruments and Sunflower. The internal record supports individual assessment, proportionality, procedural fairness, materiality, relief and targeted production. It does not presently establish malice, dishonesty, conspiracy or prosecution procurement.
+
+## 1. Executive-brief universe
+
+| Identifier and date | Decision stage | Core recommendation or function | Personal reasoning exposed | Located supporting material | Important missing or controlled material |
+|---|---|---|---|---|---|
+| EC22-002000 — 19 Oct 2022 | Initial FFG/Vida action | Suspend FFG; propose revocation/FFG ban; propose 10-year Vida ban | Vida treated through FFG role, alleged conduct and criminal material | T6 policy; T9 investigation/considerations material; matrices and notices; risk section | Attachment 55/LEX 1602 legal advice and covering email; complete workflow metadata |
+| EC22-002103 — 17 Nov 2022 | Simon notice of intention | Propose five-year ban under s 73ZN(2)(a)(iii) | Hybrid authority/control; joint signatory; likely benefit; entity and criminal-investigation material | T44 Commission Evidence Summary; corporate extracts; NDIA statements/summaries | Attachment O legal advice; Attachment P internal email chain; Tactical Intelligence Report under non-disclosure orders; complete NDIA caveats |
+| EC22-002429 — 2 Dec 2022 | Simon extension response | Grant limited extension after the original period and first submissions | No information identifying immediate danger posed by Simon | Extension request chronology and decision | Why the 22 Nov request did not reach the director until 30 Nov; no LSB advice was sought |
+| EC22-002581 — 20 Dec 2022 | Final FFG/Vida decision | Revoke FFG registration; make FFG and Vida bans; reduce Vida from proposed 10 years to 5 | Joint submissions addressed through attachments; heavy reliance on alleged fraud and entity material | Attachments analysing submissions; T49–T53 letter versions; orders | Complete basis for the handwritten duration reduction; Attachment 55 context; native versions and decision-workflow record |
+| EC22-002521 — 21 Dec 2022 | Final Simon decision | Make five-year Simon order | Repeats authority, joint-signatory and likely-benefit bridge; relies on NDIA material | Simon submissions and final reasons/order | Attachment G legal advice; complete delegate view/open logs; complete source documents behind summaries |
+
+## 2. Policy-to-decision comparison
+
+The Commission’s own Banning Order Policy is T6 in Tender Part 1, bundle pages 139–142.
+
+| T6 policy proposition | Located decision record | Forensic significance | Caution |
+|---|---|---|---|
+| Banning orders are the Commission’s most serious compliance and enforcement tool, reserved for the most serious poor conduct | EC22-002000 says action may be viewed as “quite strong” because complaints/breaches focus on administrative and personal errors | Required careful explanation of why the most serious tool was necessary | “Quite strong” is a risk description, not a concession of invalidity |
+| Every decision is case-by-case and objective | Simon materials depend substantially on entity evidence; the reviewer later used corporate attribution | Supports a failure-to-individualise argument | Corporate role can be relevant evidence |
+| General rather than limited, and prohibition rather than restriction, should be used only if necessary and appropriate | April 2023 orders prohibit any involvement in any capacity and use a non-exhaustive list | Strong proportionality and legal-unreasonableness comparison | Policy is not the statute and does not itself create jurisdictional error |
+| Duration should not exceed what is necessary | Simon’s five years was tied to expected regulatory/legal processes; Vida’s to expected criminal-process duration | External process length appears to substitute for a protective-duration assessment | Process timing may still be relevant evidence |
+| Relevant factors include seriousness, harm, recurrence, ongoing risk, state of mind, other protections and mitigation | Simon brief records no identified immediate danger; family and targeted-activity controls were available | Supports the missing activity-by-activity and mitigation bridge | Not every factor must be separately itemised |
+| A laid charge alone is unlikely to justify a ban; all available evidence must be examined | Vida review called allegations unproven but said a person facing such charges “must be prevented” | Tension between policy and a charge-driven rule | The reviewer also relied on material beyond the charge itself |
+| A charge-pending ban should ordinarily run long enough for the charge to be determined, then be reconsidered | Charges were dismissed for want of prosecution in February 2024; no final merits outcome followed and the order remained | Relevant to present relief, maintenance and duration; not proof the original decision was unlawful | Transcript records an intention to recharge; dismissal was not an acquittal |
+| Key personnel are unlikely to be banned unless directly involved or they failed to take responsible steps in a way that significantly facilitated, contributed to or exacerbated the conduct | Simon review says wrongdoing may be attributed because he directed the entity and “should have been aware” | Sharpest internal comparison: the reasons substitute director status and constructive awareness for the policy’s identified responsibility link | Counsel should plead statutory error, not breach of policy as a free-standing cause |
+
+## 3. EC22-002000 and the originating investigation
+
+### What the brief records
+
+- Legal Services Branch reviewed material before the proposed action.
+- Evidence matrices and a considerations document were created, including a separation between alleged contraventions and material said to establish a state of mind.
+- Information was transposed into notices said to be designed to ensure procedural fairness.
+- The action was recognised as severe and likely to cause substantial loss of income.
+- The brief anticipated a “retaliatory response”.
+
+### What the investigation note says about Simon
+
+The note records:
+
+> Despite emails for FFG and The Hive being directed to or including Simon Reid the Commission has limited information about his actual involvement in the operations.
+
+That sentence is contemporaneous and predates the personal order. It is not a finding that Simon had no involvement. It identifies the gap the later Simon briefs had to bridge rationally and personally.
+
+### Other investigation-note features
+
+- The assessment was described as comprehensive, but the full evidence and all attachments are not reproduced in the disclosed record.
+- The note placed substantial importance on Danica Hall and Janine Hall and on NDIA material.
+- The proposed Vida term was ten years.
+- The note contemplated that the ban would not prevent Vida or her son obtaining NDIS supports, although Vida could not act as provider to her son.
+- The note reproduced the policy position that a mere pending charge was unlikely, without more, to justify a ban.
+
+### Proper use
+
+Use the investigation note to demonstrate the acknowledged evidentiary gap, the policy framework and the availability of family calibration. Do not use it to assert that the Commission conducted no investigation or that all underlying evidence was false.
+
+## 4. T44 — Commission Evidence Summary
+
+T44, Attachment M to EC22-002103, is an undated 12-page summary table. It is a collection and characterisation of complaints and NDIA statements, not a reasoned finding document.
+
+### Simon-specific material in T44
+
+The Simon-linked entries include allegations or statements concerning:
+
+- a meeting or sign-up involving Simon and Vida;
+- Simon acting as a recovery coach and an allegation involving alcohol/medication;
+- ownership or control of The Hive/Hybrid;
+- salaries, accounts or benefit from alleged fraud;
+- engagement with Simon and Vida and Hybrid invoicing;
+- dealings with Simon at Hybrid;
+- an allegation of drug use linked by the table to competency/suitability; and
+- a participant meeting Simon and later claims involving Hybrid/FFG.
+
+### Limitations
+
+- Many of the 32 complaints are expressly allegations; some are recorded as refuted.
+- Most items concern FFG, Vida, Alam or workers rather than Simon.
+- The table does not perform credibility analysis, corroboration, role-period analysis or an activity-specific risk assessment.
+- Labels such as “evidence of control” are Commission characterisations, not independent findings.
+- Corporate records do show that Simon held relevant Hybrid directorships. The argument should not deny that objective status; it should challenge the leap from status and summarised allegations to universal personal unsuitability.
+
+### Proposed use
+
+T44 is useful to show what the brief had and what it did not do. It should not be filed as if every table entry were admitted fact.
+
+## 5. T75 and T76 evidence matrices
+
+T75 and T76 are in Tender Part 5. The source pages are sideways; a five-page rotated reading extract is included in the primary-evidence folder.
+
+- T75 addresses FFG/Vida complaints-management and worker-qualification issues.
+- T76 addresses FFG and SDA advertising/registration issues.
+- They are entity/Vida matrices, not an independent Simon-specific culpability assessment.
+- The footer date appears to be 7 August 2023. It may be a print/export or later document date and should not be alleged as the date the underlying analysis was first created without native metadata.
+
+These matrices show structured treatment of FFG/Vida issues but do not fill the personal gap identified in the investigation note.
+
+## 6. Simon intention brief EC22-002103
+
+### Core reasoning
+
+The brief recommended a five-year order under s 73ZN(2)(a)(iii). Its most developed narrative concerns FFG, Vida, Alam, Hybrid and workers. The personal bridge to Simon was:
+
+1. responsibility and authority over Hybrid;
+2. joint bank-signatory status; and
+3. the inference that Simon “has likely benefited as a result”.
+
+The brief records no information identifying an immediate danger posed by Simon.
+
+### Evidentiary problem
+
+Authority and banking status may be probative. The record does not show a separate finding that Simon:
+
+- directed a particular false claim;
+- knew of a particular worker’s wrongdoing;
+- failed to perform an identified responsibility in a way that significantly contributed to the conduct; or
+- posed the same risk across direct supports, labour hire, family assistance, funding, guidance and every other sector capacity.
+
+The policy comparison makes the absence of that bridge more significant.
+
+### Missing attachments
+
+- Attachment O: legal advice, withheld subject to privilege/non-disclosure application.
+- Attachment P: an internal Commission email chain, described in the 7 May 2026 correspondence as not relevant and not produced.
+- Tactical Intelligence Report: controlled by the 26 July 2024 non-disclosure/non-publication orders.
+- Complete NDIA disclosure caveats and source documents behind the summaries.
+
+No adverse inference should be pleaded merely from non-production. Seek a record list, privilege schedule and appropriate production directions.
+
+## 7. Extension brief EC22-002429
+
+This is a small but important document:
+
+- the notice was received on 18 November and the original period provided 13 days;
+- the 22 November extension request was not made available to the Director, Compliance until 30 November;
+- the extension was considered only after first submissions had already been provided;
+- no information identified immediate danger posed by Simon; and
+- LSB advice was not sought on the extension response.
+
+An extension was granted, so this is not a complete denial-of-fairness ground by itself. It rebuts urgency as an explanation for compressed handling and supports close scrutiny of the process.
+
+## 8. Simon final brief EC22-002521 and original order
+
+The final brief largely repeats the original personal bridge and directs detailed response analysis to an attachment. It does not identify a new body of Commission-generated Simon conduct findings.
+
+The original order stated:
+
+> I prohibit Mr Reid from providing disability supports and services to NDIS-funded participants for a period of five (5) years.
+
+It did not prohibit:
+
+- recruitment or labour hire;
+- ownership or operation of every NDIS-adjacent business;
+- providing funding, guidance or assistance of any form to a provider;
+- all involvement with the NDIS sector; or
+- ordinary unpaid assistance to a participant spouse or son.
+
+The original instrument had no family exception. Vida’s same-day order expressly preserved her access to supports for herself and the couple’s son.
+
+## 9. T49–T53 — the procedural-fairness version path
+
+T49 contains a tracked internal comment stating, in substance:
+
+> Noting the previous advice received from the AGS ... we recommend providing the requested information. This approach limits the legal risk of procedural fairness being relied upon as grounds to challenge the decision.
+
+The comment also recommended that, if the risk was accepted, the reasons for believing FFG/Vida already had sufficient information be put to the delegate. A second comment said LSB had not reviewed the suspension part of the original package and offered advice on procedural fairness.
+
+The versions then show:
+
+- T52/T53: consideration of the information request and a longer extension;
+- T51: a draft allowing 28 days but maintaining the “sufficient information” position; and
+- T50: the final 15 November response refusing additional information and allowing 14 extra days.
+
+### Significance
+
+This is evidence of a conscious decision path after a legal/process warning, not merely an accidental omission. It strengthens the fairness and production case.
+
+### Limits
+
+- The full advice and covering email are absent.
+- The comment marker is “SL”. It has not been proved by native metadata that the commenter was Sian Leathem.
+- Do not plead reviewer bias, knowledge of illegality, reckless indifference or malice from the flattened comment alone.
+
+The production request should seek the native T49 file, version history, comment-author metadata and covering email.
+
+## 10. Vida/FFG final brief EC22-002581
+
+The final brief and its attachments repeatedly reason that the submissions “fail to demonstrate” compliance or lack supporting evidence. The disclosure request had nevertheless been refused.
+
+This supports a possible burden-shift/process submission:
+
+- the Commission controlled substantial source material;
+- more particulars and material were requested;
+- the final process maintained that sufficient information was already available; and
+- adverse weight was then attached to the absence of further proof or evidence from the recipients.
+
+The point should be kept precise. A regulated person may properly be invited to supply evidence, and silence can sometimes bear weight. The error alleged is not a general right to the whole investigative file; it is the combined fairness of refusing material, treating the notified case as sufficient, and then using the absence of evidence as a substantial adverse reason.
+
+## 11. Simon internal review
+
+The review decision corrected significant parts of the original case:
+
+- conduct during periods when Simon was not a relevant director could not reasonably or appropriately be attributed to him;
+- the approximately $1.485 million expired-plan figure received minimal weight because the Tactical Intelligence Report acknowledged that the proportion representing services actually provided was unknown;
+- some facts had been attributed outside Simon’s responsibility periods; and
+- some matters had been double counted.
+
+The retained personal reasoning then stated:
+
+> It is appropriate to attribute liability to Mr Reid for the wrongdoing of the corporate entity he directs and the conduct of the workers employed or otherwise engaged by that company.
+
+It continued that Simon “should have been aware” of conduct within Hybrid because of director duties.
+
+The review also:
+
+- gave no weight to a claimed exculpatory position because supporting material was not provided;
+- gave minimal weight to a wholesale denial because no supporting evidence was supplied;
+- treated Dream Big and the 9 February 2023 Vitality recruitment email as possible strategic or tactical circumvention; and
+- broadened the order to a universal sector prohibition with labour-hire and open-ended assistance limbs.
+
+### Strongest Simon proposition
+
+The reviewer’s corrections show that the original record contained real errors and overstatement. The retained reasoning then replaced those errors with a legal attribution rule based on directorship and constructive awareness, rather than findings satisfying the policy’s direct-involvement/responsible-failure link and the statute’s personal, activity-specific task.
+
+### Self-incrimination discipline
+
+Do not answer the underlying allegations, the email recipient list, operations, accounts, PRODA or recruitment facts in Simon’s affidavit. The argument can be made from the Commission’s own record and the face of its reasons.
+
+## 12. Vida internal review
+
+The review:
+
+- changed the statutory basis from s 73ZN(2)(a)(i) to s 73ZN(2)(a)(iii);
+- described the allegations as unproven;
+- nevertheless said a person facing such serious charges “must be prevented” from access to plans and provision;
+- treated detailed examination of contravention submissions as not necessary or conducive because the review proceeded through suitability;
+- gave considerable weight to new Burke allegations in the absence of evidence negating them;
+- relied on a stated “usual practice” of using paragraph (iii) where fraud charges were pending; and
+- broadened the order while retaining a family exception for Vida and Alex.
+
+Section 100 gave a broad review power, so the safe Federal Court point is not that a statutory-ground change was automatically outside power. It is that the decisive new frame was not fairly notified, the changed frame affected treatment of the submissions, and the reasons disclose a possible fettering or misconstruction through “usual practice”.
+
+## 13. FFG internal review — Commission’s own concessions
+
+The 8 June 2023 FFG review reasons expressly say:
+
+- the original ban adopted revocation reasons, but the separate banning decision should have had distinct or independent reasons;
+- the original decision should have been based on a narrower set of probative matters;
+- there were deficiencies and failings in sufficiently providing information about some allegations; and
+- there were deficiencies and failings in clearly articulating analysis and weight.
+
+The reviewer said those matters were cured through the later FFG review and a differently confined case. That does not automatically invalidate the personal reviews. It is important corroborative evidence that the original Project Archer process and reasons had acknowledged shortcomings.
+
+## 14. Tactical Intelligence Report
+
+The report is especially important because the Simon reviewer used it to reduce weight on a major allegation: the report acknowledged that the proportion of expired-plan claims corresponding to services actually provided was unknown.
+
+Yet:
+
+- it was not in the ordinary disclosed record;
+- it is subject to the 26 July 2024 non-disclosure/non-publication regime; and
+- the May 2026 correspondence confirmed it remained controlled.
+
+The appropriate course is to seek permission for counsel and the Court to use it under protective orders, not to publish or paraphrase beyond what the Commission’s own reasons already disclose.
+
+## 15. Orders compared
+
+| Order | Core words | Family protection | Main legal point |
+|---|---|---|---|
+| Simon original, 21 Dec 2022 | providing disability supports and services to NDIS-funded participants | none | personal reasoning and undifferentiated duration |
+| Vida original, 20 Dec 2022 | providing supports and services directly or indirectly | self and son exceptions | direct Sunflower wording issue |
+| Simon varied, 21 Apr 2023 | any involvement with or in the NDIS sector, in any capacity; inclusive three-limb list | none | facial ultra vires; uncertainty; no individual calibration |
+| Vida varied, 21 Apr 2023 | same universal wording and inclusive list | self and son exceptions | facial ultra vires plus ground-switch fairness |
+
+## 16. Record-completeness findings
+
+### Located and usable now
+
+- all five executive briefs;
+- original and varied orders and reasons;
+- T6 policy;
+- T9 investigation/considerations material;
+- T44 summary table;
+- T49–T53 version sequence;
+- T75/T76 matrices;
+- certified 23 February 2024 transcript;
+- FFG review concessions;
+- AGS/ART correspondence recording the omitted Simon documents and current production position.
+
+### Missing or controlled
+
+1. Attachment 55/LEX 1602 and covering email.
+2. Attachment O to EC22-002103.
+3. Attachment G to EC22-002521.
+4. Attachment P internal Commission email chain.
+5. Tactical Intelligence Report in a form usable under protective orders.
+6. Native T49 and comment metadata.
+7. Complete evidence matrices and the “Evidence Information post advice” source referred to in the briefs.
+8. Native executive-brief versions, approval history and PDMS access/open logs.
+9. Complete NDIA-to-Commission source material and disclosure caveats.
+10. Documents explaining the Vida duration reduction and Simon’s missing family exception.
+11. Any Simon-specific risk assessment addressing direct support, labour hire, funding, guidance, assistance and unpaid family activity separately.
+12. Any post-February 2024 reconsideration document addressing the pending-charge rationale, dismissal, recharge status and continued enforcement/publication.
+
+## 17. What to plead, reserve and avoid
+
+### Lead
+
+1. Facial invalidity under Sunflower.
+2. Failure to connect each activity, person, risk, mitigation and duration.
+3. Simon: admitted limited information, corrected errors, then corporate attribution.
+4. Vida: unnotified decisive ground change and usual-practice reasoning.
+5. Simon: lawful non-prohibited labour-hire activity used as circumvention to support a universal variation.
+6. Family-exception disparity as concrete uncertainty and lack of calibration.
+
+### Use as corroboration or production context
+
+- T49 legal/process warning;
+- FFG review concessions;
+- T44’s summary nature;
+- T75/T76’s lack of Simon-specific assessment;
+- TIR’s material qualification;
+- omitted/controlled attachments.
+
+### Reserve
+
+- institutional-reputation and “consistent message” language;
+- burden-shift arguments beyond the clearest documentary examples;
+- later maintenance as a separate reviewable decision;
+- compensation, misfeasance and malicious-prosecution theories.
+
+### Do not allege on the present record
+
+- that every allegation was false;
+- that the Commission conducted no investigation;
+- that the commenter “SL” was Sian Leathem;
+- that the T75/T76 footer proves the matrices were first created in August 2023;
+- that the Commission or CDPP has finally abandoned prosecution;
+- that the criminal dismissal was an acquittal;
+- that Halls procured the prosecution or acted maliciously;
+- that legal advice established illegality or was deliberately ignored; or
+- that omitted documents were concealed in bad faith.
+

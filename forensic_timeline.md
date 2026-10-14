@@ -1,0 +1,56 @@
+# Forensic Timeline: Reid & Forward Focused Group v NDIS Commission
+
+**Purpose:** To demonstrate the chronological sequence of events, highlighting the collapse of the Commission's case, the contradictions in their submissions, and the evidence of malice.
+
+---
+
+## 2022: The Initial Actions
+*   **19 Oct 2022:** Visa Reid arrested and charged (s 135.1(3), 400.9(1)). NDIA releases Statement of Material Facts (SoMF) alleging fraud by "unknown person".
+*   **17 Nov 2022:** Show Cause Notices issued to S Reid, V Reid, The Hive.
+*   **20-21 Dec 2022:** Banning Orders made against S Reid (5 years), V Reid (5 years), FFG (10 years), The Hive (5 years).
+*   **22 Dec 2022:** The Hive receives its Show Cause Notice via Australia Post — **one day AFTER** the ban was already made. (Procedural Fairness Breach).
+
+## 2023: The "Review Penalty" & Commission Stance
+*   **25 Jan 2023:** S Reid seeks internal review.
+*   **9 Mar 2023:** Commission interview with **Virginie Fanny-Dulloo** (T58). She states S Reid was "not involved" in FFG operations.
+*   **21 Apr 2023:** Internal Review Decision (Sian Leathem).
+    *   **Admission:** Original decision-maker made errors.
+    *   **Action:** Instead of revoking, the reviewer **broadens** the ban to prohibit "any involvement" with NDIS.
+    *   **Rationale:** Ban duration explicitly pegged to **"criminal proceedings"**.
+*   **30 Jun 2023:** FFG letter to DEWR confirms legitimate premises and staff (rebuts "sham" claim).
+*   **31 Oct 2023:** Commission applies for **STAY** of AAT proceedings, arguing criminal charges are on foot and prejudice would occur.
+
+## 2024: The Collapse & The Pivot
+*   **23 Feb 2024:** **CRITICAL DATE.** Criminal charges against Vida Reid **DISMISSED**. Prosecution offers no evidence.
+*   **28 Feb 2024:** Respondent's Reply (5 days post-dismissal).
+    *   **Admission:** *"The Respondent cannot say that criminal proceedings are being actively considered... as **no brief of evidence has been provided**."*
+    *   **Malice:** Despite knowing the case is dead, Commission opposes lifting the stay and maintains the bans.
+*   **Sep 2024:** ABF "Julian" at Perth Airport confirms standing directive to stop/search Reids due to NDIS.
+
+## 2025: Witnesses & The "Final Admission"
+*   **7 Jan 2025:** NDIS Investigator **John Maloney** raids home of Virginie Fanny-Dulloo.
+    *   **Threat:** *"It’s your neck or her neck."*
+    *   **Surveillance Admission:** Claims unwavering monitoring of Reids' calls/movements.
+*   **11 Mar 2025:** AGS Letter to V Reid.
+    *   **Denial:** *"Commission has made enquiries with the NDIA and has been informed that there is no current criminal investigation pertaining to Mrs Reid or to FFG."*
+    *   **Contradiction:** This denial comes just 2 months after Maloney's raid where he claimed to have "evidence to put forward to the DPP". Either Maloney lied to coerce the witness, or the NDIA lied to the Commission.
+*   **17 Sep 2025:** Respondent's Stay Submissions (Para 47).
+    *   **The Golden Admission:** *"The Respondent's previous position was based on the fact that there were criminal charges... **There is no evidence of any criminal charges at this stage.**"*
+    *   **Contradiction:** Fails to mention the Jan 2025 raid/investigation when claiming "no investigation".
+
+## 2026: The "Expiry" Trap
+*   **13 Feb 2026:** AGS Letter to S Reid.
+    *   **Notification:** FFG ban expired 20 Dec 2025.
+    *   **Trap:** Invites withdrawal of appeal.
+    *   **Reality:** Ban remains on register "indefinitely".
+
+---
+
+## Key Contradictions Log
+
+| Date | Commission Statement | Reality / Contradiction |
+| :--- | :--- | :--- |
+| **Oct 2023** | "We must stay proceedings because criminal charges are critical." | **Feb 2024:** Charges dropped. Ban not lifted. |
+| **Apr 2023** | Ban duration is "pegged" to criminal proceedings. | **Sep 2025:** Admits "no evidence of charges" but ban remains. |
+| **Sep 2025** | "There is no current criminal investigation." | **Jan 2025:** John Maloney raids witness home, threatening jail. |
+| **Dec 2022** | The Hive was "afforded procedural fairness". | **Dec 2022:** Notice delivered *after* ban made. |

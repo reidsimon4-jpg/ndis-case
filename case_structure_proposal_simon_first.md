@@ -1,0 +1,68 @@
+# PROPOSAL TO NARROW ISSUES: SEQUENCING & SEPARATION
+**Date:** 14 March 2025
+**To:** The Respondent (NDIS Commission) & The Tribunal
+
+## Executive Summary
+The Respondent has expressed a desire to "narrow the issues" (Respondent's Submissions, 17 Sep 2025). The Applicants agree that efficiency is paramount but submit that **continued joinder of these three matters has the opposite effect**, creating a "sprawl" of unrelated issues and prejudicial evidence.
+
+To truly narrow the issues, the Tribunal should determine the matters in the following sequence:
+
+---
+
+## 1. PRIORITY MATTER: Simon Reid (ART 2023/3363)
+**Why First?** The case against Mr Reid is the narrowest and most fragile. It can be determined (and potentially dismissed) on threshold legal issues alone, removing an entire party from the substantive hearing.
+
+### Threshold Legal Issues (To be determined first):
+1.  **The "Sleeping Director" Defence:**
+    *   **Issue:** Evidence (including the Fanny-Dulloo transcript) suggests Mr Reid was not involved in operational invoicing or NDIS claiming.
+    *   **Narrowing:** If Mr Reid was not "knowingly concerned" in the contraventions, his banning order falls immediately. There is no need to drag him through a 3-week factual hearing about Vida Reid's conduct.
+2.  **Evidentiary Vacuum:**
+    *   **Issue:** The case against Mr Reid was entirely derivative of the criminal investigation.
+    *   **Narrowing:** The Respondent has admitted "no evidence of criminal charges" (Para 47). Unlike Vida Reid, there are no specific allegations of *personal* conduct against Simon (e.g., alleged "invoice bombing" in Para 40.2(l) was attributed to Mrs Reid).
+    *   **Proposition:** If the Respondent cannot particularise *specific acts* by Simon Reid distinct from the company, is there a case to answer?
+3.  **Absence from Internal Deliberations:**
+    *   **Issue:** A review of the Commission's own internal briefing notes and evidence matrices reveals a **stark absence** of references to Mr Reid.
+    *   **Narrowing:** The regulatory focus was almost exclusively on Mrs Reid. Mr Reid appears in the paperwork only as a formal director, not as an active participant in the alleged conduct. To ban him for 5 years without a specific evidentiary basis in the internal record is a threshold error of law.
+
+**Strategic Consequence:** Determining Simon Reid's matter first likely results in a **Revocation or Set Aside** decision. This removes one Applicant entirely, significantly narrowing the scope of evidence for the remaining matters.
+
+---
+
+## 2. SECOND MATTER: Vida Reid (ART 2023/3361)
+**Why Second?** Once Simon Reid is removed, the Tribunal can focus on the *complex* and *contested* issues specific to Vida Reid without the distraction of a co-applicant.
+
+### Threshold Legal Issues:
+1.  **Abuse of Process / Malice:**
+    *   **Issue:** The "Jan 2025 Raid" on Ms Fanny-Dulloo and the contradictory "No Investigation" claim (11 Mar 2025) raise a threshold question of whether the proceedings are being maintained for an improper purpose.
+    *   **Narrowing:** If the Tribunal finds the proceedings are an abuse of process or that the Commission has not acted as a Model Litigant, the matter may be stayed or determined on that basis alone, avoiding a lengthy merits review of 2021 invoices.
+2.  **The "Zombie" Criminal Case:**
+    *   **Issue:** The Respondent seeks to re-litigate the precise allegations (Para 54.3) that led to charges being dropped.
+    *   **Narrowing:** The Tribunal must determine a preliminary question: *To what extent is the Respondent estopped from relying on the 'criminal brief' evidence that was deemed insufficient for prosecution?*
+
+---
+
+## 3. FINAL MATTER: Forward Focused Group Pty Ltd (ART 2023/4494)
+**Why Last (or Stayed)?** FFG's liability is entirely derivative of its Directors. It has no independent agency.
+
+### Threshold Legal Issues:
+1.  **Derivative Liability:**
+    *   **Issue:** If Simon Reid is cleared and Vida Reid's conduct is determined (one way or another), FFG's position is automatically resolved. It is a "shell" for the Directors' conduct.
+    *   **Narrowing:** There is *zero utility* in hearing FFG's matter simultaneously. It simply duplicates evidence.
+2.  **Mootness / Utility:**
+    *   **Issue:** FFG's ban expired on 20 Dec 2025.
+    *   **Narrowing:** The only remaining issue is the reputational stain on the register. This can be dealt with summarily *after* the Directors' conduct is established.
+
+---
+
+## Conclusion: The "Narrowing" Strategy
+**The Respondent's proposal (Joint Hearing)** creates a "Mega-Trial" involving:
+*   Two Directors with divergent culpability (Active vs Sleeping).
+*   A defunct Company.
+*   Evidence of varying relevance to each.
+
+**The Applicant's proposal (Sequenced Hearing)** offers true narrowing:
+1.  **Exit Simon Reid** (based on lack of evidence).
+2.  **Determine Vida Reid** (based on Abuse of Process vs Merits).
+3.  **Resolve FFG** (Administrative formality).
+
+We request directions to list **Simon Reid** for a preliminary hearing on threshold issues immediately.

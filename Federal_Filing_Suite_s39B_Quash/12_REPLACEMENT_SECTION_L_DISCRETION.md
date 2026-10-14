@@ -1,0 +1,88 @@
+# REPLACEMENT SECTION L - DISCRETION, ART PROCEEDINGS AND DELAY
+
+**Status:** Counsel-settling draft. This section is intended to replace section L of `03_DRAFT_APPLICANTS_OUTLINE_OF_SUBMISSIONS.md`. Do not file it until the bracketed ART-status and delay evidence has been completed from authenticated orders, transcripts and registry correspondence.
+
+**Reason for replacement:** The existing section did not deal sufficiently with *Sunflower Care Services Pty Ltd v Commissioner of the NDIS Quality and Safeguards Commission (No 2)* [2025] FCA 1442 at [117]-[120], *McGowan v Migration Agents Registration Authority* [2003] FCA 482; 129 FCR 118, or the Tribunal's powers under the *Administrative Review Tribunal Act 2024* (Cth).
+
+---
+
+## L. Discretion, the ART proceedings and delay
+
+50. The applicants commenced merits-review proceedings in the Administrative Appeals Tribunal on 10 May 2023. Those proceedings continued in the Administrative Review Tribunal after the commencement of the *Administrative Review Tribunal Act 2024* (Cth) (ART Act). The applicants do not submit that the Tribunal lacks power to grant substantial prospective relief. Subject to the statutory conditions, the Tribunal may stay or otherwise affect the operation of a reviewable decision under s 32, exercise the decision-maker's powers and discretions under s 54, and affirm, vary, set aside and substitute, or set aside and remit, the decision under s 105.
+
+51. The applicants also acknowledge the following matters relevant to discretion:
+
+   (a) the Commission obtained an early stay or adjournment of the merits-review proceedings in connection with contemplated criminal proceedings;
+
+   (b) after the dismissal and later recharging of criminal allegations, the applicants made forensic choices concerning confidentiality, stays and severance;
+
+   (c) Ms Reid withdrew her stay application in or about March 2026; and
+
+   (d) not every interval since May 2023 can properly be attributed to the Commission.
+
+   The applicants will rely on a dated chronology supported by the relevant Tribunal orders, transcripts, correspondence and court records. They will not invite the Court to infer respondent-caused delay where the source documents do not support that conclusion.
+
+52. The governing approach is not that the existence of merits review automatically excludes relief under s 39B of the *Judiciary Act 1903* (Cth), nor that relief follows automatically once jurisdictional error is shown. In *Sunflower* at [117], the Court, applying *Bechara v Bates* [2021] FCAFC 34; 286 FCR 166 at [157]-[164], recognised both propositions. Where a clear want or excess of jurisdiction is shown by an aggrieved party, a constitutional writ will ordinarily issue unless it is just to withhold relief. Relevant reasons to withhold it can include a more convenient or satisfactory remedy, unreasonable delay or acquiescence, absence of utility, disproportion, mootness, or the absence of real injustice.
+
+53. The applicants confront, rather than avoid, *McGowan*. As *Sunflower* records at [118], the application in *McGowan* was summarily dismissed because the extant AAT merits review was a more convenient and satisfactory remedy. The present case is also less favourable to the applicants than *Sunflower* in some respects. In *Sunflower*, the delay was about two months; the alternative review had not been pursued through oversight; the Federal Court proceeding was already on foot; and the legal question could conveniently be resolved in that proceeding: *Sunflower* at [119]. Here, the merits-review proceedings have long been on foot, the applicants have used interlocutory processes in that forum, and this Federal Court proceeding was not already advanced when *Sunflower* was decided. The applicants therefore do not rely on *Sunflower* as an automatic answer to the alternative-remedy objection.
+
+54. The applicants nevertheless submit that the Court should determine the short, anterior question of statutory authority raised by Grounds 1 to 3 because:
+
+   (a) those grounds turn on the face and legal operation of the 21 April 2023 banning orders, the review decisions and the historical form of s 73ZN(2) of the *National Disability Insurance Scheme Act 2013* (Cth), rather than on a broad contest about the preferable merits outcome;
+
+   (b) they raise substantially the same question of statutory construction determined in *Sunflower* at [127]-[141], applied to different instruments;
+
+   (c) a substituted or varied decision made now by the Tribunal may provide prospective relief, but it does not itself answer whether the impugned executive instruments were authorised when made, or retrospectively validate their operation during the period before substitution;
+
+   (d) the applicants did pursue merits review promptly. The practical complaint is not that they declined an available remedy, but that after more than three years there has been no final merits determination capable of ending the operation and public consequences of the impugned instruments;
+
+   (e) the relevant official instruments, reasons and statutory texts are fixed. Determination of the confined facial question should not cause forensic prejudice to the Commission and need not require evidence from Mr Reid about the subject matter of any contemplated criminal prosecution;
+
+   (f) the orders continue to operate until December 2027 unless earlier displaced. Passage of time therefore both increases the accumulated effects and progressively consumes the practical value of eventual relief; and
+
+   (g) the applicants seek case-management orders which avoid duplication. They invite the Court to determine the threshold facial-authority ground first and, if appropriate, stay or defer any fact-dependent ground pending the Tribunal process.
+
+55. The applicants accept that the ART Act supplies a further possible coordination mechanism. Under s 185, the Tribunal may, with the President's agreement and either on a party's request or on its own initiative, refer a question of law arising in the proceeding to the Federal Court. That is not a remedy which the applicants can demand as of right. The following evidence must state whether such a referral has been requested, and the result:
+
+   **[INSERT: authenticated evidence of any request under s 185, any response, and the current Tribunal directions and hearing or decision timetable. If no request has been made, counsel must settle whether one should be made before commencing this proceeding.]**
+
+56. The applicants further accept that the omitted Commission material supplied in May 2026 bears principally on Mr Reid's personal-record and procedural-fairness grounds. It does not, without more, explain the whole period after *Sunflower* was delivered on 21 November 2025 in relation to the facial statutory-authority ground. The evidence must therefore identify, date by date:
+
+   (a) when the applicants and their representatives became aware of *Sunflower* and appreciated its possible application to each impugned instrument;
+
+   (b) what steps were taken in the Tribunal and in preparing judicial review;
+
+   (c) what documents or legal advice were unavailable, when they became available, and why they were material;
+
+   (d) any periods attributable to the Commission, the Tribunal, the applicants, or external criminal proceedings; and
+
+   (e) why relief is sought now rather than at an earlier point.
+
+   **[INSERT: concise affidavit-supported chronology from 21 November 2025 to filing. Do not rely on a general assertion that disclosure in May 2026 explains the entire period.]**
+
+57. Utility must be addressed separately for the two applicants.
+
+   (a) In Ms Reid's case, the original 2022 order itself used language including activities undertaken "directly or indirectly" and therefore the applicants submit that relief directed to the original and review instruments can have immediate legal utility.
+
+   (b) In Mr Reid's case, quashing only the varied review order may leave or revive the original 2022 instrument. The relief must therefore be framed contingently and the Court must be satisfied that a ground capable of impeaching each operative layer is made out. The applicants do not submit that quashing the review variation alone necessarily produces complete relief.
+
+   (c) The applicants also accept that the current statutory provisions may permit the Commissioner to consider a fresh order expressed in terms that were not available under the former s 73ZN(2). They seek a determination of the legality of the historical instruments, not immunity from a lawful future decision made under the current Act after procedural fairness.
+
+   (d) A possible fresh decision does not remove all utility from correcting the legal status and public consequences of instruments that operated for years. It does, however, limit any suggestion that judicial review guarantees final freedom from regulatory action.
+
+58. The Court can protect against fragmentation by confining the initial controversy to the construction and application of former s 73ZN(2), using an agreed or tightly confined documentary record, and coordinating any remaining issues with the Tribunal. On the completed evidence identified above, the applicants submit that the combination of a clear and continuing statutory-authority question, the fixed documentary record, the exceptional duration of unresolved review, the continuing operation of the orders, and the distinct retrospective utility of judicial review makes it just to determine that confined question notwithstanding the ART proceedings.
+
+58A. Alternatively, if the Court is not presently persuaded to determine the fact-dependent grounds, the applicants seek directions or a stay that preserves those grounds while the threshold facial ground is resolved, rather than summary dismissal of the whole proceeding.
+
+---
+
+## Mandatory settling checks before use
+
+1. Attach or identify every current ART order governing stays, severance, confidentiality and hearing dates.
+2. Verify whether any ART decision is presently reserved. Do not use that word without an order, transcript or registry confirmation.
+3. Complete the post-*Sunflower* chronology and explain each material interval.
+4. Decide whether to request an ART Act s 185 referral before filing.
+5. Settle relief for Simon against the revival risk; do not assume that quashing the 2023 variation eliminates the 2022 order.
+6. Preserve Simon's privilege against self-incrimination by keeping the facial ground on the official instruments and statutory texts.
+7. Update the current statutory citation and commencement date for the 2026 amendments to s 73ZN.
+8. Do not characterise the ART as powerless or legally inadequate. The submission is comparative, contextual and based on the actual history.

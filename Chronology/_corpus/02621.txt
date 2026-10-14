@@ -1,0 +1,163 @@
+### SOURCE: Desktop/SESSION_SUMMARY_16-17_JUL_2026.md
+### MTIME: 2026-07-16 19:40
+
+# ILO Systems — Working Session Summary (16–17 July 2026)
+
+One file covering everything that was built, fixed, and deployed this session,
+plus the short list of things only you can do.
+
+---
+
+## 1. Netlify outage (resolved)
+
+- All ILO Netlify sites (portal, CostControl, Factory, tool tracker, website)
+  were serving **503** — a **team-wide billing suspension**, not a code problem.
+- After you topped up credits, everything came back. One stranded commit was
+  rebuilt and published.
+- Bonus: with billing current, direct `netlify deploy --prod` works again — the
+  old draft→publish workaround is no longer needed.
+
+## 2. Client-plans feature — LIVE (portal)
+
+The new lead→project plans flow you asked for:
+
+- **Lead page**: a "Client plans" card — upload the drawings/files a prospect
+  sends you during enquiry.
+- **Convert to project**: those files carry across automatically into their own
+  **"Client plans"** section on the project (visible to the client), separate
+  from your issued-plans register.
+- The database migration was run (`ok=True, 34 applied`) — feature fully on.
+
+## 3. Money-seam integrity — LIVE
+
+- **Invoice paid in Finance → portal invoice flips to paid** automatically
+  (exact project + invoice-number match only; can never touch the wrong
+  invoice). Later upgraded to **two-way**: a bounced/reversed payment un-flips
+  the portal invoice too.
+- **Bank-memo auto-assign fixed**: project codes 0100+ and glued codes like
+  "0036screws" now assign correctly; phone-like numbers ("0812-3456-789") are
+  no longer mistaken for project codes; a manual re-code in the app now wins
+  over the raw bank memo.
+- **Double-count check**: verified already safe (reconciled debits are never
+  re-fed to CostControl) — no change needed.
+- **Daily backup hardened**: the Finance sync now runs every step in isolation
+  so the offsite backup ALWAYS runs, even if another step (or a missing token)
+  fails.
+
+## 4. Adversarial review of the fresh code → 18 confirmed findings, fixed
+
+Ran a multi-agent review over the just-shipped code. Highlights it caught
+(all fixed + deployed):
+
+- **Data-loss bug**: deleting a client plan on a won lead would have destroyed
+  the project's copy (shared file). Now the project gets its own copy.
+- **Stored-XSS hole**: uploaded HTML/SVG files could run scripts on the portal.
+  Now only safe types (PDF/images) display inline; everything else downloads.
+- **Upload permission gap**: a client could inject files into staff registers
+  by spoofing a category. Blocked.
+- Plus ~10 smaller correctness/robustness fixes across portal + finance.
+
+## 5. Finance app — fixes loaded by you ✅
+
+`finance_fixes.zip` (Desktop\ILO_FIXES_TO_APPLY) — you uploaded it to
+PythonAnywhere. It contains:
+
+- `/bank` "Confirm all coded proposals" button fix
+- classifier + sync + backup fixes above
+- **`dedupe_invoices.py`** — cleans the duplicate "Dominic" draft invoices:
+  - `python3 dedupe_invoices.py` → dry run, only LISTS duplicates
+  - `python3 dedupe_invoices.py --yes` → removes the extras (drafts only,
+    sent/paid/void never touched)
+
+## 6. Test-data cleanup — LIVE
+
+- **Leads**: super-admin **Delete** button on each lead page (there was no
+  delete before). Use it to clear test leads.
+- **Projects**: use **Archive** (safe, hides everywhere). A permanent project
+  delete was deliberately not built — it cascades across 3 systems.
+
+## 7. Suppliers directory — LIVE (CostControl)
+
+New **Suppliers** tab:
+
+- **Builds itself from who you've paid** — every expense payee becomes a row
+  with total paid, projects, categories, last-paid date.
+- Also pulls **work-package subcontractors** (names, trade, contact/phone/terms
+  you typed on packages) — no double-counting of money.
+- **Add supplier** button for vendors you haven't paid yet; totals merge when
+  real spend lands under the same name.
+- Click a row to add contact person, phone, WhatsApp, email, lead time, price
+  notes, rating, "preferred" star.
+- A pre-deploy review caught 2 data-loss bugs here too — fixed before launch.
+
+## 8. Work packages from the budget — LIVE (CostControl)
+
+The budget→WP→actual loop you asked for:
+
+- In a project's budget table, every **section row** (e.g. "Design and
+  Engineering") has an **"Issue WP"** button → creates a work package
+  pre-filled with the section's name + budget, status **Issued**.
+- Shows **"WP issued"** if one already exists (no duplicates).
+- Work packages have a **Supervisor / assignee** field, shown in the list.
+- Actual spend flows in automatically from expenses coded to that section →
+  **budget vs actual variance** per package (met budget or not) — the useful
+  data you wanted.
+
+## 9. Teams + WhatsApp integration — BUILT, waiting on one thing from you
+
+**Decision (from live research):** no Make.com hub needed. Microsoft's free
+"Workflows" webhook does it. The apps now push cards to Teams:
+
+| App | Posts to Teams when… |
+|---|---|
+| Portal | new lead · **bid WON (design-kickoff card)** · invoice paid/reversed |
+| CostControl | work package issued from a budget section |
+| Finance | daily sync digest (incl. "backup ran / did NOT run") |
+
+### ► The webhook URL, explained simply
+
+The apps need an "address" to send messages to. Teams gives you that address —
+it's just a special link. To get it (5 minutes, once):
+
+1. Open **Teams** → go to the channel where you want the messages
+   (e.g. General, or make a channel called **ilo-feed**).
+2. Click the **⋯ (three dots)** next to the channel name → choose
+   **Workflows**.
+3. Pick the template **"Post to a channel when a webhook request is
+   received"** → click through to create it.
+4. Teams shows you a long **URL** — that's the address. **Copy it.**
+5. **Paste that URL to me in chat** — I'll plug it into all three apps and
+   test that a card lands in your channel.
+
+Until that URL exists, the feature sits silent (nothing breaks).
+
+### WhatsApp local SIM — important warning
+
+- When the Indonesian SIM arrives: **do NOT register it through Twilio** (that
+  wipes WhatsApp off the handset and kills site groups).
+- Just put it on the free **WhatsApp Business app** → site groups solved, $0.
+- **Calendar note — September 2026**: Meta starts charging (~$0.025/msg) for
+  currently-free 24-hour-window replies on 1 Oct 2026; worth a cost review of
+  the Twilio team line then.
+
+## 10. Outstanding — your actions
+
+| # | Action | Time |
+|---|---|---|
+| 1 | Teams webhook URL (steps above) → paste it to me | 5 min |
+| 2 | Run `python3 dedupe_invoices.py` on PythonAnywhere (dry run, then `--yes`) | 5 min |
+| 3 | Delete test leads (Delete button) / archive test projects | 5 min |
+| 4 | When local SIM arrives: WhatsApp Business app (NOT Twilio) | — |
+| 5 | Sept 2026: review WhatsApp messaging costs before Meta's 1 Oct change | — |
+
+## 11. Remaining backlog (low priority, documented in ILO_FIXES_TO_APPLY)
+
+- Finance: dashboard "as of" banner; success/failure flash on actions
+- CostControl: hide write buttons from view-only users (cosmetic); sync-trigger
+  throttle
+- Mobile polish: HEIC iPhone photos, tab auto-scroll
+- Phase 2 comms: bid-won → Planner design tasks (via your Make.com);
+  WhatsApp push to supervisors on WP-issued; invoice approve/reject buttons
+  in Teams
+- Parked features: WhatsApp chat-zip project importer; bid → CostControl
+  budget import
