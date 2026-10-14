@@ -1,0 +1,690 @@
+# Source conflicts
+
+343 events record a conflict between sources. Resolve against the originals before relying on them.
+
+- **T0014** (2020-10-19, fact): NDIA approves FFG as NDIS provider in WA (per SoMF)
+  - SoMF internal inconsistency: FFG company registered 28 Aug 2020 (para 10) and declaration of suitability uploaded 9 Nov 2020 (para 12), yet registered as provider 19 Oct 2020 (para 13). Other sources (internal review SoR) give Commission registration from 19 Nov 2020.
+- **T0016** (2020-11-19, fact): FFG registered NDIS provider with Commission until revocation on 20 Dec 2022
+  - SoMF (E00018-20) gives NDIA registration date 19 Oct 2020; SoR gives 19 Nov 2020 start.
+- **T0045** (2021-02-15, allegation): Beckett Annexure B: 22 participants, $1,475,870.97 alleged fraudulent payment requests
+  - Charlie Harrison annex B.7 subtotal $68,858.20 (incl. $14,989.99 line) vs summary $53,868.21. Goodwin $197,474.83 (Annexure B, 384 items) vs $127,475.30 (NDIA forensic accountant/SoMF). Annexure B covers claims from 15 Feb 2021, before Hybrid Hive existed (registered 17 Jun 2021) and, for some participants, before FFG's registration was operational; summary lists 22 participants but 21 per-participant totals are consolidated here.
+- **T0081** (2021-06, allegation): Infinity Living Options Pty Ltd conceived and registered (Vida Reid, Roberts, Rossouw)
+  - Registration date 1 Jun 2021 per brief/ASIC data (E00120) vs Roberts/Rossouw placing the formation meetings in June 2021. Roberts says Vida 51%/Roberts 49% and Rossouw nominal director; the brief records directors Vida Reid, Rejaul Alam, Huong Nguyen and Vida as sole shareholder. Rossouw says Simon present at the conversation; Roberts says Simon could not be director because of conflict of interest.
+- **T0092** (2021-06-17, fact): Hybrid Hive Pty Ltd and The Hive Pty Ltd registered (ACN 651 140 108)
+  - Simon's directorship of Hybrid Hive: SoMF says Vida sole director from 1 Dec 2021 and Simon director only of parent The Hive; Commission NOI (T46/Att H, 17 Nov 2022) and Banning Order briefing say Simon is sole director and shareholder (director since 17 Feb 2022); SoR/ASIC extract says Simon co-director with Vida from 17 Feb 2022 to 21/22 Aug 2022, then sole director. ASIC extracts (Att I) unreadable in source.
+- **T0141** (2021-10, allegation): Terri Roberts resigns from FFG and is walked out; alleged $59,000 ILO account transfer
+  - Status differs: witness statements record Roberts' account as allegation; the improper-purpose submissions draft (Simon/applicant position) says she left in disputed circumstances handled by DFG Legal Oct 2021-Mar 2022. Amount 'just under $59,000' (Roberts) vs $59,063.34 (Rossouw, Vida withdrew from ILO account ending 9192).
+- **T0171** (2021-11, allegation): Danica Hall alleges backdated Hive invoices against Yvonne Harrison's old plan (~$30,000)
+  - Harrison's own statement says she signed the FFG agreement on 2 Dec 2021; Hall says participant from 17 Nov 2021.
+- **T0185** (2021-11-16, fact): FFG Careview case notes for Sarah-Jane Clulow (14 Oct 2021-20 Jun 2022)
+  - Clulow's statement says FFG services ran from end Oct 2021 to 22 Jul 2022; the report shows FFG admin activity from 14 Oct 2021.
+- **T0192** (2021-11-24, allegation): Alleged FFG claims of $120,009.48 against Sarah-Jane Clulow's plan via Assist Plan Managers
+  - End date: 22 Jun 2022 (SoR, SoMF paras) vs 23 Jun 2022 (one SoMF-derived record). Clulow's FFG service end per her statement 22 Jul 2022.
+- **T0194** (2021-11-26, allegation): Alleged 81 false payment requests, $247,484.78 suspected proceeds of crime, two participants
+  - NOI names 'V REID and S REID' in this paragraph although only Vida Reid is charged (para 2).
+- **T0200** (2021-11-30, allegation): Goodwin plan: three claims within an hour of new plan; $43,004.60 paid; $127,475.30 alleged in total
+  - PRODA account 'alamreja' creation: SMF para 18 says 31 May 2020 (before FFG's incorporation), para 19 says election 30 May 2022 of email rejaul@ffg.net.au. Timeline CSV records 'Simon not FFG director then' (ASIC: Vida sole FFG director 4 Jan 2021-20 Oct 2022) yet SoR recital names both Reids as joint signatories. Claim end date 10 May 2022 (SoR 3(d)) vs 17 May 2022 (T8 paras 46-56 record). Goodwin figure $127,475.30 (SoMF/forensic accountant) vs $197,474.83 (Beckett Annexure B, 384 items, 19 Feb 2021-28 Jul 2022) - different measures.
+- **T0214** (2021-12-01, fact): Internal review finds Vida Reid sole Hybrid Hive director 1 Dec 2021; Simon not director
+  - Conflicts with other records saying Simon was sole director and shareholder of Hybrid Hive (registered 17 Jun 2021) and director from 17 Feb 2022; SoMF states Vida sole director from 1 Dec 2021.
+- **T0226** (2021-12-16, allegation): Grant Williams fired, Melissa Williams and Toby leave 16 Dec 2021; wider FFG staff departures
+  - Hall states 24 departures but names fewer (OCR). Harrison's statement has plan-manager invoices for 'Sally See' recovery coaching in Aug 2022, after Hall's 5 Apr 2022 resignation date; Hall lists Blesson Varghese 23 Jun before Nuttall 29 Jun.
+- **T0228** (2021-12-24, allegation): Hybrid Hive invoice INV-0116 to Regali (services 1-21 Dec 2021) predates Simon's office
+  - Invoice date 24 Dec 2021 vs 5 Jan 2022 in internal review para 32(a).
+- **T0235** (2022, allegation): Brief alleges NDIA taskforce coerced FFG clients to testify
+  - Graydon titled 'Assistant Director' here, A/Director Fraud Investigation in Commission brief.
+- **T0237** (2022, simon_position): Simon's position on Roberts, Smith, Nuttall and Hall family
+  - ASIC extract shows Infinity Living Options directors as Vida, Alam, Nguyen, not Roberts; Nuttall fired 29 Jun 2022 per Danica Hall statement.
+- **T0238** (2022, fact): NDIS Provider Register extract for Forward Focused Group
+  - Dated '2022' only as placeholder; 'in force until 01 Dec 2021' appears stale against revocation of registration 4-4GHG-1073 on 20 Dec 2022.
+- **T0257** (2022-01-25, allegation): 20 Hybrid invoices for Goodwin, $78,491.06 paid via Assist
+  - Members categorise as criminal/regulatory/complaint; consolidated as investigation.
+- **T0268** (2022-02-08, allegation): Ugwunali statement dated 8 Feb 2022 (date anomaly)
+  - Dated 8 Feb 2022 but narrates events to Dec 2022 and attaches emails forwarded 9 Feb 2023; true date almost certainly about 8 Feb 2023.
+- **T0274** (2022-02-17, fact): Simon Reid becomes director of Hybrid Hive
+  - SoR says sole director from 23 Aug 2022, review says 22 Aug (co-director to 21 Aug); one SoR passage describes Simon as sole director and shareholder; other Commission docs (ids 6, 54) say Hybrid registered 17 Jun 2021 with Simon sole director; SoMF paras 2, 22 say Vida sole director. Goodwin claims 25 Jan-16 Feb 2022 and Regali INV-0116 (24 Dec 2021) predate directorship.
+- **T0282** (2022-03, allegation): Benediktsson moves plan manager to Assist
+  - Para 5 of statement says with Assist since about April 2022.
+- **T0284** (2022-03-03, fact): Hammond signs FFG support coordination agreement via HelloSign
+  - Agreement dated 3 Mar 2022 though Hammond's statement places signing at an early Feb 2022 in-home meeting.
+- **T0294** (2022-03-12, allegation): Goodwin sees FFG Facebook post of cooking group she says never existed
+  - OCR date garbled ('42 March'); injury about a week after post.
+- **T0298** (2022-03-18, fact): FFG tax invoices to Cutler: INV-0890 $13,626.43, INV-0891 $12,758.10
+  - Service dates 2020-21 pre-date FFG's engagement per Cutler vs invoice date March 2022; existence of invoices is documentary, non-delivery is Cutler's allegation.
+- **T0301** (2022-03-21, unverified): FFG executes Workforce Australia Services Deed (ES-22-0090)
+  - Date 21 Mar 2022 (internal memo) vs April 2022 (Hammond Legal brief email excerpts 49(a), 57); contract value ~$5m/yr only in applicants' brief, deed not in excerpt.
+- **T0310** (2022-03-29, allegation): Elanor Smith resigns from FFG
+  - Simon says Smith was fired; Hall's list says resigned.
+- **T0312** (2022-03-30, fact): Janine Hall's anonymous fraud report to NDIA on Hybrid Hive and FFG
+  - E00480 (case notes) places Janine doing Roster of Care work for Clulow the same day, and her statement says Service Manager from 1 Apr 2022.
+- **T0314** (2022-03-31, fact): DFG Legal terminates Andrew Hahn's lodging agreement
+  - Danica Hall statement says Vida told Hahn on 5 Apr to vacate by 8 Apr, not within 30 days.
+- **T0328** (2022-04-05, allegation): Vida allegedly tells Hahn at his door to vacate by 8 April
+  - DFG letter of 31 Mar 2022 gave 30 days (to 30 Apr).
+- **T0332** (2022-04-07, allegation): Hahn sword-threat claim first appears; Vida-Simon call overheard
+  - Statement refers to events on 20 Jul 2022 but T9.4 says she resigned 19 Jul; 'Thursday 07/05/2022' appears to mean 07/04/2022.
+- **T0333** (2022-04-08, allegation): Danica Hall finds saved signatures in FFG HelloSign
+  - Statement writes '07/05/2022' for the day before 8 Apr 2022.
+- **T0334** (2022-04-11, allegation): Hive male security worker placed at Safety Bay house; naked incident in front of Goodwin
+  - Incident date: night of 13 Apr (Janine), 14 Apr (Danica), about 13-16 Apr (Goodwin); Janine reports a 12 Apr arrangement.
+- **T0335** (2022-04-12, allegation): Invoices raised against Bassam Haidar's expired plan after new plan
+  - Totals differ: Hive invoices $53,354.56 (Janine) vs eight invoices $54,254.92 (Danica); all invoices $61,453.23; $74,967.12 remained in old plan (Janine) vs $59,482.37 combined balance (Danica 14 Apr).
+- **T0341** (2022-04-19, allegation): Anonymous caller alleges NDIA Fraud Taskforce investigating FFG/Hybrid (complaint 4-37155939596)
+  - Hearsay reference to an NDIA Fraud Taskforce investigation by Apr 2022 vs NDIA SoMF saying investigation commenced 1 Sep 2022; compliance lock was 3 May 2022.
+- **T0348** (2022-05-03, fact): NDIA places compliance lock on Forward Focused Group
+  - Lock effective 3 May 2022 but notice recorded/dated 5 May 2022; no statutory provision cited. NDIA SoMF puts investigation start at 1 Sep 2022 though a 19 Apr 2022 complaint refers to a Fraud Taskforce investigation.
+- **T0351** (2022-05-05, fact): NDIA emails FFG Notice of Compliance Lock; Vida replies asking to respond
+  - Lock effective 3 May 2022; notice dated and emailed 5 May 2022 (plead both).
+- **T0352** (2022-05-05, simon_position): Applicants' account: compliance lock caused by Alam's $160,000 cleaning invoice
+  - NDIA notice lists different examples (398 hours cleaning, expired-plan claims, incorrect units) rather than a $160,000 invoice.
+- **T0358** (2022-05-10, allegation): Anonymous complaint 4-37380907579 re Meghan Goodwin
+  - Content differs between T44 (abuse, tracker, knife) and SoR para 40.2(d) (billing before 18/01/2022).
+- **T0362** (2022-05-20, allegation): Complaint 4-37833786005 re Clulow: PPE sharing, double dipping, $7,500 depleted
+  - Complaint ID is numbered after 4-37798459878 (23 Jun 2022) yet dated 20 May 2022; possible date error in source.
+- **T0365** (2022-05-30, allegation): Rejaul Alam re-nominated PRODA account manager for FFG
+  - SoMF para 18 gives account creation as 31 May 2020 (before FFG's 19 Oct 2020 registration) vs 30 May 2022 in para 19; Simon's chronology says Alam access removed about 7 May 2022; Alam removal date elsewhere 6 Oct vs 1 Nov 2022.
+- **T0370** (2022-06, allegation): Ugwunali walks into FFG office while promoting new company ACCESS
+  - Statement says ACCESS registered with NDIS March 2022 but dealings are described as Sept-Dec 2022; first approach June 2022.
+- **T0375** (2022-06-07, fact): Sarah Gilbert FFG support coordination agreement signed via HelloSign
+  - Amount recorded as $1,500 (T9.49), $1,800 (T93) or 20 hours (OCR uncertain); agreement signed about six weeks after plan start; HelloSign date 06/07/2022 = 7 June.
+- **T0387** (2022-06-16, fact): Vida replies to Abraham: non-compete, $4,000 exit fee, 'reported as fraudulent'
+  - The 'invoices paid immediately or I will report this to the NDIS' wording is in the 19 Jun email; Commission notices and brief place it on 16 Jun.
+- **T0388** (2022-06-17, allegation): Vida's 'Dear NDIA' reply to Davidson: Hahn removed by police
+  - Danica Hall's statement says to her knowledge Hahn was not removed by police.
+- **T0395** (2022-06-24, fact): Clulow gives four weeks' notice to FFG; Vida stops paying her invoices
+  - Nuttall's forward dated 24 Jun (corrected from 26 Jun); Vida calls her 'previous Operations Manager' on 1 Jul while Danica Hall gives 29 Jun as her departure date. Clulow lodged her Commission complaint 6 Jul 2022.
+- **T0396** (2022-06-27, fact): Email chain: Goodwin's supports stopped 'on the Agency's direction'
+  - Whether NDIA directed the stop is not shown in the tender; OCR renders 's100' as '$100'; Nuttall active on 27 Jun but called 'previous Operations Manager' on 1 Jul.
+- **T0398** (2022-06-29, allegation): Jan Nuttall fired or resigns as FFG Operations Manager
+  - Fired vs resigned; Vida referred to her as 'previous Operations Manager' on 1 Jul and she was active on 27 Jun.
+- **T0399** (2022-07, allegation): Danica Hall statement and evidence package to Commission
+  - Statement is undated and describes her as still employed and refers to events of 20 Jul 2022, whereas T9.4 says she resigned 19 Jul 2022. Mother-daughter relationship with Janine Hall is the Applicant's evidence only (unverified).
+- **T0404** (2022-07-01, fact): Vida Reid tells supplier FFG will stop paying Clulow invoices
+  - Time of Vida's email to the pharmacy given as about 2:41 PM, 2:51 PM; one member timestamps the chain at 21:14. E00629 attributes the email to an unnamed FFG staff member; E00635 and E00634 attribute it to Vida.
+- **T0406** (2022-07-01, fact): Tanya Gukwa resigns from FFG; Vida blames Jan Nuttall
+  - Resignation text says notice 'till the 8th of June [sic]' though email is 1 Jul 2022 (drafting error or template). Danica Hall list member E00637 dated 5 Jul 2022 vs 1 Jul in the email.
+- **T0423** (2022-07-17, allegation): Tabatha Sadler emails Commission about Meghan Goodwin's welfare
+  - First email sent 17 Jul to a misspelled domain (cade.brown@ndiscommision.gov.au) and re-sent 19 Jul 2022 7:18 PM; date given as 17 Jul in all members. Unredacted in 13 Jun 2024 bundle, blacked out in 2023 T-docs and ART FOI copy.
+- **T0426** (2022-07-19, fact): Danica Hall resigns from FFG as Accounts Officer
+  - Her statement (undated) describes her as still employed and refers to 20 Jul 2022; last day at FFG was Monday 25 Jul 2022 per her witness statement (resignation notice 19 Jul then last day 25 Jul is consistent).
+- **T0440** (2022-08-02, simon_position): Vida Reid forwards NDIA email to Assist: 'refused to commit fraud'
+  - Member E00691 dates the forward 2 Aug 2022 16:25; Assist's reply is headed Wed 3 Aug 2022 02:40 UTC (timestamp offsets; plausibly the same exchange).
+- **T0445** (2022-08-10, fact): NDIS Provider Register extract for Forward Focused
+  - Bundle index dates T9.8 as 13.09.2022; T79 indexes the same extract as 10.08.2022. Register shows registration in force until 1 Dec 2021 although FFG's registration ran 19 Nov 2020 - 20 Dec 2022 per the internal review decision (data anomaly; Att 6A explains 1 Dec 2021 as an extension under s 73K, T9.10 para 4.2).
+- **T0446** (2022-08-11, allegation): Jan Nuttall complains to NDIA (Nathan Halls) about FFG and Vida Reid
+  - FOI 2026/1839 review (E00701) describes the 11 Aug caller as unnamed; the tender bundle (T9.22) identifies Jan Nuttall. Simon's Oct 2026 position is that the caller was Nuttall (supported by timing: Nuttall fired 29 Jun 2022 per Danica Hall). Needs check against unredacted T9.22. Redaction check says 2023 T-docs blacked out, 2024 bundle unredacted.
+- **T0447** (2022-08-12, contention): Meghan Goodwin leaves FFG Safety Bay house; DFG Legal says 'covertly removed'
+  - FFG/DFG Legal narrative of covert removal vs Goodwin's own statement that she moved out; Commission complaints say Goodwin feared Reid. Date also coincides with alleged assault on Madeline Dawson (assault date 12 Aug per record 00159, but EX-2D/T9.13 place the attack on 17 Aug).
+- **T0454** (2022-08-17, contention): DFG Legal letter to Candice Jonker over Goodwin removal and assault
+  - Exhibit schedule dates the DFG Legal letter to Jonker 16 Aug 2022; tender T9.13 dates it 17 Aug 2022 and says it responds to Jonker's 16 Aug letter (not in slice). Whether Amanda Damon is a Diversitas director is not stated.
+- **T0458** (2022-08-19, fact): Bassam Haidar cancels contract with Forward Focus
+  - Contemporaneous termination emails give plan-funding/self-sufficiency reasons; later statement of 14 Oct 2022 says he ended over invoice issues and nothing was delivered. Rejaul Alam's mobile appears as 0478 895045 in his statement and 0478 895054 elsewhere.
+- **T0459** (2022-08-22, fact): Simon Reid becomes sole director of Hybrid Hive
+  - ASIC extract and timeline give 22 Aug 2022; the Commission SoR says 'from 23 Aug 2022'.
+- **T0466** (2022-08-26, allegation): Assist Plan Managers files 11 suspicious-invoice reports to NDIA
+  - NOI (Att H) and SoR attribute the 11 reports to 'Zettai Pty Ltd t/a Assist Plan Managers' without naming Periera; SoMF names Periera. Recipient is NDIA per SoMF; one SoR member leaves the recipient unstated.
+- **T0482** (2022-09-13, allegation): Commission compiles Key Issues and Potential Breaches template (Att 6)
+  - The Provider Register extract is dated 10 Aug 2022 on the page but indexed as 13.09.2022 here (see the 10 Aug record).
+- **T0491** (2022-09-21, fact): Commission obtains ASIC extracts for FFG, Hybrid Hive and The Hive
+  - T8 SoMF says Vida sole director of Hybrid from 1 Dec 2021 'until now'; T1.1 says Vida sole director 1 Dec 2021 - 16 Feb 2022, co-director 17 Feb - 21 Aug 2022; Att 6A says Simon is current director and Vida former. T8 names 'Leah Norman' as shareholder whereas ASIC shows Steven Norman as former director. Hybrid ACN given as 651 140 108 (Att 6A) and 651 140 168 (T67 OCR). Some draft says Simon was FFG sole director until 12 Dec 2022, but this 21 Sep 2022 extract already shows him as former FFG director (open item).
+- **T0499** (2022-09-29, fact): Nathan Halls announces 'coordinated provider exit' to landlord Yaran
+  - Recipient named variously as Yaran (landlord), Yaran Property Group with Nadav Strum, and Faryar Gorjy.
+- **T0511** (2022-10, fact): Commission compiles 'FFG Review of Evidence' summary tables
+  - Placed at 19 Oct 2022 by the extractor but internally later than 20 Oct 2022; statement counts 31 vs 33-35 elsewhere. Complaint count 36 vs 37; statements 31 vs about 35; compile date uncertain (20 Oct-17 Nov 2022).
+- **T0519** (2022-10-04, fact): Bennett Law writes to Halls demanding explanation of payment stop
+  - Source document is dated 11 Oct 2022 and recounts the 4 Oct approach; exact date of Bennett's first letter/call to Halls rests on that recount.
+- **T0521** (2022-10-04, fact): Assist Plan Managers: NDIA instruction not to pay ANY FFG/Hive invoices
+  - Amounts ($22,921.01 / $16,016.83) from the brief only; E00835 status unverified and time 11:14am only in E00836. NDIA instruction itself is disputed by Lundgren.
+- **T0522** (2022-10-05, fact): NDIA planner removes FFG consent and refers participant to Diversitas
+  - E00844 (Amended SoFIC cite) is unverified work-product for the request-for-service to Diversitas; E00841 also bundles the Halls call and Bennett C&D reply.
+- **T0524** (2022-10-05, unverified): Recorded call: plan manager says Halls confirmed instruction not to pay
+  - Call date uncertain (c. early Oct 2022); placed at 5 Oct.
+- **T0529** (2022-10-06, fact): Lundgren letter: Agency has not directed plan managers to cease payments
+  - Described as email in some members and letter in others; E00848/E00847 are secondary (brief / memory note).
+- **T0531** (2022-10-07, fact): NDIA fraud investigator Jarratt canvasses participants, announces Perth visit
+  - Date 11/10/2022 'Monday' consistent with 11 Oct 2022; 11 Oct 2022 is a Tuesday per calendar (source states Monday).
+- **T0543** (2022-10-11, fact): NDIA fraud investigators take 33-35 witness statements 'R v Vida Reid'
+  - Counts differ: ~35 entries (E00874), 33 (E00887/E00892), 34 (E00886). Admin irregularities (template investigator name, captions) noted in the FOI review.
+- **T0545** (2022-10-11, allegation): Pieter Rousouw statement: nominal director of Infinity Living Options
+  - E00888/E00890 call the Rossouw statement a Commission 'complainant statement'; other members treat it as an NDIA witness statement.
+- **T0567** (2022-10-12, allegation): Jonathan Shapiera statement headed 'R v Project ARCHER'
+  - Spelling Shapiera/Shapeira; heading 'R v Project ARCHER' differs from other statements ('R v Vida Reid').
+- **T0573** (2022-10-13, allegation): Amy Crane statement: no FFG supports, Vida managed plan
+  - Statement typed date '13 October 2021' conflicts with 2022.
+- **T0578** (2022-10-14, fact): Commission captures FFG and Hybrid Hive website and Facebook screenshots
+  - Att 29 index calls the Hybrid Hive page 'Home' but the URL shows /about-us/.
+- **T0579** (2022-10-14, fact): Commission provider-register profile screenshots for FFG
+  - Capture date not visible; expiry 1 Dec 2021 appears before 2022 capture.
+- **T0580** (2022-10-14, allegation): NDIA 'fraud squad' visits Janine Craig's home unannounced
+  - Visit time 11am (14 Oct) vs Merina's statement taken 2.10pm same day; E00973 dates the record 17 Oct.
+- **T0586** (2022-10-14, allegation): Andrew Hahn statement: respite charged for hotel, eviction
+  - Location line reads 'Melbourne' in OCR but statement made at Gosnells WA.
+- **T0587** (2022-10-14, allegation): Shapiera emails Nine News alleging Halls coerced FFG clients
+  - E00958 names the recipient as Channel 9 News; E00966 header shows Nine News.
+- **T0596** (2022-10-18, fact): NDIA investigator Svarc signs prosecution notice charging Vida Reid with four offences
+  - Notice dated 18 Oct 2022 (signature handwritten); Vida's affidavit says 'on or about 18 October'; arrest and charging occurred 19 Oct.
+- **T0602** (2022-10-19, allegation): NDIA files Statement of Material Facts in R v Vida Reid
+  - Witness-statement count: 27 to date (SoMF) vs 33-35 statements 11-20 Oct summarised elsewhere. Period recited as 26 Nov 2021-22 Jun 2022 in reviewer summary vs charge periods 18 Nov 2021-23 Jun 2022 in prosecution notice; '22 June 2020' is a typo in the decision text.
+- **T0603** (2022-10-19, fact): Commission briefing note EC22-002000 recommends suspension, revocation and banning
+  - Attachment labelling (Att 9E vs T9.18/T9.19) differs between briefing note and tender index; several attachments listed but not tendered.
+- **T0604** (2022-10-19, fact): Commission suspends FFG registration for 30 days (s 73N)
+  - Suspension notice says 'over 30 complaints since September 2021'; Evidence Matrix 1A says 32 complaints from 13 Apr 2021 to 10 Aug 2022. Further suspension date 21 Nov 2022 (DEWR recital) is unverified against Commission notices.
+- **T0605** (2022-10-19, fact): Commission issues FFG notice of intention to revoke registration and ban
+  - E01046 says notices of intention to ban FFG were sent by registered post on 19 Oct (unverified); other members say emailed.
+- **T0608** (2022-10-19, fact): Vida Reid charged with four Criminal Code offences; first Magistrates Court appearance
+  - E01044 (Hybrid Hive draft) is unverified on the 2024 discontinuance wording.
+- **T0609** (2022-10-19, allegation): Evidence Matrix 1B: FFG not registered for SDA (s 73B)
+  - Dated 'Oct 2022' in the T76 extract; Evidence Matrix 1B was part of the 19 Oct 2022 briefing note EC22-002000.
+- **T0613** (2022-10-19, allegation): Evidence Matrix 1A: 32 complaints, Sally See qualifications
+  - Complaint count/period differs between Matrix 1A (32 from 13 Apr 2021) and suspension notice (over 30 since Sept 2021).
+- **T0614** (2022-10-19, fact): Vida Reid arrested at home; declines recorded interview
+  - SoMF text says the court was 'Armidale'; other members say Armadale.
+- **T0615** (2022-10-19, fact): NDIA fraud team searches Reid home at 96 Amethyst Crescent under warrant
+  - Warrant executing agencies vary: NDIA/AFP (E01034), AFP/Services Australia/NDIA (E01053).
+- **T0618** (2022-10-21, unverified): Tori Vince appointed FFG director two days after Vida's arrest
+  - Extractor dated the record 19 Oct (arrest); the appointment date is 21 Oct 2022.
+- **T0632** (2022-10-29, fact): Simon files ASIC Form 201 for Dream Big Employment Pty Ltd
+  - Whether Simon's filing was circumvention is contested; ban was not made until 21 Dec 2022.
+- **T0637** (2022-11, fact): Draft Commission letters to Tom Monks granting 28-day extension (T51-T53)
+  - Sent letters (T50/T54, 15 Nov) granted only 14 days (to 30 Nov). Tom & Co's 30 Nov submission (T55) says the Commission had 'neither granted nor refused' the requests, inconsistent with T50/T54 if sent 15 Nov.
+- **T0645** (2022-11-01, fact): Vida Reid ceases as FFG director; Simon Reid appointed director and secretary
+  - Another record (EM-014) has Simon ceasing as FFG director 12 Dec 2022; ASIC searches Jan/Mar 2023 show him director/secretary. ART reasons of 31 Jul 2026 say he held no FFG office between 3 Jan 2021 and 1 Nov 2022. Holes_in_Commission_Case treats 1 Nov appointment as an allegation.
+- **T0649** (2022-11-03, allegation): Giuseppe Cricelli signs with ACCESS; ceases 10 Dec 2022
+  - End date 10 Dec 2022 (Ugwunali T5) vs 6 Dec 2022 (Haywood put-to, T58, see 2 Nov-17 Nov record).
+- **T0661** (2022-11-11, fact): Draft T49 reply to Tom & Co with legal-branch procedural fairness comments
+  - Letter body undated ('XX November 2022'); 11 Nov 2022 is the bundle index date only. Identity of 'SL' is not established by the document (project doc 00500 records Simon withdrawing 'SL = Sian Leathem' as unverified; E01102 labelled her Sian Leathem). Draft described as dated 15 Nov 2022 in later digests (the final letter date) vs 'XX November 2022' in the draft itself. Identity of SL unresolved (Sian Leathem asserted by Simon, withdrawn; 11 Sep 2026 check). One project note dates the draft about 18 Nov 2022 and assesses the SL comments as a Legal Services Branch voice, not Sian Leathem (assessed at 10% or less probability).
+- **T0662** (2022-11-11, fact): Vida applies for s 100 internal review of FFG suspension
+  - Letter wording ambiguous whether this is FFG's suspension review or Mrs Reid's own application.
+- **T0664** (2022-11-15, fact): Halton grants 14-day extension to 30 Nov on proposed revocation and bans
+  - Tom & Co's 30 Nov 2022 submission (T55) said the Commission had 'neither granted nor refused' the requests; the 15 Nov email contradicts that.
+- **T0665** (2022-11-15, allegation): Burke: Shapiera says Blake Sadler to run Dream Big; later job offer and Cricelli cancellation
+  - Cricelli cancellation email dated 9 Dec 2022 in the Internal Review SoR para 52 vs 10 Dec 2022 3.53pm in Burke statement.
+- **T0669** (2022-11-16, fact): ATO notifies Hybrid Hive of SG audit, evidence due 7 Dec
+  - E01147 (digest, unverified) calls it an escalation of an unanswered July letter; E01146 calls it the first SG audit.
+- **T0670** (2022-11-17, fact): Notice of Intention to ban Simon Reid for five years (EC22-002103)
+  - Simon's banning order was later described by Vida (final submission, section K) as issued 'on or about 17 November 2022', conflicting with the 21 Dec 2022 order; likely conflation with the notice date. Some records date the notices 19 Nov 2022.
+- **T0671** (2022-11-17, fact): Executive Brief EC22-002103 (Project Archer): Halton signs banning notices of intention
+  - Brief (Att I) states Hive's and Hybrid's sole director and shareholder is Simon Reid, contradicting the NDIA SMF (Att L, 19 Oct 2022: Hybrid's sole director V Reid, sole shareholder The Hive Pty Ltd). One digest cites seven entities (including N-Able Perth Kids Rehab) vs seven entity NOIs plus Simon's in the brief. Some records date the notices 19 Nov 2022. Att M 'pages 9-13' does not match disclosed pagination (12 pages, NDIA table from p8).
+- **T0673** (2022-11-17, allegation): Vida says 17 Nov notice of intention reached her only on 23 Dec
+  - Submission's closing note says delivered 22 Dec 2022 (vs 23 Dec in E.1.2); Australia Post proof of delivery shows 23.12.2022 10:44:37 signed 'B SADLER'. Same submission says Simon's banning order issued 'on or about 17 Nov 2022' (conflicts with 21 Dec 2022).
+- **T0674** (2022-11-17, fact): Notice of Intention to ban Hybrid Hive Pty Ltd
+  - Other records (00157, 00211) date the notices 19 Nov 2022; one account says Simon's show-cause was dated 17 Nov and delivered 22 Dec 2022. Primary check needed.
+- **T0675** (2022-11-17, fact): Notice of Intention to ban Infinity Living Options Pty Ltd (10 years)
+  - OCR notes from adjacent entity notices conflict with the Commission brief on directors: EFS sole director Vida (brief) vs Alam director/Vida secretary (notice); Simon's role (director vs secretary) at Infinity. Final entity orders UNVERIFIED.
+- **T0680** (2022-11-18, fact): New Notice of Suspension for FFG supersedes earlier notice
+  - Email evidence dates receipt 18 Nov 2022; T56 (digest) dates the further 30-day suspension 21 Nov 2022. Treated here as the same notice; confirm against the notice itself.
+- **T0682** (2022-11-19, allegation): Reported dating of notices of intention as 19 Nov; posted copies received 7 Dec
+  - Notice dates reported as 17, 18 and 19 Nov 2022; primary documents show 17 Nov (NOI to Simon, Hybrid, Infinity). Delivery of posted copies reported as 7 Dec 2022 (Kamara) here vs 23 Dec 2022 (B Sadler, Australia Post proof) in Vida's submission.
+- **T0685** (2022-11-22, fact): Tom & Co (Monks) seek 28-day extension for Simon's response to NOI
+  - Period given to respond described as 12 days (Monks), 13 days (reasons/brief) after the 17 Nov NOI. SoR describes request as an extension of time without stating 28 days; brief records 28 days.
+- **T0687** (2022-11-30, contention): Tom & Co lodge joint 11-page submission for FFG and Vida against revocation and bans
+  - T50/T54 letters dated 15 Nov 2022 show the 14-day extension to 30 Nov had been granted and further information refused; the submission says requests were 'neither granted nor refused'. Digest 157 says the posted letters were not delivered to Tom & Co before the deadline; digest 211 says Tom & Co filed on 30 Nov. Delivery of posted notice reported as 7 Dec 2022 (Vida submission/digest).
+- **T0689** (2022-11-30, contention): Tom & Co submissions for Simon Reid against proposed banning order
+  - Unclear whether Simon's submission was a separate document or part of the joint 11-page 30 Nov 2022 submission (T55); the FFG review calls T55 'a single, joint submission' for FFG and Vida while the Simon review treats a 30 Nov submission 'on behalf of Mr Reid'.
+- **T0691** (2022-12, allegation): Ugwunali: Shapiera 'going back to Blake'; ceased dealings with Reids
+  - Burke (T1.1 para 52a) places Shapiera's move to Blake Sadler (running Dream Big) at about 15 Nov 2022; Ugwunali has it after holidays.
+- **T0692** (2022-12, unverified): Cybertrace report links Terri Roberts to rival director Amanda Damon
+  - Another digest says the report lists only 'multiple suspects, none conclusively identified'.
+- **T0694** (2022-12-01, allegation): Vida offers Cassandra Burke a job at her 'new company' (Dream Big)
+  - Fanny-Dulloo told the Commission (s 56 interview, T58, 9 Mar 2023) that Vida/Simon have no involvement in Dream Big and Vida is only trustee/shareholder.
+- **T0695** (2022-12-01, fact): Kristen Walker emails herself ARCPA register search for Sally See (Att 9F)
+  - Date anomaly: attachment dated 1 Dec 2022 is attached to a briefing note dated 19 Oct 2022; the note's own attachment list has 9E 'Sally See FFG Counsellor Screenshot', not 9F. Possibly added from the later decision record (EC22-002581) or mis-sequenced.
+- **T0697** (2022-12-02, fact): Executive Correspondence Brief EC22-002429 on Simon Reid's extension request
+  - Brief says LSB advice not sought; the later banning-order briefing (D23 41712) says legal advice was sought for the package (Att G).
+- **T0702** (2022-12-06, allegation): Vida bars ACCESS staff; Cricelli cancels son's ACCESS contract to return to Vida and Simon
+  - Burke (T1.1 para 52b) dates the Cricelli email 9 Dec 2022 (burke statement 10 Dec 3.53pm elsewhere); Ugwunali says 6 Dec 2022. Cricelli cancellation email dated 6 Dec (Ugwunali PU009), 9 Dec (Burke T1.1 Att A 52(b)) or 10 Dec 2022 (Burke T62.1; Read put-to).
+- **T0703** (2022-12-07, contention): Tom & Co tell Halton Simon will provide no further information
+  - Letter dated 7 Dec 2022 in the SoR and Tom & Co email, but 8 Dec 2022 in brief EC22-002521 para 10.4.
+- **T0704** (2022-12-07, simon_position): Registered-post notices of intention physically received, signed for by Ousman Kamara
+  - Another account (Australia Post proof; Vida's submission) has delivery on 23 Dec 2022 signed 'B SADLER'. Memo drafts (Claude-assisted) conflict with a record that written submissions were filed on 30 Nov via Tom & Co.
+- **T0705** (2022-12-07, unverified): Vida tells Monks she received Commission registered post; sends scans
+  - Vida says she signed for the post; other records say Kamara signed. Excerpt timestamp 05:12 AWST on 7 Dec precedes the stated 10am receipt.
+- **T0707** (2022-12-12, unverified): Simon steps down as FFG director; Tori Fitton sole director
+  - Conflicts with ASIC extract (Simon director from 1 Nov 2022 with no recorded cessation until after Jan/Mar 2023 searches) and with the v6 pack treating Simon as FFG director authorised to file for FFG. Compiler infers an FFG order of 21 Dec 2022; chronology says 20 Dec 2022.
+- **T0713** (2022-12-20, fact): Halton revokes FFG registration under s 73P
+  - Tom & Co letter writes '21 February 20223' (typo) for the Moussa follow-up.
+- **T0714** (2022-12-20, fact): Halton bans FFG for 10 years under s 73ZN(1)(a)
+  - A severance decision (30 Jul 2026, para 11) says the FFG order was made 22 Dec 2022 though registration was revoked 20 Dec 2022; Respondent's 17 Sep 2025 submission and the order itself say 20 Dec 2022.
+- **T0715** (2022-12-20, fact): Halton bans Vida Reid for 5 years under s 73ZN(2)(a)(i)
+  - Date of Vida's order recorded as 20 Dec 2022 (order, AGS) and 20/21/22 Dec in other records; AGS summaries put Simon's ban at 21 Dec 2022. SoR para 4 internally inconsistent about the 19 Oct letter. One digest describes the order as a 10-year order (the 10 years was the brief's recommendation and the 19 Oct preliminary view; Halton amended it to 5).
+- **T0716** (2022-12-21, fact): Executive Brief EC22-002521 recommends banning Simon Reid; Halton signs
+  - Brief gives 8 Dec 2022 for Tom & Co's reply, but the letter is dated 7 Dec 2022. Brief's chronology omits the 7 Dec 'no further information' statement that the SoR relies on. Brief has no co-director history, whereas the SoR asserts co-director 17 Feb-22 Aug 2022 and sole director from 23 Aug 2022. Attachment lettering for paragraph 10 (C=30 Nov, D=2 Dec, E=8 Dec) differs from the folder file naming (4d, 4e, 4f). Brief says legal advice sought (Att G) although EC22-002429 said LSB advice not sought.
+- **T0718** (2022-12-21, fact): Halton bans Simon Reid for 5 years under s 73ZN(2)(a)(iii)
+  - Effect date: notice says 5:00pm AWST 21 Dec 2022; severance decision (30 Jul 2026, para 10) says operative 22 Dec 2022 to 22 Dec 2025. Hybrid Hive role has three versions: SMF 19 Oct 2022 (Vida sole director; Hybrid shareholder The Hive Pty Ltd; Simon sole director of The Hive); NOI/briefings (Simon 'sole director and shareholder', director since 17 Feb 2022); SoR (co-director 17 Feb-22 Aug 2022, sole director from 23 Aug 2022 - split appears in neither NOI nor brief). Reids contend the original basis was (a)(i), Simon's SFIC says (iii); Vida's addendum says (i). One digest's FFG order date 20 Dec 2022 vs internal conflicts on which orders were 21 Dec. Signature blocks on the notice, order and SoR in the AGS-disclosed docx read '19 March 2026' (likely a refreshed date field) though the order takes effect 21 Dec 2022 and the SoR says 'On 21 December 2022, I decided'. Reference EC22-002521 differs from briefing refs EC22-002103, EC22-002429 and D23 41712/41713. A memory note dates the orders 20/21 Dec; FFG order date 20 vs 21 Dec unresolved in some digests.
+- **T0721** (2022-12-23, unverified): Australia Post proof of delivery: registered article signed for by B Sadler
+  - Delivery date 22 Dec 2022 (Simon's claim) vs 23 Dec 2022 (POD); other accounts say 7 Dec 2022 (Kamara). Which banning-order notice the article relates to is inferred from the file name only; if it is the notice of intention, delivery post-dates the orders of 20-21 Dec.
+- **T0726** (2023-01-13, fact): Vida sends banning orders to Bennett Law
+  - Date: 13 Jan 2023 22:08 UTC (digest) = 14 Jan 2023 06:08 AWST; legal assessment timeline lists 14 Jan 2023.
+- **T0744** (2023-02-08, allegation): Ugwunali (Access Disability) statement alleging dealings with the Reids
+  - Cover date 8 Feb 2022 is inconsistent with content and with T5.2-T5.5 forwarded 9 Feb 2023 (T5.6 is 15 Sep 2023); likely 2023.
+- **T0745** (2023-02-08, unverified): Vitality WA Pty Ltd registered; Commission alleges circumvention
+  - Extractor placed this in Oct 2022 alongside Dream Big; the Vitality registration and domains date from about Feb 2023.
+- **T0746** (2023-02-08, fact): Simon registers Vitality WA domains
+  - Domain spelling varies: vitalityemploment.au (dossier) vs vitalityemployment.au (memory note).
+- **T0748** (2023-02-09, fact): Simon's Vitality WA recruitment email to ~100 disability workers
+  - Date the order was varied: 21 Apr 2023 (SFIC, Simon-position memory) vs 22 Apr 2023 (dossier). Scope of original order: 'supports and services to NDIS funded participants' (T65) vs 'any involvement with NDIS sector' (other sources). Whether the email breached the order is contested.
+- **T0753** (2023-02-15, fact): Ugwunali forwards Vida's Sept 2022 emails about son's care (T5.6)
+  - Bundle index lists T5.6 as 15.09.2023 (index date error); forward header reads Wednesday 15 February 2023 2:00 PM.
+- **T0755** (2023-02-16, allegation): Cassandra Burke statement taken by NDIA investigators (T62.1)
+  - Pamela Cricelli cancellation email dated 9 Dec 2022 (T1.1 summary) vs 10 Dec 2022 3:53pm (statement/quote card). NDIA officer 'Nathan Halls' vs 'Andrew Halls' within statement. Surname Cricelli vs Circelli (T58) and Shapiera vs Shapeira (T44). Para 59 (1 Dec offer) narrated after 9-10 Dec paras. Whether Burke recanted is unverified. Mostly about Vida; Simon-specific content is hearsay.
+- **T0756** (2023-02-20, fact): Deadline for review submissions on Vida's internal review
+  - T1 application (p.2) says Mrs Reid provided a submission on 20 March 2023 which the Commission refused to weigh, conflicting with T1.1 paras 26-27, 53 (no submissions received).
+- **T0761** (2023-02-27, fact): ATO issues Hybrid Hive default SGC assessments
+  - Notice dated 27 Feb 2023 but June-quarter payment 'was due 21 Feb 2023' (before issue); finalisation letter/email sent 28 Feb 2023.
+- **T0767** (2023-03-09, fact): Fanny-Dulloo interview concludes
+  - Transcript end marker reads '10 March 2023' (typo; interview is 9 March 2023).
+- **T0769** (2023-03-20, fact): FFG lodges s 100 internal review submission on its banning order
+  - Submitter: Tom & Co (Tom Monks) per primary document vs 'Director of FFG (Simon Reid)' per the 2025 Final Submission (E.1.4), which says the Commission 'refused to give any weight' to it (Simon/Vida position). The T1 application statement that Mrs Reid provided a submission on 20 Mar 2023 appears to refer to this FFG submission.
+- **T0772** (2023-03-22, fact): Leathem notice of intention to vary Simon's banning order (T65) with Attachment A
+  - Order term described as five years (T65) vs ten-year references elsewhere in bundle (check T64.1/T71). ASIC lodgement 29 Oct 2022 predates the ban, yet the notice treats involvement as around the ban.
+- **T0773** (2023-03-22, fact): Commission compiles ASIC extracts for FFG and Hybrid Hive (T63)
+  - OCR dates/IDs partly garbled (Simon DOB read as 1963/1983 vs 17/9/1981 elsewhere). Tori Vince may be the 'Tori Fitton' (Dream Big Director of Finance) and 'Tori Roberts' of T58; identity not established.
+- **T0774** (2023-03-22, unverified): DEWR show cause notice to FFG under Workforce Australia contract
+  - ASIC searches show Simon as FFG director in Jan/Mar 2023, conflicting with an earlier record that Simon ceased as FFG director on 12 Dec 2022.
+- **T0777** (2023-04-10, fact): Vida opposes further adjournments of her criminal matter
+  - Digest entry dated 9 Apr 2023 23:26 UTC = 10 Apr 2023 07:26 AWST.
+- **T0779** (2023-04-21, fact): Leathem internal review decision varies Vida's banning order
+  - Some sources date the internal review 8-9 Jun 2023 (that is FFG's internal review); the primary documents date Vida's decision 21 Apr 2023.
+- **T0780** (2023-04-21, fact): Leathem internal review decision broadens Simon's banning order
+  - Directorship of Hybrid: SoMF (T45) says Vida sole director from 1 Dec 2021; T46 NOI says Simon director since 17 Feb 2022; this review says Simon co-director then sole; ASIC extract (T63) shows only Simon from 17/2/2022. Review accepts Simon not FFG director during Clulow/Aug-Sep 2022 claims, inconsistent with the 19 Oct 2022 suspension notice (T77) calling him a Director. Review says Simon's involvement commenced around the ban, but the ASIC form is dated 29 Oct 2022 (before the 17 Nov NOI and 21 Dec ban). Burke statement does not say Simon owned Dream Big. The Fanny-Dulloo interview (9 Mar 2023) is not listed among the materials. Five-year period vs three years in the FFG review (T71.1 para 73). $78,491.06 is also the sum disregarded for FFG in the FFG review. 2 Dec 2022 extension granted after submission lodged (para 35(a)). Ban is justified by allegations; no charge against Simon recorded. Some sources date this internal review 8-9 Jun 2023 (FFG's review date); expiry 22 Dec 2027 for Simon vs 21 Dec 2027 for Vida; one summary (severance decision) says Simon 5 years operative 22 Dec 2022 to 22 Dec 2025 (inconsistent).
+- **T0781** (2023-04-21, fact): Leathem internal review decisions IR(6) and IR(7) 22/23: joint overview
+  - Decision date: 21 Apr 2023 (primary) vs 8-9 Jun 2023 in some sources (FFG review date). Variation effective 12am 22 Apr 2023 (orders dated 21 Apr). Expiry: Simon 22 Dec 2027 vs Vida 21 Dec 2027; one summary gives Simon 22 Dec 2022 to 22 Dec 2025 (inconsistent). Vida file named "Internal Review Vida 2025-03-06" - filename date conflicts with Apr 2023 service/receipt.
+- **T0784** (2023-05-10, fact): Vida lodges AAT application 2023/3361 against internal review decision
+  - Form says Vida's submission 'dated 20 March 2023' was given no weight, but the internal review reasons (paras 26-27) say no submissions were received from or for Mrs Reid by 20 Feb or 5 Apr 2023 (the 20 Mar submission was FFG's).
+- **T0785** (2023-05-10, fact): Simon lodges AAT application 2023/3363 against internal review decision
+  - Stated ground (no disclosure) is in tension with the Commission's finding that Simon declined three invitations to make submissions (T64.1 para 35). Lodging email mis-dates the decision as 21 Dec 2023.
+- **T0786** (2023-05-10, fact): AAT applications lodged by Vida, Simon and FFG (3361, 3363, 3364)
+  - Forum-choice memo says merits reviews commenced 10 May 2023; another timeline says ART applications lodged Jun-Jul 2023 with directions 19 Jul 2023 (the 10 May lodgement is supported by the TRACS/constitution records). Legal assessment timeline lists Tom Monks lodging the AAT applications in Jun-Jul 2023 (unverified; contradicted by 10 May TRACS records).
+- **T0793** (2023-05-25, fact): AAT lists telephone CMDH for 8 June 2023
+  - Letter bears 2023/3364 for FFG; elsewhere FFG's matter is 2023/4494 (3364 may be a prior number or registry error).
+- **T0794** (2023-05-26, fact): AAT s 29 notice of application and s 37 obligation in 2023/3361
+  - 28-day s 37 period from 26 May would fall about 23 Jun 2023; file note says 30/06/2023; the 19 Jul 2023 hearing note says T-docs were due 10 May and extended to 7 Jul.
+- **T0795** (2023-05-26, fact): AAT notifies Commission of FFG application 2023/3364
+  - Time 12:20 (AEST per digest) = 02:20 UTC.
+- **T0797** (2023-05-29, fact): Commission contests FFG application and seeks T-document extension to 7 July
+  - Email time 8:46 vs 10:43 AEST (= 08:43 AWST) in different sources; treated as one email. The written application itself is not in the file; its date is from the 13 Jun 2023 Order preamble.
+- **T0798** (2023-05-29, fact): AAT vacates 8 June CMDH after Commission request
+  - Vacation notice timed 10:15 AWST in digest vs 12:15 in the FOI copy (time zone unstated).
+- **T0801** (2023-06-01, fact): Tom & Co forwards ART notice 2023/3364 for FFG
+  - Ref 2023/3364 vs 2023/4494 for FFG; lodgement 10 May 2023 elsewhere.
+- **T0803** (2023-06-06, fact): Moussa phones AAT registry about T-document extension
+  - FFG matter cited as 2023/3364 (withdrawn per 19 Jul 2023 hearing; later 2023/4494).
+- **T0805** (2023-06-08, fact): Leathem internal review decision reduces FFG ban from 10 to 3 years
+  - Decision 8 Jun 2023 (reasons; ART memo) vs letter file dated 23_06_09 (9 Jun transmittal). AGS letter says the order expired 6pm 20 Dec 2025; decision says 12:00am 21 Dec 2025. SoMF period typo '22 June 2020'. SoMF attributes false requests to both Reids though only Vida charged (Prosecution Notice 18 Oct 2022). Reasons say Simon became FFG co-director again 1 Nov 2022 (during suspension, before his 21 Dec 2022 ban) - not verified against ASIC; $78,491.06 Hybrid Hive sum is also relied on in Simon's review. Penalty arithmetic ($1,375,000/5/1,000 = $275 per unit) not independently checked.
+- **T0806** (2023-06-09, fact): FFG internal review decision transmitted to Tom & Co and the Reids
+  - 8 Jun (decision) vs 9 Jun (transmittal); compiler of Excerpt 17 states IR(6)/IR(7) were dated 21 April 2023, conflicting with 8-9 June dates elsewhere (those are the Vida/Simon decisions, correctly 21 Apr 2023).
+- **T0807** (2023-06-13, fact): Deputy President Mischin extends Commission's T-document deadline to 7 July
+  - Order emailed 13 Jun 2023 12:21 (external emails) vs MST note of signed order 14 Jun 2023 12:58 (file notes); treated as the same order.
+- **T0809** (2023-06-20, allegation): Beckett (NDIA forensic accountant) signs financial analysis statement, R v Vida Reid
+  - Hybrid Hive: Simon director from 17/02/2022 overlaps Vida director to 21/08/2022. ILO: ASIC shows Vida 100% shareholder vs NDIS records Vida 51% with Simon public officer. Date of Holder's request unknown (statement date is upper bound).
+- **T0815** (2023-06-26, fact): FFG lodges AAT application 2023/4494 against internal review decision
+  - Application says the Commission 'refused to give any weight' to the 20 Mar 2023 submission, whereas the reasons (paras 47, 52) say it was considered but the fraud denial given minimal weight. Another source ties FFG to ART 2023/4494 or 3364.
+- **T0816** (2023-06-26, fact): AAT s 29 notice of application 2023/4494 sent to Commission
+  - T-docs due 31 Jul 2023 (system note) vs 24 Jul 2023 (registry officer's 5:47PM note).
+- **T0818** (2023-06-28, fact): Simon sends Tom & Co documents for DEWR show-cause reply
+  - When Simon became sole director: 3 May 2023 per Bennett and AGS Sep 2025, yet on 28 Jun 2023 Tori is still a director.
+- **T0819** (2023-06-30, fact): Tom & Co letter to DEWR describing FFG capacity, with Simon as Director
+  - Simon described as FFG 'Director' while banned (22 Apr 2023 variation barred any involvement with the NDIS sector; FFG itself banned to 21 Dec 2025), versus his position that he stepped down 12 Dec 2022. Forensic timeline names 'Tori Fitton' where the letter names Tori Vince. Attachment 4 policy is branded 'FFG Australia', approved 13 Oct 2022 (appears to be a different group's policy). Workforce Australia is employment services, not NDIS.
+- **T0833** (2023-07-13, fact): AGS notifies registry that Oliver Young has carriage
+  - The 19 Jul hearing file note names Andrew Dillon, not Oliver Young, as the appearing AGS lawyer; AGS stated carriage commenced 11 July 2023.
+- **T0836** (2023-07-17, contention): Applicants file submission opposing Commission's T-document extension
+  - Submission dated 17 Jul 2023 but forwarded to AGS only on 5 Sep 2023. Submission describes the 22 Mar notice as from the 'Complaints Commissioner' rather than the internal reviewer. AGS in May 2026 lists the Burke statement among documents 'inadvertently omitted' from the T-bundle.
+- **T0838** (2023-07-19, fact): AAT interlocutory hearing on Commission's T-document extension and joinder
+  - Severance decision cover misdates the hearing as 19 Sep 2023. Moussa's claim that applicants knew the material from the IR process contrasts with the DP's remark that the Respondent had had since May.
+- **T0839** (2023-07-19, fact): AAT joinder directions and T-document extension to 7 August
+  - Earlier T-docs due dates: 24 Jul (registry note) / 27 Jul (hearing) / 31 Jul 2023 (system) now extended to 7 Aug. Hearing note transcribes 'disassociated 2023/3363' which appears to mean 2023/3364. A later programming date of 15 May 2024 (transcript header anomaly 2023 vs 2024) is also referenced.
+- **T0841** (2023-07-24, fact): Commission WA Compliance sends Hybrid Hive banning order copy
+  - Order date given as 21 December 2021 (likely error for 2022); check against PDF.
+- **T0848** (2023-08-07, fact): T75 evidence matrix: 32 complaints about FFG
+  - Matrix date not stated; 7 Aug 2023 taken from the T75/T76 footer (approximate), underlying period 13 Apr 2021-10 Aug 2022, searches 13 Oct 2022.
+- **T0849** (2023-08-07, fact): Commission files s 37 statement in 2023/3361
+  - Bundle index date 07.08.2023 vs document signed date 8 August 2023. T-numbers cited inside T2 (T14, T16) do not match the bundle numbering.
+- **T0852** (2023-08-07, fact): AGS asks to extend T-documents to 14 August pending stay discussions
+  - Tom & Co (23 Aug 2023) said AGS's motivation for the stay was to avoid providing s 37 documents. Doc8 p5 records 'Cathy' from AGS phoning on 7 Aug about lodging; AGS ref typed 23001627 vs 23004627 elsewhere. AGS on 8 Aug said its 7 Aug correspondence to Monks appears not to have been received.
+- **T0854** (2023-08-07, fact): Commission lodges T-documents for FFG's 2023/4494 (27 documents)
+  - Tribunal memo says T-Docs were filed 10 Aug 2023 (conflict with 7 Aug). AGS filename number 23004671 vs ref 23004627 elsewhere. T2-T27 of the FFG set correspond to T72-T97 of the 3361 bundle; only T1 is FFG-specific.
+- **T0855** (2023-08-07, contention): Applicants refuse further T-document extension and seek non-compliance hearing
+  - Time 10:43 UTC (digest) = 20:43 AEST (FOI copy 20:44); treated as one email. AGS said on 8 Aug 3:31PM its 7 Aug correspondence appears not to have been received.
+- **T0856** (2023-08-08, fact): AGS lodges s 35 request for confidentiality orders over T-documents
+  - Tom & Co (23 Aug 2023) say AGS's motivation for the stay was to avoid giving the s 37 documents. Doc7 p9 dates the Request 8 Aug 2023.
+- **T0858** (2023-08-08, fact): AGS lodges and re-lodges T-document bundles in 2023/3361, 3363 and 4494
+  - Tribunal memo says T-docs filed 10 Aug 2023; AGS cover letter and online lodgement show 8 Aug. First bundle filed 8 Aug 1:38pm (D3WDJV) was withdrawn and refiled (M8JNF3), so applicants' version may differ.
+- **T0860** (2023-08-09, fact): Registry says AGS s 35 request incomplete; AGS supplies index
+  - Date of registry query: 8 Aug 2:36PM (3361 external emails) vs 9 Aug (doc7, inferred from attachment dated 09/08/2023). Grounds relied on 'ongoing criminal proceedings and/or LPP' before any charge existed against Simon or FFG.
+- **T0862** (2023-08-10, fact): AGS tells Tribunal first T-bundle included 3 documents confidential to another criminal investigation
+  - AGS told the Tribunal on 10 Aug that 3 documents were 'confidential to another criminal investigation', whereas the s 35 request of 8 Aug relied on 'ongoing criminal proceedings'; no charge existed against Simon or FFG.
+- **T0863** (2023-08-14, fact): McGrathNicol reports Surface device is BitLocker encrypted
+  - Surname of Gina inferred from email address (low confidence).
+- **T0864** (2023-08-21, fact): Recorded ATO call: misallocated payment and unsupported SG charges
+  - Earlier notes dated the ATO transcript 7 Jan 2026 (file name); corrected to 21 Aug 2023 from the spoken date. The transcript does not name the entity; the ATO note confirms Hybrid Hive, not FFG. Time 00:00-00:23 is transcript offset, 14:08 the ATO note time.
+- **T0871** (2023-08-31, fact): AGS asks for Tribunal's 10 August letter; registry supplies it
+  - On the day, Oliver Young (not Dillon) appeared (Kayla Winship email 12 Sep 7:26AM). AGS misnames Tom & Co as 'Tom Howe & Co'.
+- **T0874** (2023-09-12, fact): AAT 12 Sep 2023 order: non-publication and non-disclosure of confidential index bundle
+  - Order is captioned only 'No: 2023/3361 Re: Vida Reid' yet applied to the three-matter T-docs (scope issue for Simon 3363 and FFG 4494). Whether the applicants consented ('No objection') vs the file note recording an adjournment for written submissions by 26 Sep/3 Oct. AGS naming errors: 'Tom Howe & Co' (31 Aug), 'Vida Ried' (12 Sep).
+- **T0875** (2023-09-12, contention): AGS files s 35 submissions on morning of confidentiality hearing
+  - Charges against Vida were withdrawn 23 Feb 2024 yet the Index bundle stayed withheld (new Archer non-disclosure applications followed 21 Jun 2024 and 7 May 2026). Confidentiality ground relied on proceedings only against Vida; none against Simon or FFG. Simon's bundle said to be 49 pp; AGS admitted 7 May 2026 his own decision documents were omitted. Describes the criminal investigation as 'undertaken by the NDIA'.
+- **T0876** (2023-09-12, fact): Interlocutory hearing on s 35 confidentiality application
+  - AGS had said Andrew Dillon would appear (31 Aug); Oliver Young appeared.
+- **T0881** (2023-09-28, unverified): NDIS Commission issues six infringement notices naming Nurse Assist Pty Ltd
+  - Entity identity unresolved; do not equate with Nurse Assist 24/7 without Commission confirmation. Characterisation of Nurse Assist 24/7 as at the centre of participant-steering questions is Simon's.
+- **T0882** (2023-09-28, fact): AAT varies timetable for disclosure submissions to 17 and 24 October
+  - Directions dated 28 Sep (external emails, 17:02) vs 29 Sep (MST notes). Email recipient list does not show Tom Monks.
+- **T0885** (2023-10-11, fact): Commission (AGS) applies to stay all three AAT proceedings
+  - Date of stay application: 11 Oct 2023 (FOI docs) vs about 31 Oct 2023 (earlier digest). The Constitution Memo of 6 Sep 2024 says the 'Applicant has applied for a stay', contradicting the direction (Respondent's application). AGS filename ref 23001627 vs 23004627 elsewhere. The stay request covered all three applications although only Vida was charged. The "about 31 Oct 2023" date in later documents coincides with the Respondent's submissions deadline under the 17 Oct 2023 direction (31 Oct); the 11 Oct date is taken from the lodged letter and the 24 Oct direction. The 2 Nov 2023 submissions say the stay was first requested by letter dated 9 Oct 2023 and that applicants' representatives initially agreed to a stay of Vida's application only.
+- **T0887** (2023-10-12, fact): Tom Monks calls Respondent's stay approach obstructive; will seek oral hearing
+  - Digest doubts Tom's view that the Tribunal cannot stay without consent.
+- **T0889** (2023-10-16, fact): Applicants write to AAT and AGS opposing the Commissioner's stay application
+  - Letter itself not in the extract; its scope (stay only, or also s 35) is inferred from AGS's reply.
+- **T0891** (2023-10-17, fact): AAT direction timetables Respondent's stay submissions to 31 Oct
+  - Revoked by 24 Oct 2023 direction. Applicants' s 35 submissions had been due 17 Oct under the 28 Sep direction.
+- **T0892** (2023-10-17, fact): AGS letter: Respondent keeps s 35 application, wants proceedings stayed
+  - Separate lodgement receipts at 14:42 (3361) and 14:46 (4494) for the same letter.
+- **T0893** (2023-10-19, fact): Tom Monks replies to AAT 'non-compliance' email of 19 Oct
+  - Which party was non-compliant is ambiguous in the source.
+- **T0894** (2023-10-24, fact): AAT direction revokes earlier directions; combines stay and s 35 timetable
+  - Three extracted records, from AGS's 29 Nov 2023 reply para 1, date the orders to 17 Oct 2023, but the 16 Nov applicant date matches this 24 Oct direction (the 17 Oct direction gave 14 Nov). A memo records Applicant filing 17 Nov and Respondent reply 29 Nov (vs 16 Nov and 30 Nov in the direction).
+- **T0895** (2023-10-30, fact): Bennett refuses AGS proposal to share McGrathNicol platform cost
+  - Sent email not in Gmail; text taken from the digest.
+- **T0896** (2023-11, simon_position): Simon Reid affirms affidavit in AAI Limited (GIO) premium claim against FFG
+  - Affirmation date illegible (OCR); handwritten date may read 14/11/2023 (uncertain). Refers to a Vida Reid email dated 27 Jan 2022 [sic, likely 2023] to GIO rep Komal Shah.
+- **T0897** (2023-11, unverified): Memo: Commission told Tribunal criminal proceedings could be jeopardised
+  - Month only; likely relates to the Respondent's 2 Nov 2023 stay submissions but not confirmed.
+- **T0898** (2023-11-02, simon_position): Vida sends criminal counsel timeline of AGS/NDIA privilege review delays
+  - Vida's secondary account of the timeline.
+- **T0899** (2023-11-02, contention): Respondent files submissions in support of stay application
+  - AGS says stay first requested 9 Oct 2023; lodged letter is dated 11 Oct. Document carries AGS ref 22004627 vs 23004627 elsewhere. AGS sought a stay of Simon's and FFG's matters on possible future charges although none had been laid against Simon.
+- **T0900** (2023-11-14, fact): Simon emails Tom Monks draft 'victim impact affidavit'
+  - Likely the draft of the affidavit filed 16 Nov (described by AGS as a financial hardship affidavit); not confirmed.
+- **T0901** (2023-11-15, fact): Counsel Raftos queries Simon's affidavit and who is FFG director
+  - Digest thread locator is 16 Nov; 15 Nov date for the first query comes from the extraction.
+- **T0902** (2023-11-16, simon_position): Simon returns signed affidavit; says he reinstated FFG directorship
+  - Relevant to FFG authority; Bennett's 14 Sep 2023 email described Simon as sole director.
+- **T0903** (2023-11-16, contention): Applicants file submissions on stay and s 35 applications
+  - Memo records applicant submission filed 17 Nov 2023; digest and AGS reply give 16 Nov. The AS themselves are not in the files; contents are known only through AGS's summary. Applicants' 'largely agreed' position on s 35 concerned documents they had not seen (Simon's note).
+- **T0905** (2023-11-28, fact): AGS proposes revised privilege-review protocol for seized devices
+  - Later steps (Dec 2023 to May 2024) come from schedule/brief summaries of Bennett/Nofal Gmail, partly unverified.
+- **T0906** (2023-11-29, contention): Respondent's reply submissions on stay: Simon's criminal exposure 'on the cards'
+  - Quoted statement of material facts gives '26 November 2021 and 22 June 2020' (end date before start date). AGS file ref 22004627 vs 23004627 elsewhere. Reply cites DP Mischin 'orders of 17 Oct 2023' though the operative direction is 24 Oct. AGS said Simon's matter would likely follow Vida's, yet CDPP withdrew the charges 23 Feb 2024 and AGS's 28 Feb 2024 submissions conceded no CDPP brief on Simon. The reply appears twice in the FOI file (pp15-17 and 19-21). Lodgement receipt 12:07 (AEDT) vs covering email 09:30 AWST (12:30 AEDT).
+- **T0907** (2023-11-29, fact): AAT lists interlocutory hearing on stay and confidentiality for 17 Jan 2024
+  - Mode of hearing: telephone (digest) vs video by MS Teams (FOI notice).
+- **T0908** (2023-12, unverified): Vida lodges FOI requests with WA Police and Dept of Communities
+  - Outcomes unconfirmed.
+- **T0911** (2023-12-16, unverified): Vida lodges AFP FOI request LEX 2309
+  - Outcome of the 3 May 2024 decision (refused vs scope narrowed) unclear in source.
+- **T0912** (2023-12-22, fact): Bennett forwards AGS LPP letter; Simon agrees terms and expects objection to adjournment
+  - Digest notes this indicates the Reids intended to oppose a criminal adjournment.
+- **T0920** (2024-01-17, fact): DP Mischin directions adjourn 3361 and 4494 pending Vida's criminal proceedings
+  - Respondent's 2025 submissions say adjournment followed its stay application of ~31 Oct 2023; AGS 28 Feb 2024 submission still sought a stay for Simon after the 9 Feb 2024 variation, so scope of adjournment as to Simon should be checked against the order. Memo (id 329) says Vida/FFG did not oppose.
+- **T0927** (2024-02-12, contention): Applicants file submissions opposing Commissioner's stay of 3363
+  - Date: submissions dated/emailed 12 Feb 2024 (AGS reply, digest) vs registry filing/note 13 Feb and memo 'filed 13 Feb'; Legal Assessment (E01788) says month only and calls it submissions opposing 'summary dismissal application' (other members say stay/adjournment application). Respondent says Simon's relevant T-docs total 1,212 pages (para 11) vs AS para 33's 50 pages.
+- **T0935** (2024-02-22, fact): AGS chases LPP review; Bennett reports no further McGrathNicol material
+  - AGS chaser dated 21 Feb; Bennett reply/report 22 Feb (adjacent dates merged).
+- **T0938** (2024-02-23, fact): Magistrate dismisses all four charges against Vida Reid for want of prosecution
+  - DATE: certified transcript, court result, AGS 7 Mar 2024 email and most work product say 23 Feb 2024; Hammond brief, chat backup and Reasonableness Memo say 28 Feb 2024 (the date of AGS's reply submissions); Tribunal severance decision says only 'on or about February 2024'. BASIS: 'dismissed for want of prosecution' s 25 (transcript; resolved) vs 'for no evidence' (DeepDive, Reasonableness Memo, Simon) - the latter unverified. OUTCOME DETAILS print date: 26 Feb 2024 (Vida affidavit, VR-2) vs 26 Jul 2024 (print date in another copy). 14 FEB: index entry says CDPP adjournment request was refused in Magistrates Court on 14 Feb 2024; schedule/brief say Stynes asked defence to consent by email and defence declined. PROSECUTOR: AGS 7 Mar 2024 says charges 'withdrawn by the CDPP'; court record is dismissal under s 25 CPA on prosecution's application. AGS's 28 Feb 2024 reply nonetheless described proceedings as live (see 28 Feb records).
+- **T0940** (2024-02-28, fact): AGS files Respondent's Submissions in Reply seeking stay of Simon's 3363
+  - AGS reply (28 Feb) describes the criminal proceedings as live/not progressed, while the court dismissed all charges on 23 Feb 2024 and AGS's own 7 Mar 2024 email says the CDPP withdrew them after that mention; whether AGS knew on 28 Feb is not stated. WAtoday 28 Feb 2024 reported 'charges dropped'. Simon's bundle: AGS says 1,212 relevant pages; later AGS 7 May 2026 admission that Simon's own decision notice, briefing notes and Burke statement were omitted contradicts 'relevant only to Mr Reid' claim.
+- **T0955** (2024-03-27, allegation): NDIA SCNC investigators allegedly phone Reid-linked business contacts (Modplex)
+  - Date: schedule gives only 'Mar 2024'; Gmail excerpt dated 27 Mar 2024 (approx 30 min before 11:57 AWST); caller identity: unnamed investigator vs Jason Moore (memo, source unstated). Gmail thread 18e7e2428a61766f.
+- **T0956** (2024-03-27, allegation): Vida emails lawyers: NDIA investigator demanded Modplex records
+  - Third-party recipient named variously Charles Dallimore (Excerpt 1) and Charles Weeks/Wong in other records.
+- **T0959** (2024-04-08, fact): Weeks & Co engaged to advise on potential claims; Reids pay $6,000
+  - Compiler variously calls the Weeks & Co lawyer Charles Dallimore and Charles Wong.
+- **T0960** (2024-04-08, fact): Registry polls availability for telephone directions hearing; parties respond
+  - Registry email times recorded as 10:55, 12:55 and 'send date redacted/blank' in different copies; response deadline COB 9 Apr (first request) then COB 11 Apr.
+- **T0961** (2024-04-11, fact): Registry issues listing notices for 8 May 2024 telephone directions hearing
+  - Simon's notice file is named 24_04_16 but dated 15 April 2024; Vida's notice is 11 Apr in registry email vs 16 Apr on file copy. Later directions hearing of 15 May 2024 referred to 'last week' in a transcript.
+- **T0970** (2024-05-03, unverified): AFP refuses Vida's FOI request LEX 2309
+  - Three separate decision dates in one source: AFP 2024-05-03; NDIA 2024-07-25; WA Police Jan-Feb 2024.
+- **T0974** (2024-05-08, fact): Registry lists further directions hearing for 15 May 2024
+  - Timestamp 3:46pm AWST (digest) vs 17:45 (registry copy).
+- **T0979** (2024-05-14, fact): Tom & Co files Vida's psychologist report with Tribunal day before hearing
+  - Author's name rendered Menon in digest, Mennan in the 15 May transcript.
+- **T0982** (2024-05-15, fact): DP Mischin directions timetable matters to hearing (SFICs, tender bundle, certificates)
+  - Signed 15 May 2024 but issued/filed 28 May and again 14 Jun 2024 (possible delay in issue to parties); terms summary from AGS's 5 Jun email not the direction itself; registry later cites a 17 June 2024 direction.
+- **T0983** (2024-05-15, fact): 15 May directions hearing: DP Mischin hears submissions on Vida's health and sequencing
+  - Transcript face says Wednesday 15 May 2023 but filename and calendar indicate 15 May 2024 (index flags it). DP's recollection (P-7) was that Simon and FFG pressed on while Vida's was paused; Raftos said Vida and FFG matters were agreed to be stayed. DP's 'discontinued' wording on 15 May 2024 conflicts with AGS's 28 Feb 2024 submission that proceedings were ongoing.
+- **T0987** (2024-06-10, fact): Registry asks applicants' position on AGS extension request
+  - Registry says AGS request dated 7 Jun 2024; AGS email/application recorded 5 Jun 2024.
+- **T0989** (2024-06-13, fact): Respondent files tender bundle T1-T97 (1,506 pp) omitting Simon's documents
+  - Filing date 13 Jun 2024 (Respondent's 2026 submissions, DeepDive, timeline CSV) vs 'filed 17 June 2024' in memo id 329; direction deadline was 5 Jun (so 8 days late unless extended). Count of omitted items: 'three briefing notes and three solicitor letters' vs 'eight Simon-specific documents'. Page count 1,506 (T1-T97) vs 1,507. Hearing-tender-bundle filing also recorded as 17 Jun 2024 (memo). A 9 Oct 2026 claim about redactions conflicts with the verified unredacted bundle - the FOI copy may be the 2023 version.
+- **T0992** (2024-06-17, fact): DP Mischin varies timetable: SFICs to 10 Jul, certificates to 14 Aug
+  - Direction dated/sent 17 Jun 2024 but registry 'signed direction' note timed 24 Jun 2024 1:32PM; AGS 31 Jul 2024 email summarises different dates for Respondent's SFIC (17 Jul for Simon's matter) than this direction (31 Jul); DP Lazanas' 3 Oct 2024 summary from poor transcription. Oliver Young on Tribunal distribution from this date.
+- **T0996** (2024-07-01, fact): Applicants press Tribunal again on separate tender bundles; registry says DP confirms direction correct
+  - Digest saw 'no Tribunal answer visible'; registry reply (undated in doc7 p54) is dated 16 Jul 2024 in the file notes (doc 4/3).
+- **T0999** (2024-07-15, simon_position): Draft Rev4 of Simon's SFIC circulated for urgent comment
+  - Draft signature date 10 Jul 2024 vs file title/draft date 15 July 2024; draft not filed.
+- **T1000** (2024-07-15, simon_position): Simon files Statement of Facts, Issues and Contentions in 2023/3363
+  - Document states only signature date 15 Jul 2024 with no filing stamp; 3 Oct 2024 transcript says SFIC 'has been filed'; AGS 22-23 Jul and 31 Jul 2024 emails call it late. Heading error 2023/3361 vs 3363. Para 3 refers to 21 Apr 2023 Decision Letter but para 106 to decision of 21 Dec 2022. Respondent has not filed a responding SFIC (Simon).
+- **T1011** (2024-07-26, fact): DP Mischin orders Project Archer report withheld from applicants (s 35(4)/37(1AE))
+  - Order dated 26 Jul 2024 (AGS letters, DeepDive) but generated/emailed 30 Jul 2024; digest could not verify link between the 30 Jul Order email and the 26 Jul orders. Heading misnames FFG 'Forward Focus Group Pty Ltd'; TRACS caption 'Section 35(2)' while order cites s 35(4). Terms of the order itself not in Simon's folder per tracker.
+- **T1013** (2024-07-31, fact): AGS notifies Tribunal of applicants' SFIC non-compliance; seeks extension to 6 Aug
+  - Respondent's SFIC date in Simon's matter variously described as due 17 Jul (original 15 May direction), 31 Jul (17 Jun variation); email timestamp 10:04 vs 10:05. Tribunal-side lapse (no direction on the 31 Jul EOT) acknowledged in its own memo.
+- **T1016** (2024-08-06, fact): Registry phones to chase missing SFICs; applicants' rep says stay application coming
+  - Note says 'Called Respondent' but 'A rep said seeking stay app' fits the applicants' rep (memo: stay request received 6 Aug); interpretation at medium confidence. Memo records only Simon's SFIC (15 Jul 2024) filed; none for Vida/FFG.
+- **T1027** (2024-09-19, fact): Matters constituted to Deputy President McMillan in Brisbane
+  - Memo dated 6 Sep vs decision 19 Sep 2024. Member names conflict: McMillan constituted 19 Sep 2024 vs Gina Lazanas listed to hear 3 Oct 2024 (constitution report of 27 Sep 2024 by DP Britten-Jones). Memo says 'Not previously constituted' though Mischin had made orders since 2023.
+- **T1030** (2024-09-25, fact): ABF stops Reid family at Perth Airport; devices taken; alleged NDIS request
+  - DATE: 25 Sep 2024 (affidavit para 9, Hammond/ABF letters, ABF CCTV timeline) vs 26 Sep 2024 (Vida's 5 Feb 2025 email; draft affidavit '25-26 Sep'; Serious Concerns doc) vs 27 Sep 2024 (Vida's record, Excerpt 3). DURATION: about three hours alleged vs ABF CCTV timeline ~2 hours (18:26-20:25). RECEIPT NO.: 195253 vs 495253. ABF 14 Oct says no detention/seizure and no copies; Vida alleges seizure/copying and four further devices per FOI. Source of alleged directive: 'NDIS and NDIS minister' vs 'NDIS, NDIS Commission and NDIS Minister'. Which phone was returned is unclear.
+- **T1031** (2024-09-25, fact): ABF CCTV-based timeline of the Reid family stop at Outwards Control Point
+  - Elapsed about 2 hours (18:26-20:25), not 3 hours as alleged; laptops/tablets away about 44 minutes; phone 'returned' at 2025 contradicts Vida's affidavit that Simon's iPhone 11 was retained until Dec 2024 (ABF 14 Oct letter says iPhone held pending examination).
+- **T1036** (2024-09-27, fact): Constitution report lists 3 Oct 2024 CMDH before Member Gina Lazanas
+  - Lazanas listed for 3 Oct CMDH eight days after the 19 Sep 2024 constitution to DP McMillan; McMillan was asked on 3 Oct 2024 to hear the stay application (doc15 p1).
+- **T1039** (2024-09-29, allegation): Vida complains to AFP, OAIC, DFAT, NDIA CEO, CDPP officers and PM about ABF stop
+  - Other records date Vida's formal complaint 4 Oct 2024 (Excerpt 5); this source dates the complaint emails 29 Sep 2024. Saville/Stynes described as 'possibly prosecution lawyers - needs verification'.
+- **T1043** (2024-10-01, fact): Tribunal memo prepares DP Lazanas for 3 Oct CMDH
+  - Memo gives T-docs filed 10 Aug 2023 while doc5 shows T-docs lodged 7 Aug 2023; hearing tender bundle 'filed 17 June 2024' vs finalised bundle dated 13 Jun 2024.
+- **T1045** (2024-10-02, fact): AGS phones registry: has Tribunal received Respondent's SFIC? No
+  - 'R' most plausibly the Respondent's own SFIC (consistent with the memo listing no Respondent SFIC), not Simon's; the note does not say whether applicants' SFICs were lodged (medium confidence).
+- **T1046** (2024-10-03, fact): Telephone CMDH before DP Lazanas on Vida's health-based stay and SFIC compliance
+  - Names of AGS staff in the auto-transcript uncertain ('Miss Younger'; Ms Moore inferred); memo lists 'Mr and Mrs Reid' as Applicants present. DP Lazanas (Sydney) conducted the hearing though DP McMillan (Brisbane) was the constituted member.
+- **T1047** (2024-10-03, fact): DP Lazanas vacates 17 Jun directions; stay timetable and 25 Nov hearing set
+  - Hearing listed 25 Nov 2024 (later vacated 14 Nov 2024 per analysis). Direction timestamps 15:29 (draft) / 14:40 AWST (digest) differ. The applicants' stay here is a different stay from the Respondent's 2023 application.
+- **T1050** (2024-10-04, allegation): Vida lodges formal complaint over ABF stop and seizure of four devices
+  - Time stamps 04:49 UTC (digest/excerpt) vs 12:49 (FOI document, AWST). 'About 3 hours' contradicted by ABF CCTV 18:26-20:25. Digest: ABF later told the Reids' lawyers it made no copies (AGS 17 Sep 2025 [33]); no substantive Commission response visible.
+- **T1056** (2024-10-09, allegation): Atrisa Reid questioned alone by ABF on arrival in Perth: 'we got one of them'
+  - Date '~9 Oct 2024' approximate.
+- **T1058** (2024-10-09, fact): ABF supervisors probe officers: laptops taken away by DDE officer, paper documents copied
+  - Officer says laptop untouched/not copied vs supervisor's CCTV review showing laptops taken away about 44 minutes with passwords; ABF paper documents 'copied or examined' vs ABF 14 Oct letter 'no copies'; whether laptops were imaged is unanswered. 'Only 2 mobile devices examined' vs supervisor's 'four devices taken away'.
+- **T1059** (2024-10-10, contention): Hammond Legal writes to ABF challenging 25 Sep search and seizure
+  - Running header says 8 October 2024 but letter dated 10 October 2024; ABF cover says received 10 Oct 2024.
+- **T1060** (2024-10-10, fact): ABF supervisors demand detailed DDE officer account; extraction on wife's phone cut short
+  - Confirms a DDE extraction (copy) of Vida's phone was under way and cut short, contradicting the 14 Oct 2024 ABF letter that no copies were made under s 186A.
+- **T1063** (2024-10-14, fact): ABF letter to Hammond Legal: no detention or seizure, no s 186A copies
+  - ABF denies detention, seizure and copying; Vida's affidavit paras 17 and 23 allege otherwise, and ABF internal emails record a DDE extraction cut short and paper documents copied or examined.
+- **T1064** (2024-10-16, fact): Home Affairs GFU closes Vida's complaint IMMI-24-32444 as resolved
+  - '7 October 2024' precedes the 9-10 Oct internal emails and the 14 Oct reply - probably a typo or template.
+- **T1066** (2024-10-18, fact): ART listings asks DP McMillan to hear 25 Nov stay hearing
+  - Reply dated 22 Oct 2024; request dated 18 Oct 2024 (adjacent dates merged).
+- **T1067** (2024-10-23, fact): Weeks & Co writes to ART seeking extension to 21 Nov for Vida's stay materials
+  - Letter says Weeks & Co act for Vida; registry note of 4 Nov 2024 (doc8 p24) records them as 'Applicant's new rep' (contact Charles Dallimore); Tom & Co (Monks) still copied on 5-6 Nov emails; Simon not expressly covered.
+- **T1069** (2024-10-23, contention): Hammond Legal second letter to ABF: Farmer, LPP schedule, demands return and apology
+  - Letter header date 8 Oct 2024 vs email 23 Oct 2024 (treat 23 Oct as send date); ABF email stamp 'Received Monday October 14, 2024 11:03 am' vs 13:57 elsewhere (display/timezone).
+- **T1070** (2024-10-24, fact): ART registry arranges hearing availability after Weeks & Co phone call
+  - Dickinson email dated 25 Oct; registry email 24 Oct (adjacent dates merged).
+- **T1071** (2024-10-25, fact): Vida lodges Home Affairs FOI FA 24/10/01764 on the ABF airport stop
+  - Request wording refers to a 'stop on 14th October 2024' (typo for ABF letter date); case label 'NDIA FOI' is a misnomer - decision is from Home Affairs.
+- **T1076** (2024-11-04, fact): Vida's representatives request extension to 14 Dec for medical-grounds stay submissions
+  - Earlier request (23 Oct) was for extension to 21 Nov 2024; this one is to 14 Dec 2024.
+- **T1077** (2024-11-04, fact): Registry creates TRACS entry for Weeks & Co as applicants' new representative
+  - Note is on file 2023/4494 (FFG) and says 'the Applicant's new rep'; whether Weeks & Co also acts for Simon is not stated (Weeks & Co confirmed appearance only for Vida and FFG on 12 Nov).
+- **T1085** (2024-11-14, fact): 14 Nov directions hearing before DP McMillan: stay timetable set, 25 Nov hearing vacated
+  - Severance decision para 18 and Respondent's stay submissions fn 9 say interlocutory hearing 'listed 13 Feb 2025' and omit Respondent dates; the direction itself says no earlier than 10 Feb 2025 with Respondent due 10 Jan and reply 24 Jan; Tom Monks's proposal (13 Nov) was Respondent 13 Jan, response 31 Jan.
+- **T1090** (2024-12-02, allegation): ABF Perth Airport emails that Simon's iPhone is ready for collection
+  - One affidavit rendering names the device 'iPhone 17' (apparent typo/OCR for iPhone 11).
+- **T1092** (2024-12-05, allegation): Former FFG staff Hayward and Bowers report NDIS investigator home visit
+  - Memo says 'late in 2024' (approx Dec); 5 Dec 2024 is only the forward date; agency attribution (NDIA vs Commission) not confirmed.
+- **T1096** (2024-12-16, fact): ATO requests FFG lodge SGC statements for Jul 2022 to Dec 2023 by 6 Jan 2025
+  - Letter in the release has no visible date (header redacted); 16 Dec 2024 comes from the Reasons for decision only.
+- **T1097** (2024-12-16, fact): ATO reduces additional charge and amends SGC assessments for Hybrid Hive
+  - Payment still shown as due 8 May 2024 on the notice; the objection by Hybrid Hive is not shown in the release; outcome after Feb 2025 not in binder.
+- **T1102** (2025-01, fact): Vida Reid affirms affidavit supporting FFG/Vida stay application
+  - E02192 says affirmed ~24 Jan 2025; E02224 (affidavit text) leaves the day blank ('January 2025') and notes the Tribunal's severance decision (30 Jul 2026, fn 1) states affirmed 24 Jan 2025; E02218 infers 21 Jan 2025 from file name '250121 - FINAL'; jurat date garbled in OCR ('Qu January 2025'); E02193 gives month only. Lodged 28 Jan 2025.
+- **T1104** (2025-01-07, unverified): Consent orders to withdraw drafted but never sent; Vida instructs to proceed with stay
+  - Source brief names 'Charles Weeks' in one rendering and 'Charles Dallimore' in another (Peter Weeks / Charles Dallimore per emails); scope date given as 'Dec 2024' vs 1 Dec 2024 start.
+- **T1106** (2025-01-07, fact): Vida emails lawyers: NDIS investigators inside Dulloo home
+  - Status: email itself is contemporaneous (fact); content about the visit is hearsay via the husband. Witness spelled Fanny-Dulloo vs Dulloo (same person). Time 01:41 UTC is before the 09:32 AWST-ish call times in the Dulloo timeline, so time zones/ordering unresolved.
+- **T1109** (2025-01-07, allegation): Maloney and colleague allegedly interrogate Virginie Dulloo at home, threaten prison
+  - Maloney's employer: 'NDIS' (affidavit), NDIA (AGS assumption / several records), Commission (Vida's 31 Oct 2025 email, revocation draft). Annotated submission describes it as a 'raid'/'home visit' vs call/questioning admitted by respondent. Arrival time not stated; E02203 time 09:00 approximate.
+- **T1113** (2025-01-17, fact): Weeks & Co reverses withdrawal, seeks stay extension; AGS agrees on condition
+  - Wording of who agreed on 21 Jan: 'Commissioner agreed by email' (AGS letter 11 Mar 2025) vs AGS (digest); same thing.
+- **T1120** (2025-01-28, contention): Vida, self-represented, emails stay application for herself and FFG
+  - Date: 28 Jan 2025 (AEDT header 3:38 AM) vs 27 Jan 19:38 UTC (digest). Affidavit affirmed 24 Jan (severance decision) vs 21 Jan (file name). Digest says filed 28 Jan. Vida's 'Paragraph 12' quote not found in AGS 29 Nov 2023 submissions (id 549); para 10 quote accurate in substance.
+- **T1121** (2025-02, fact): Tom & Co Legal ceases acting for Simon, Vida and FFG
+  - AGS emails of 3 Feb 2025 treat Tom Monks as still representing Simon; Monks emailed Simon as late as 10 Feb 2025 (ART 2023/3363). Exact cessation date unknown.
+- **T1123** (2025-02-03, fact): AGS tells Vida Commission may agree to stay; copies Tom Monks
+  - Date quoted as 2 Feb (UTC) vs 3 Feb (AWST/AEDT).
+- **T1124** (2025-02-04, contention): Vida complains of breach of privacy, seeks separation from Simon's matter
+  - Date: 4 Feb (email header 10:16 PM / 14:16 UTC; AGS Sept 2025 submissions; Tribunal orders) vs 5 Feb 2025 (AGS 11 Mar 2025 letter; E02253 inferred). Vida refers to Dickinson correspondence dated 28 Jan while AGS recital says 3 Feb. ABF detention date 26 Sep 2024 here vs 25 Sep 2024 in affidavit/Hammond letters. 'Paragraph 12' quote attributed to AGS 29 Nov 2023 submissions not found in those submissions. Digest notes Vida herself copied Tom & Co. Exposure register: Vida called AGS 'dishonest, unethical'.
+- **T1125** (2025-02-05, fact): Tom Monks confirms Simon agrees to stay of Vida's and FFG's applications
+  - Matrix places the Tom & Co thread at 6 Feb 2025; digest and AGS letter place Monks's confirmation on 5 Feb.
+- **T1131** (2025-02-13, fact): Interlocutory hearing 13 Feb 2025 adjourned over Vida's privacy complaint
+  - Vida's 13 Mar 2025 letter and 23 Sep 2025 submissions place the joint Tribunal call acknowledging the breach on 14 Feb 2025; AGS letter, Respondent submissions and the Tribunal's decision say the interlocutory/directions hearing was adjourned on 13 Feb 2025.
+- **T1135** (2025-03-01, contention): Commission/AGS says NDIA told it no current criminal investigation of Vida or FFG
+  - E02286 dates the inquiry 1 Mar 2025 (placeholder); source says 'March 2025'.
+- **T1138** (2025-03-11, contention): AGS letter: Commission refuses Vida's stay; NDIA says 'no current criminal investigation'
+  - Time stated as 07:06 UTC (digest, FOI p102) vs 15:06 AWST (same moment). Letter silent on Simon and on who at NDIA gave the information or when. Phrase 'no current criminal investigation' does not address non-criminal/compliance/fraud-intelligence activity.
+- **T1139** (2025-03-13, contention): Vida challenges scope of 'no current criminal investigation' statement
+  - AGS 19 Mar 2025 letter calls this 'your letter dated 14 March 2025'; document dated 13/03/2025; other header shows Friday 14 March 2025 2:59 AM (eastern time) = 13 Mar 11:59pm AWST. ABF date 26 Sep 2024 here vs 25 Sep 2024 elsewhere. Joint Tribunal call dated 14 Feb 2025 by Vida vs adjournment 13 Feb 2025 by AGS. Date of letter: 13 Mar (document, email header) vs 14 Mar 2025 (AGS 19 Mar letter, E02310/E02312/E02313 inferred); E02311/E02310 suspect duplicates of the same letter.
+- **T1141** (2025-03-18, simon_position): Simon's second complaint letter to AGS and ART, demands hearing date, threatens Federal Court
+  - ART Privacy refers to Simon's '18 Mar 2025' email; digest header 17 Mar 19:18 UTC; body dated 19 Mar.
+- **T1142** (2025-03-19, contention): AGS letter: 11 Mar letter 'confirmed the NDIA's position as was relayed'
+  - Files saved 21 Mar 2025 but letter dated 19 Mar 2025.
+- **T1145** (2025-03-31, simon_position): Simon opposes joint treatment, demands separate case (letter dated 25 Mar)
+  - Letter dated 25 Mar 2025 (digest lists 25 Mar), emailed 31 Mar 2025. SFIC filing date: 15 Jul 2024 here vs 1 Jul 2024 in Simon's 18 Feb email.
+- **T1146** (2025-04-02, contention): Vida replies to AGS 19 Mar letter quoting Leathem; model litigant
+  - Letter file named '19 March' (the AGS letter it answers); email header dated 2 Apr 2025; E02284 gave 'March 2025'. Quotes attributed to Sian Leathem not verified against the tender bundle and exposure register says quoted words are not in the review.
+- **T1152** (2025-05-09, fact): ART Registry proposes Vida-only telephone directions hearing, emailing Vida's former lawyer
+  - Time recorded as 13:19 (Vida's submission), 03:19 UTC (digest) and 15:19 (FOI p112); likely different time zones.
+- **T1159** (2025-06-06, fact): ART telephone directions hearing 6 June 2025; Commission investigator on the call
+  - Spoken directions (14 or 21 days; hearing 18 Aug) vs written directions (27 Jun 2025). Hearing date not in the transcript (inferred 6 Jun 2025 from Respondent submissions paras 19, 44). Spelling: Haywood/Hayward/Keren/Karen; Weston/Western. Transcripts are machine-generated or unofficial recording and contain errors; 'Ms Moore' = Julie Moore. Vida filed 16 Aug 2025 (7 weeks after 27 Jun deadline); 18 Aug hearing did not proceed as stated. Listings report time printed '1:00: PM', zone not stated.
+- **T1160** (2025-06-06, fact): Post-hearing: Registry asks about Teams; AGS sends draft Tribunal orders
+  - Header times inconsistent: Registry 4:06 PM AEST (=2:06 PM AWST), Dickinson 2:24 PM AWST (FOI doc 2 gives 16:23 for draft orders) - zone mix.
+- **T1169** (2025-08-16, contention): Vida files stay and severance application 'under protest'
+  - Cover email subject/footer says directed/served 'on the 6th July 2025' (actual direction 6 June 2025). Email timestamps 15 Aug 19:12 UTC vs 16 Aug 05:13 (AEST) - same send. Filed ~7 weeks after the 27 Jun deadline (and after 45-day extension request, which would run to ~29 Jul); the 18 Aug hearing date apparently moved. Later AGS (7 May 2026) refers to a 'severance application made by Mr Simon Reid' whereas the Tribunal records it as Vida's application with Simon's and FFG's supporting submissions. Severance decision of 30 Jul 2026 says stay later abandoned. Vida's quoted 'Paragraph 12' and Leathem wording in annexed letters not verified.
+- **T1175** (2025-09-01, fact): AGS acknowledges 1 Sep Direction, notes covering letter missing
+  - Timestamps inconsistent (forward 2:14PM before AGS email 16:08/16:09) - different time zones.
+- **T1178** (2025-09-05, fact): Directions hearing 5 Sep 2025 on Vida's stay application; Reids lack Teams link
+  - Hearing time inferred (10:00 AEST in digest vs 12:30pm AEST per Direction). DP statement about FFG authority is Vida's account only; orders dated 8 Sep (Respondent) and '5th September' per Vida.
+- **T1181** (2025-09-08, fact): ART Directions: Simon 10 Sep, Respondent 17 Sep, Vida reply 23 Sep, then on the papers
+  - Direction dated 5 Sep 2025 (unsealed first copy) vs 8 Sep 2025 (issued/corrected copy). First copy's reply date 'Tuesday 23 August 2025' is a typo for 23 September.
+- **T1183** (2025-09-17, contention): Respondent's stay and severance submissions opposing Vida: 'no current criminal investigation'
+  - Treats Simon as 'sole director of FFG' (cf. constitution memo of 6 Sep 2024 saying he was not a director). Para 56 'all parties were represented by the same lawyer' (Tom & Co also acting in the criminal case). Respondent says charges 'dropped' around Feb 2024 but AGS 28 Feb 2024 submissions treated proceedings as continuing (to check). 'Golden admission' quote at para 47 in Simon's drafts may be unreliable (earlier misquotes); pinpoint unverified as PDF has no text layer in one copy. Respondent's AGS-proposed dates (22 Sep) vs Tribunal's 17 Sep.
+- **T1184** (2025-09-23, contention): Vida files reply submissions: stay, severance, John Maloney, ABF records
+  - Filing date 23 Sep 2025 (file name, digest email 07:57 UTC); docx draft named 24 Sep 2025; user task brief references 23-24 Sep. The 'new application for a stay of the banning order' characterisation is AGS's. Health detail minimal; participant-privacy rule applied. Vida's assertions (Cassandra lied, John Maloney) unverified.
+- **T1186** (2025-10-19, fact): NDIA Fraud Investigations seizes devices at 96 Amethyst Crescent, Mount Richon (INV22-080)
+  - File name says 2025-12-24 and the task brief refers to a property seizure record; date inside the form decodes as 19/10/2025 (digits 'SZ0Z/0T/6T' rotated 180 degrees). Verify against the image.
+- **T1190** (2025-11-07, contention): Vida responds to 31 Oct directions: seeks pause, ABF and Maloney affidavits
+  - Document undated; date taken from the digest (7 Nov 2025). Direction referenced as 'dated 31 October 2025' but showing due date 29 Sep 2025 (clerical anomaly).
+- **T1199** (2025-12-20, fact): FFG banning order expires 20 Dec 2025
+  - Expiry time: 6pm 20 Dec 2025 (AGS letter 13 Feb 2026 / register) vs 12:00am 21 Dec 2025 AWST (Simon's filings, timeline CSV; v6 source check sheet 00497 and filing v2 notes show the inconsistency). Whether the register still listed it active (Simon, 13 Jan 2026) vs updated by Feb 2026 (AGS).
+- **T1205** (2026-02, simon_position): Simon drafts 'sequencing & separation' proposal: Simon first, Vida second, FFG last
+  - Face date 14 Mar 2025 vs internal references to Sep and Dec 2025 and file mtime 14 Feb 2026; likely Feb-Mar 2026. Not evidently filed.
+- **T1208** (2026-02-10, allegation): NDIA reportedly instructs plan manager not to pay FFG invoices
+  - Surname transcribed 'Holtz' in transcript; Nathan Halls (Nathan.Halls2@ndis.gov.au) appears in Jul 2022 NDIA email, so likely a transcription error. 10 Feb date inferred from 'yesterday' relative to inferred 11 Feb recording date.
+- **T1209** (2026-02-11, fact): Recorded call: plan manager Karen confirms NDIA no-pay instruction on FFG invoices
+  - Recording date inferred from filename; surname 'Holtz' vs Halls; Karen's organisation unidentified.
+- **T1210** (2026-02-13, fact): AGS letter: FFG ban expired 20 Dec 2025; invites withdrawal of 4494
+  - AGS ref 23001627 vs 23004627 (typo in one source); expiry time AGS 6pm 20 Dec 2025 vs Information Release/IR 12:00am 21 Dec 2025 AWST; sender stated as Dickinson vs sent by Craig Land.
+- **T1215** (2026-02-16, fact): ATO issues 8 FFG SGC notices of assessment: $57,592.96 plus $69,111.54 penalty
+  - Audit period stated variously: 1 Jul 2022-31 Dec 2023 (Reasons para 8) vs 1 Jul 2021-31 Mar 2025 (para 17). Date corrected from 11 Feb (payment due date) to 16 Feb 2026 (notice issue date).
+- **T1218** (2026-02-23, simon_position): Simon replies to AGS: declines to withdraw FFG application
+  - AGS ref 23001627 vs 23004627 in different documents.
+- **T1220** (2026-03-06, fact): Simon files Short Directions Submissions on severance and production (3363)
+  - Date: Tribunal and Simon's later submissions say 6 Mar 2026; Respondent says lodged 8 Mar; Gmail digest shows 8 Mar 09:30 UTC.
+- **T1221** (2026-03-06, simon_position): FFG Applicant's Position Statement for 20 Mar hearing (4494)
+  - Signed 6 Mar, emailed 8 Mar.
+- **T1223** (2026-03-08, simon_position): Vida files short directions submissions; drops stay, presses severance
+  - Tribunal lists Vida 8 Mar, Simon 6 Mar; Respondent says all lodged 8 Mar with additional submissions 8 and 9 Mar. Tribunal's 17 Mar email says Vida withdrew the interlocutory application (9 Mar), yet the 22 Apr 2026 email still treats severance as 'Ms Vida Reid's Application to Sever filed 16 August 2025'.
+- **T1224** (2026-03-09, fact): Vida withdraws her interlocutory (stay) application in 3361
+  - Registry email does not name which application; DP's 24 May 2026 note ('which document indicates she is now not seeking a stay?') implies the stay. Tribunal later (Apr-May 2026) still describes severance as Vida's application of 16 Aug 2025, an apparent inconsistency to check. Registry also cites 'additional submissions dated 8 and 9 March 2026' while AGS says 17 Sep 2025 and 19 Mar 2026.
+- **T1227** (2026-03-17, fact): ART Registry asks if severance can be decided on the papers
+  - Email says 20 March 2025 (should be 2026), flagged by Simon on 19 Mar. Earlier notes treated the 20 Mar hearing as heard on papers that day; the forum memo corrects: listing was vacated, not heard.
+- **T1228** (2026-03-19, fact): AGS Short Supplementary Submissions: admits Simon's documents omitted from tender bundle
+  - Contradicts AGS's earlier statements: 8 Aug 2023 letter (Simon's bundle contains documents relevant to him alone), 28 Feb 2024 submission ('1212 pages of relevant material'), 16 Jul 2024 registry email (single combined bundle), and para 18.1 claim that the 13 Jun 2024 bundle held 'all documents' required under s 23. Some extractors say Respondent opposes severance; another says it called severance unnecessary because Vida's stay was withdrawn. Later AGS letter (7 May 2026) calls the omissions 'inadvertent'. No Tribunal order fixing 10 Apr 2026 appears; the remediation did not occur by that date.
+- **T1231** (2026-03-19, fact): ART Registry vacates 20 Mar hearing; severance to be decided on papers
+  - Email misdescribes the Respondent's 'additional submissions dated 8 and 9 March 2026' (those were the applicants'; AGS says 17 Sep 2025 and 19 Mar 2026). Listings report still shows 20 Mar hearing; AGS 7 May letter says it 'did not eventuate'.
+- **T1233** (2026-03-20, fact): AGS asks ART to correct description of Respondent's submissions
+  - Date: 19 Mar 23:20 UTC per Gmail digest; 20 Mar 07:21 local per ART file.
+- **T1234** (2026-03-20, fact): 20 March 2026 interlocutory hearing vacated; did not eventuate
+  - Some work product says severance was 'heard on the papers 20 March 2026'; ART/AGS record the hearing was vacated/did not eventuate. Hearing described as 'Joinder application' although the live application was Vida's severance application. Short Directions Submissions dated 6 vs 8 Mar in different documents. Fresh Eyes memo notes captions from Sep 2025 read 'Reid / Superior Care Group Pty Ltd'.
+- **T1238** (2026-04-08, fact): NDIS Integrity and Safeguarding Act 2026 assented and commenced
+  - Act cited as 'NDIS Amendment (Integrity and Safeguarding) Act 2026' vs 'Integrity and Safeguarding Act 2026'; assent 8 Apr, commencement 9 Apr (consistent). One extract (Fresh Eyes memo s5.6) instead says the NDIS Amendment (Integrity and Safeguarding) Bill 2025 passed Parliament on 5 Jun 2026 (criminalising breach of banning orders; new s 73ZOA anti-promotion orders; commencement unverified); the Claude-verified legislation.gov.au record supports assent 8 Apr and commencement 9 Apr 2026.
+- **T1239** (2026-04-10, fact): AGS's proposed 10 April updated tender bundle date passes unmet
+  - Registry note of 8 May 2026 16:45 (doc 4 p96) says respondent 'was directed to file a revised tender bundle by 10 April 2026'; AGS says it was only a proposal; the file shows no such direction.
+- **T1243** (2026-04-21, simon_position): Simon chases AGS: no updated bundle, no disclosure statement, no Simon-specific brief
+  - Dated 20 Apr (UTC digest, AGS letter refers to 'email dated 21 April') vs 21 Apr local.
+- **T1246** (2026-05-07, fact): AGS letter supplies omitted bundle documents; withholds attachments incl. Project Archer
+  - Quoted date of Project Archer report is 18 August 2022 (quote field typo-corrected below). Section 70 application mis-numbers EC22-022103. Letter says the 20 Mar hearing 'did not eventuate' - it was vacated on 19 Mar.
+- **T1247** (2026-05-07, fact): AGS lodges s 70(2) ART Act application for non-disclosure orders over two LPP attachments
+  - Application cites briefing note 'EC22-022103' vs letter's 'EC22-002103' (typo).
+- **T1249** (2026-05-08, fact): ART Registry forwards AGS s 70 application to DP McMillan; notes 10 April direction
+  - Registry says Respondent was 'directed' to file a bundle by 10 Apr 2026; AGS says it was only a proposal and the file shows no such direction.
+- **T1250** (2026-05-12, fact): Registry asks parties to confirm the six severance submissions by COB 13 May
+  - Extractors dated this email variously 22 Apr-May, approximately 7 May; digest and AGS reply fix it at 12 May 2026 (06:21 UTC / 4:22PM AEST).
+- **T1251** (2026-05-12, simon_position): Simon seeks leave and files Supplementary Submissions on Severance
+  - docx mtime 12 May 2026; leave of the Tribunal not shown as granted in the file.
+- **T1254** (2026-05-13, simon_position): Claude deep-dive memo on individualised assessment and ultra vires variation
+  - Version label v2 vs v4; file notes severance as heard on the papers 20 Mar (hearing in fact vacated).
+- **T1259** (2026-05-19, fact): Parties tell ART severance to be determined on the papers (on or about 19 May)
+  - Vida's and Simon's consents to papers were given 19 Mar 2026; decision's 'on or about 19 May' wording may conflate the dates.
+- **T1262** (2026-05-19, simon_position): Simon files opposition to Respondent's s 70 non-disclosure application
+  - Cover email cited Mann v Carnell as (1999) 201 CLR 49; correct citation is 201 CLR 1. One extract garbled the filing date as '9 May'.
+- **T1263** (2026-05-19, fact): Simon lodges 3-page supplementary severance reply via ART portal
+  - Another extract attributes receipt ref 4MY6NN to the s 70 opposition; digest ties it to the supplementary severance submissions.
+- **T1265** (2026-05-27, allegation): Informal report that criminal matter is still live; Vida re-enters Australia
+  - Other FFG materials treat Vida as outside WA at 27 Jul 2026.
+- **T1270** (2026-05-29, simon_position): Strategic Reframe memo and sequenced strategy 'The Play'
+  - CDPP discontinuance date later resolved to 23 Feb 2024 by certified transcript (2 Jul 2026).
+- **T1275** (2026-06-05, fact): ATO garnishee notice to Westpac for $206,357.11 against FFG
+  - Garnishee amount $206,357.11 (FFG, binder) vs about $380k (FFG plus Hybrid Hive, counsel memo).
+- **T1286** (2026-06-14, planned): Draft request for severance decision and expedited timetable; mandamus memo
+  - Matrix v3 lists 'file expedition request (done 14 Jun)' - ambiguous whether sent; the only confirmed chase is the 24 Jun email. Severance was later decided 31 Jul 2026 (refused).
+- **T1288** (2026-06-24, simon_position): Simon's delay-chase to ART on two reserved decisions
+  - Digest misattributes portal ref 4MY6NN to the s 70 opposition (it was the supplementary severance filing).
+- **T1289** (2026-06-25, fact): Commission admits infringement listing error and amends Nurse Assist entry
+  - Reply dated 25 Jun (digest, FOI strategy) vs 26 Jun (Schedule v3).
+- **T1290** (2026-06-26, planned): Litigation Action Pack: FOI audit, FOI strategy and three-package master brief
+  - Memory files indicate the gap FOIs were lodged 3 Jul 2026 with outcomes in Aug 2026; the 2 Jul brief says the six 26 Jun FOIs were still unsent. The 6 Mar 2025 Commission FOI was drafted from Vida's Yahoo but never lodged per Gmail.
+- **T1296** (2026-07-02, simon_position): Brief to Legal Team: Tribunal first, closure instruments, Federal Court case in 2027
+  - Memory files say gap FOIs lodged 3 Jul 2026; brief of 2 Jul says six FOIs unsent.
+- **T1297** (2026-07-02, planned): Draft closure instruments: NDIA property demand, CDPP recharge letter, FOI, ADJR requests, counsel instructions
+  - Brief says property demand and reasons requests 'can go NOW'; CDPP letter only after severance ruling; no evidence any were sent.
+- **T1303** (2026-07-15, planned): Federal Court s 39B quash filing suite first settlement draft (unfiled)
+  - Draft Section L para 51(b) refers to 'dismissal and later recharging' whereas the 23 Feb 2024 transcript only records the Commonwealth's indicated intention to recharge and the CDPP recharge decision is unconfirmed. Draft date 15 Jul 2026; copies mtime 16 Jul and 23 Jul.
+- **T1305** (2026-07-15, simon_position): Counsel working papers: internal decision-record audit and opening-case schedule
+  - Notice of intention date 17 vs 19 Nov elsewhere; EC22-002103 'signed 17 November 2022' per this memo.
+- **T1311** (2026-07-23, planned): Federal Court s 39B filing brief (eLodgment verified) and renamed filing suite
+  - Memory notes say 'begins lodging' and elsewhere a 'mid-Oct trigger' for the s 39B suite; whether lodged is not confirmed.
+- **T1315** (2026-07-31, planned): Simon's draft Minute of Proposed Directions responding to decision para [41]
+  - Decision para 10 ban period vs IR notice; Simon's FFG directorship periods differ between the decision and other documents.
+- **T1319** (2026-07-31, fact): DP McMillan dismisses severance applications; matters to proceed jointly
+  - Decision date: file/attachment named 30 Jul 2026; face and registry email 31 Jul 2026. Cover page says original order of '19 September 2023' but joinder order is 19 Jul 2023 (paras 14, 31). Para 10 says Simon's ban operative to 22 Dec 2025 (internal review: 22 Dec 2027); para 11 dates FFG order 22 Dec 2022 (IR: 20 Dec 2022); orders cite '3023/4494'; para 35 'claims not provided' vs Respondent's 'participants have complained'. Para 4 says Simon held no FFG office 3 Jan 2021-1 Nov 2022 and was a Hybrid Hive director from 17 Feb 2022, whereas other documents show him FFG director/secretary in Jan/Mar 2023 and ceasing 12 Dec 2022. Vida's interpreter given as Bahasa Indonesia here vs Farsi on 20 Jan listing. Vida affidavit affirmed 21 vs 24 Jan 2025 (fn 1).
+- **T1320** (2026-08-14, contention): AGS files Proposed Minute of Order: bundle 28 Aug, SFICs from 25 Sep, hearing after 6 Nov
+  - Minute dated 12 Aug (review) or 14 Aug 2026 (other documents); served by email 14 Aug.
+- **T1321** (2026-08-14, fact): ART FOI decision 2026/1839: partial access, Project Archer refused
+  - Schedule lists exemptions for docs 2 and 4 as 47E(c),(d), 47F only, but reasons rely on s 42 LPP for document set 2.
+- **T1323** (2026-08-16, planned): Applicants' draft responses to AGS 14 Aug minute (16 Aug drafts, 17 Aug FINAL), never filed
+  - Memory notes say 'filed' for the counter-minute; the 2 Oct note says no email from Simon to the registry or AGS since 14 Aug 2026 - treat as NOT filed. Interpreter language: August drafts Bahasa Indonesia vs September drafts (v2-v6) Farsi.
+- **T1324** (2026-08-16, planned): KC-frame strategy memo, Strategic Issue List v2 and instructions to counsel
+  - FFG expiry stated 20 Dec 2025 here vs 21 Dec 2025 elsewhere.
+- **T1332** (2026-08-31, fact): ATO releases FOI documents for FFG (00901) and Hybrid Hive (00902)
+  - Decision date 31 Aug is file mtime, not a stated decision date; '31 identified, 2 refused' comes from Simon's own analysis, not a decision letter; schedule lists 29 documents. Hybrid Hive doc 29 corresponds to the 21 Aug 2023 ATO call, implying the call was on Hybrid Hive's account.
+- **T1334** (2026-09-01, simon_position): 'ATO FOI Releases - Deep Analysis' work product
+  - Analysis puts banning at 'mid-Nov 2022' but orders are dated 20-21 Dec 2022. HH tax agent Rohit Karwal (Active Tax) vs portal message naming Mahantesh Gaddi.
+- **T1335** (2026-09-01, planned): Draft holding letter to ART refusing AGS minute with s 39B notice (not sent)
+  - Draft says the minute was dated 14 Aug and served the same day (25 Sep review says dated 12 Aug); s 114 letter lists 'four' errors here vs 'five' in the 31 Jul draft.
+- **T1339** (2026-09-11, planned): Filing_v2 directions-response set prepared (unsigned, never filed)
+  - Email says Vida requested a Farsi interpreter whereas the August drafts say Bahasa Indonesia.
+- **T1351** (2026-09-25, simon_position): Defence Strategy: Proof of Delivery working document and matrix
+  - Benediktsson Hybrid invoices stated here as services 28 Mar-12 Jul 2022 (~$48k) vs an earlier record of 2 May-24 Aug 2022 (seven invoices).
+- **T1353** (2026-09-26, planned): Filing_v4 draft set and covering email (not sent)
+  - Decision date: v4 says dated 30 July 2026, sent 31 July; v5 onward say 31 July.
+- **T1354** (2026-09-27, simon_position): Review Pack v5: Gmail sweep, ART FOI file, transcripts and exposure
+  - v6 pack corrects three v5 statements.
+- **T1359** (2026-09-28, fact): AGS (Jake Langdon) emails refreshed minute dated 17 Sep
+  - Minute dated 17 Sep but emailed 28 Sep (per project note).
+- **T1371** (2026-10-13, planned): Deadline: OAIC review of ART FOI 2026.1839 (60 days from 14 Aug notice)
+  - Notice delivery date unconfirmed ('if it was given on 14 Aug; confirm from email to legal@ffg.net.au').
+- **T1372** (2026-10-23, planned): Respondent's supplementary tender bundle due (2 Oct direction Order 1)
+  - AGS 14 Aug proposal: 23 Oct = Respondent SFIC; 2 Oct direction: 23 Oct = supplementary tender bundle, Respondent SFIC 18 Dec.
+- **T1380** (2027-12-22, fact): Varied banning orders expire: Vida 21 Dec 2027, Simon 22 Dec 2027
+  - Decision [10] wrongly says 22 Dec 2025 for Simon; variation date given as 21 Apr or 22 Apr 2023 in different sources.
